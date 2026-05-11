@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="doc-1" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ar">شرح على آداب البحث والمناظرة</title>
+        <title type="alt" xml:lang="ar-Latn-x-dmg">Sharḥ ʿalā Ādāb al-Baḥth wa-al-Munāẓarah</title>
+        <title type="translated" xml:lang="en">Commentary on the Protocols of Inquiry and Debate</title>
+        <author ref="#person-birgivi">
+          <persName xml:lang="ar">تقي الدين محمد بن پير علي البركوي</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Taqī al-Dīn Muḥammad ibn Pīr ʿAlī al-Birgivī</persName>
+          <birth when="1522" calendar="#gregorian">
+            <date xml:lang="en">1522 CE</date>
+          <date xml:lang="ar" calendar="#hijri">٩٢٨هـ</date>
+          </birth>
+          <death when="1573" calendar="#gregorian">
+            <date xml:lang="en">1573 CE</date>
+            <date xml:lang="ar" calendar="#hijri">٩٨١هـ</date>
+          </death>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Argumentation Theory Open-Sources TEI-XML Repository</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          <p>This TEI file is shared for reuse under Creative Commons Attribution 4.0. The TEI encoding is designed for FAIR-compliant discovery, citation, and computational reuse.</p>
+        </availability>
+        <idno type="state-library" xml:lang="tr">Diyanet İşleri Başkanlığı Kütüphanesi</idno>
+        <idno type="state-library" xml:lang="en">Diyanet Manuscript Library</idno>
+        <idno type="shelfmark">4780-IV</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Turkey</country>
+            <settlement>Ankara</settlement>
+            <repository ref= "not found">Diyanet Manuscripts Library</repository>
+            <idno type="shelfmark">4780-IV</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <title xml:lang="ar">شرح على آداب البحث والمناظرة</title>
+              <title xml:lang="ar-Latn-x-dmg">Sharḥ ʿalā Ādāb al-Baḥth wa-al-Munāẓarah</title>
+              <title xml:lang="en">Commentary on the Protocols of Inquiry and Debate</title>
+              <note type="genre" xml:lang="en">Ultra-brief pedagogical digest or compressed commentary witness.</note>
+              <note type="content" xml:lang="en">The text condenses the duties of the debater, premise-objection, refutation, counter-proof, transition to a new proof, and the procedural reversal of roles between objector and claimant.</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <extent>1 folio (1 written side in the encoded primary witness)</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="nastaliq" xml:lang="ar">نستعليق</handNote>
+              <handNote script="nastaliq" xml:lang="en">Nastaʿliq:
+                <p>A flowing slanted script associated with Ottoman scholarly manuscript culture. In this witness it suits the compressed pedagogical layout of the text.</p>
+              </handNote>
+            </handDesc>
+            <condition>
+              <p xml:lang="en">No explicit deterioration or damage in the file.</p>
+            </condition>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="unknown">Unknown</origDate>
+            </origin>
+            <provenance>
+              <p>There is no explicit provenance information.</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p >The source file preserves two parallel transcriptions. The present TEI encodes only the cleaner primary witness, from the opening basmala to the closing phrase <q xml:lang="ar">وقس عل الى ان ينتهى</q>.</p>
+        <p >The second transcription, which restarts with a new basmala and exhibits dense OCR/HTR noise, is treated as an excluded duplicate witness rather than part of the edited body.</p>
+        <p >Lineation from the local edited transcription is represented by numbered <gi>lb</gi> elements. The English translation is aligned line-by-line to the encoded Arabic witness for research convenience.</p>
+        <p type = "information"> AI-assisted English translation for research use; it should be absolutely checked against the Arabic witness. </p>
+      </editorialDecl>
+      <projectDesc>
+        <p>This repository encodes a pilot corpus of early modern Arabic argumentation manuscripts in TEI-XML for manuscript description, semantic markup, and future corpus-scale DH analysis.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="persName" occurs="multiple"/>
+          <tagUsage gi="term" occurs="multiple"/>
+          <tagUsage gi="pb" occurs="multiple"/>
+          <tagUsage gi="lb" occurs="multiple"/>
+          <tagUsage gi="p" occurs="multiple"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+        <language ident="ar-Latn-x-dmg">Arabic transliteration (DMG-style)</language>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="local">
+          <term xml:lang="ar">آداب البحث</term>
+          <term xml:lang="ar">المناظرة</term>
+          <term xml:lang="ar">المناقضة</term>
+          <term xml:lang="ar">النقض</term>
+          <term xml:lang="ar">المعارضة</term>
+          <term xml:lang="en">ādāb al-baḥth</term>
+          <term xml:lang="en">munāẓara</term>
+          <term xml:lang="en">debate</term>
+          <term xml:lang="en">pedagogy</term>
+          <term xml:lang="en">mnemonic text</term>
+        </keywords>
+        <classCode scheme="genre">argumentation-theory</classCode>
+      </textClass>
+      <particDesc>
+        <listPerson>
+          <person xml:id="person-birgivi">
+            <persName type="short" xml:lang="ar">البركوي</persName>
+            <persName type="short" xml:lang="ar-Latn-x-dmg">al-Birgivī</persName>
+            <persName type="full" xml:lang="ar">تقي الدين محمد بن پير علي البركوي</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Taqī al-Dīn Muḥammad ibn Pīr ʿAlī al-Birgivī</persName>
+            <birth>
+              <date when="1523" calendar="#gregorian">1523</date>
+              <date when-custom="929" calendar="#hijri">٩٢٩هـ</date>
+            </birth>
+            <death>
+              <date when="1573" calendar="#gregorian">1573</date>
+              <date when-custom="981" calendar="#hijri">٩٨١هـ</date>
+            </death>
+            <idno type="VIAF">59888184</idno>
+            <idno type="ISNI">000000011571985X</idno>
+            <idno type="wikidata">Q167660</idno>
+            <idno type="LCNAF">n87844807</idno>
+          </person>
+           <person xml:id="person-prophet">
+           <persName xml:lang="ar">محمد</persName>
+          <persName xml:lang="en">Prophet Muhammad</persName>
+    </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <name type="repository">Diyanet Manuscripts Library</name>
+          <placeName>Ankara</placeName>
+        </setting>
+      </settingDesc>
+      <abstract>
+        <p xml:lang="en">A compressed Ottoman teaching witness that reduces debate theory to procedural roles, objection-types, response-types, and the logic of reversal between claimant and objector.Author style is markedly mnemonic and schematic.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="ar">
+        <div type="folio" n="1r">
+          <pb n="1r"/>
+          <p><lb n="1"/>بسم الله الرحمن الرحيم<lb n="2"/>الحمدلله رب العالمين والصلاةوالسلام على حبيبه <persName ref="#person-prophet" type="prophet">محمد</persName> وآله أجمعين وبعد فاعلم أن <term type="role">المناظر</term> إذا نقل طلب<lb n="3"/>الصحة فقط إن لم يعرفها وإن ادعاها فيجوز <term type="concept">الدليل</term> أو التنبيه كذلك فإن أتى به منع بعض مقدماته كلها مجردا أو مع <term type="concept">سند</term><lb n="4"/>فیسمئ يعرفها <term type="concept">مناقضة</term> و<term type="concept">نقضا تفصيليا</term> أو مع دليل فيسمى <term type="concept">غصبا</term> ففي قوله خلاف ودفعه باثبات المقدمة الممنوعة<lb n="5"/>أو نفي <term type="concept">السند</term> ب<term type="concept">الدليل</term> أو بالتنبيه إن أمكن وإلا فبالانتقال إلى دليل آخر عند البعض وإن عجز ف<term type="concept">الإفحام</term> أو منع <term type="concept">الدليل</term><lb n="6"/>استلزامه فسادا كالتخلف ونحوه فيسمى <term type="concept">نقضا إجماليا</term> فينقلب الحال فيصير <term type="role">الخصم</term> مدعيا و<term type="role">المناظر</term> سائلا فله<lb n="7"/><term type="concept">المناقضة</term> إن أمكن وإلا فله بالانتقال بلا انقلاب وإلا فحاله <term type="concept">الإلزام</term> أو منع المدلول بدلیل فيسمى <term type="concept">معارضة</term><lb n="8"/>فينقلب أيضا فله دفعه ب<term type="concept">المناقضة</term> إن أمكن وإلا فله بالانتقال دليل آخر من متبين اخر بلاانقلاب<lb n="9"/>اذولو كان من جنس الأول صار <term type="concept">معارضة</term> فلا يفيد عند <term type="tradition">الحنفية</term> إذ لا ترجيح عندهم بالأصل وكثرة الأجزاء<lb n="10"/>والأدلة وإنما هو بالوصف والقوة فإن عجز فله السكوت أو الاعتراف ثم في إثبات الممنوعة والانتقال<lb n="11"/>والانتقال للخصم <term type="concept">المناقضة</term> و<term type="concept">النقض</term> و<term type="concept">المعارضة</term><lb n="12"/>والاخيران <term type="concept">مناقضة</term> بالنسبة<lb n="13"/>ال الدليل لا بدّ من شاهد<lb n="14"/>وقس عل الى ان ينتهى</p>
+        </div>
+        <note type="editorial_information" xml:lang="en">The raw file then restarts with a second basmala and a noisier parallel witness. That duplicate transcription is documented in companion files but excluded from the main TEI body.</note>
+      </div>
+      <div type="translation" xml:lang="en">
+        <head>English Translation</head>
+        <div type="folioTranslation" n="1r">
+          <pb n="1r"/>
+          <p><lb n="1"/>In the name of God, the Compassionate, the Merciful.<lb n="2"/>Praise be to God, Lord of the worlds, and blessings and peace upon His beloved <persName ref="#person-prophet">Muhammad</persName> and all his family. After that, know that when the <term type="role">debater</term> merely transmits,<lb n="3"/>only verification is sought if it is not already known; but if he claims it as his own, then <term type="concept">proof</term> or indication is permitted. If, once he presents it, some or all of its premises are denied, whether merely or together with a <term type="concept">ground</term>,<lb n="4"/>that is called <term type="concept">contradiction</term> and also detailed <term type="concept">refutation</term>; but if it is with a proof, it is called <term type="concept">procedural usurpation</term>. There is disagreement about this term, and its rebuttal consists in establishing the denied premise,<lb n="5"/>or negating the <term type="concept">ground</term> by <term type="concept">proof</term> or by indication if possible; otherwise by moving to another proof according to some. If he is unable, then there is <term type="concept">silencing the proponent</term>. Or if one denies the <term type="concept">proof</term><lb n="6"/>on the grounds that it entails corruption, such as failure of entailment and the like, this is called summary <term type="concept">refutation</term>. Then the situation is reversed, so that the <term type="role">opponent</term> becomes the claimant and the <term type="role">debater</term> the questioner, and he may then use<lb n="7"/><term type="concept">contradiction</term> if possible; otherwise he may move to another proof without reversal. Otherwise his state is <term type="concept">compelling the opponent</term>. Or one may deny the conclusion by a proof, and this is called <term type="concept">counter-proof</term>.<lb n="8"/>Then the roles are reversed again, and he may repel it by <term type="concept">contradiction</term> if possible; otherwise he may move to another proof drawn from a different clarifying basis, without reversal.<lb n="9"/>For if it were of the same kind as the first, it would become <term type="concept">counter-proof</term> and would not avail according to the <term type="tradition">Hanafis</term>, since preference for them is not established by origin or by the multiplicity of parts<lb n="10"/>and proofs; rather, it rests on quality and strength. If he is unable, then he may remain silent or make an admission. Then, in establishing the denied premise and in transition,<lb n="11"/>the opponent in turn has <term type="concept">contradiction</term>, <term type="concept">refutation</term>, and <term type="concept">counter-proof</term>.<lb n="12"/>And the latter two are also a kind of <term type="concept">contradiction</term> relative<lb n="13"/>to the proof, for which a witness is required.<lb n="14"/>Apply analogy to this until the sequence reaches its end.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

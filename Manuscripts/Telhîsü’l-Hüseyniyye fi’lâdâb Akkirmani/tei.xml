@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="doc-4" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ar">تلخيص الحسينية في الآداب</title>
+        <title type="alt" xml:lang="ar-Latn-x-dmg">Talḫīṣ al-Ḥusaynīyah fī al-Ādāb</title>
+        <title type="translated" xml:lang="en">Epitome of al-Ḥusayniyya on the Protocols of Inquiry</title>
+        <author ref="#person-akirmani">
+          <persName xml:lang="ar">محمد بن الحاج حميد مصطفى الكفوي الأقكرماني الحنفي</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Muḥammad ibn al-Ḥājj Ḥamīd Muṣṭafā al-Kafawī al-Aqkirmanī al-Ḥanafī</persName>
+          <death when="1760" calendar="#gregorian">
+            <date xml:lang="en">1760 CE</date>
+          </death>
+          <death when="1760" calendar="#hijri">
+            <date xml:lang="ar">١١٧٤هـ CE</date>
+          </death>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Argumentation Theory Open-Sources TEI-XML Repository</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          <p>This TEI file is shared for reuse under Creative Commons Attribution 4.0. The TEI encoding is designed for FAIR-compliant discovery, citation, and computational reuse.</p>
+        </availability>
+        <idno type="state-library" xml:lang="tr">Diyanet İşleri Başkanlığı Kütüphanesi</idno>
+        <idno type="state-library" xml:lang="en">Diyanet Manuscript Library</idno>
+        <idno type="shelfmark">4027-XXXI</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Turkey</country>
+            <settlement>Ankara</settlement>
+            <repository ref = "not found">Diyanet Manuscripts Library</repository>
+            <idno type="shelfmark">4027-XXXI</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <title xml:lang="ar">تلخيص الحسينية في الآداب</title>
+              <title xml:lang="ar-Latn-x-dmg">Talḫīṣ al-Ḥusaynīyah fī al-Ādāb</title>
+              <title xml:lang="en">Epitome of al-Ḥusayniyya on the Protocols of Inquiry</title>
+              <note type="genre" xml:lang="en">Summary or talḫīṣ within the Ottoman debate-theory teaching tradition.</note>
+              <note type="content" xml:lang="en">The text classifies five argumentative states, enumerates the objection-types and reply-types proper to each, and closes with a distinct pedagogical section on how to read and study technical texts.</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <extent>4 folios, plus an uncertain appended fragment in the transcription witness in the last.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="naskh" xml:lang="ar">نسخي</handNote>
+              <handNote script="naskh" xml:lang="en">Naskhi</handNote>
+            </handDesc>
+            <condition>
+              <p xml:lang="en">No explicit deterioration or damage in the file.</p>
+            </condition>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="unknown">Unknown</origDate>
+            </origin>
+            <provenance>
+              <p>There is no explicit provenance information.</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p xml:lang="en">The TEI edition follows the edited four-folio transcription and preserves its concise organizational logic. Lineation from the local witness is represented by numbered <gi>lb</gi> elements.</p>
+        <p xml:lang="en">The final section of the transcription contains a short additional philosophical fragment after the dated colophon. This material has been retained as an editorially uncertain appendix because its relation to the copied talḫīṣ is not explicit in the source folder.</p>
+        <p xml:lang="en">The English translation is aligned line-by-line to the encoded Arabic witness for research convenience. The appendix translation remains cautious because the underlying text is heavily corrupt.</p>
+        <p type = "information"> AI-assisted English translation for research use; it should be absolutely checked against the Arabic witness. </p>
+      </editorialDecl>
+      <projectDesc>
+        <p>This repository encodes a pilot corpus of early modern Arabic argumentation manuscripts in TEI-XML for manuscript description, semantic markup, and future corpus-scale DH analysis.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="persName" occurs="multiple"/>
+          <tagUsage gi="term" occurs="multiple"/>
+          <tagUsage gi="pb" occurs="multiple"/>
+          <tagUsage gi="lb" occurs="multiple"/>
+          <tagUsage gi="p" occurs="multiple"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+        <language ident="ar-Latn-x-dmg">Arabic transliteration (DMG-style)</language>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="local">
+          <term xml:lang="ar">آداب البحث</term>
+          <term xml:lang="ar">المناقضة</term>
+          <term xml:lang="ar">النقض</term>
+          <term xml:lang="ar">المعارضة</term>
+          <term xml:lang="ar">التعريف</term>
+          <term xml:lang="ar">التقسيم</term>
+          <term xml:lang="en">ādāb al-baḥth</term>
+          <term xml:lang="en">munāẓara</term>
+          <term xml:lang="en">debate</term>
+          <term xml:lang="en">summary</term>
+          <term xml:lang="en">Ottoman commentary tradition</term>
+        </keywords>
+        <classCode scheme="genre">argumentation-theory</classCode>
+      </textClass>
+      <particDesc>
+        <listPerson>
+          <person xml:id="person-akirmani">
+            <idno type="local">person-akirmani</idno>
+            <persName type="short" xml:lang="ar">الأقكرماني</persName>
+            <persName type="short" xml:lang="ar-Latn-x-dmg">al-Aqkirmanī</persName>
+            <persName type="full" xml:lang="ar">محمد بن الحاج حميد مصطفى الكفوي الأقكرماني الحنفي</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Muḥammad ibn al-Ḥājj Ḥamīd Muṣṭafā al-Kafawī al-Aqkirmanī al-Ḥanafī</persName>
+            <death>
+              <date when="1760" calendar="#gregorian">1760</date>
+            </death>
+            <note> No authority records have been discovered. </note>
+          </person>
+          <person xml:id="person-copyist-muhammad-said">
+            <persName xml:lang="ar">محمد سعيد بن مصطفى الملقب بمدرس زادة</persName>
+            <persName xml:lang="en">Muḥammad Saʿīd ibn Muṣṭafā, called Mudarris-zada</persName>
+            <note> No authority records have been discovered. </note>
+          </person>
+          <person xml:id="person-al-sharif">
+            <persName xml:lang="ar">الشريف</persName>
+            <persName xml:lang="en">al-Sharif</persName>
+             <note> </note>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <name type="repository">Diyanet Manuscripts Library</name>
+          <placeName>Ankara</placeName>
+        </setting>
+      </settingDesc>
+      <abstract>
+        <p xml:lang="en">A later Ottoman summary that reorganizes disputation into five states, each with its proper objection-types and response-types. It closes with an extended methodological advice section on disciplined reading, making it both a procedural manual and a study guide.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="ar">
+        <div type="folio" n="1">
+          <pb n="1"/>
+          <p><lb n="1"/><title type="work">تلخيص علم الآداب لمولانا محمد الكفوي</title><lb n="2"/>بسم الله الرحمن الرحيم<lb n="3"/>حامداً لله على نعمائه، ومصلياً على سيد أنبيائه، وعلى الآل والأصحاب<lb n="4"/>وعلى الأزواج والأحباب، وبعد فيقول العبد السائل الفقير<lb n="5"/>إلى الله المحب القدير السيد <persName ref="#person-akirmani">محمد ابن الحاج حميد الكفوي</persName> غفر الله ولوالديه<lb n="6"/>بالنبي الهاشمي، هذه رسالة في الأدب لخصها من كتب هذا الباب<lb n="7"/>تحفة لبعض الأحباب وتذكرة لأولي الألباب اعلم أنك إذا قلت<lb n="8"/>بكلام فلك خمسة حالات حالة الدعوى بلا <term type="concept">دليل</term><lb n="9"/>وحالة الدعوة بالدليل وحالة <term type="concept">التعريف</term> وحالة <term type="concept">التقسيم</term><lb n="10"/>وحالة التقييد والتخصيص أما الحالة الأولى فالوظائف<lb n="11"/>الوجهة من الخصم ثلاثة <term type="concept">المناقضة</term> مجازاً لغوياً مطلقاً، و<term type="concept">النقض التشبيهي</term>،<lb n="12"/>و<term type="concept">المعارضة التقديرية</term>، فلك في الأولى إثبات مدعاك، إما بإقامة <term type="concept">الدليل</term><lb n="13"/>على صحته أو <term type="concept">تحريره</term> أو بإبطال <term type="concept">السند</term> لو وجد مساوياً وإبطال <term type="concept">المنع</term><lb n="14"/>وفي الأخيرتين منع مقدمتين والتحرير والنقصان التحقيقات<lb n="15"/>وسيأتي زيادة البيان والحالة الثانية فالوظائف الوجهة من<lb n="16"/>الخصم سبعة المناقضة حقيقية مطلقاً والمناقضة مجازاً<lb n="17"/>عقلياً والمناقضة مجازاً حذفياً و<term type="concept">الغصب</term> والمنع المجازي<lb n="18"/>اللغوي المتعلق بنفس الدليل على رأي و<term type="concept">النقض</term> و<term type="concept">المعارضة</term><lb n="19"/>والتحقيقان فلك في الثلاثة الأول إثبات مقدمتك<lb n="20"/>الممنوع إما بإقامة الدليل على صحتها أو بتحريرها أو بتحرير مدعاك<lb n="21"/>أو بإبطال سند الخصم إن وجد مساوياً وتغييرها والانتقال إلى<lb n="22"/>دليل آخر وإلى بحث آخر لغرض إبطال المنع إذا كان متعلقاً<lb n="23"/>بالمقدمة البديهية الجلبية والاستقرائية مجرداً أو المسلمة أو مقدمة<lb n="24"/>غير ملتزمة الصحة وأما منعه ومنع السند وتنويره فلا يسمع<lb n="25"/>قطعاً وفي الرابع الإثبات إما بالإقامة أو بالتحرير أو التغيير<lb n="26"/>والانتقال اتفاقاً ومنع مقدمته والنقض والمعارضة<lb n="27"/>والغصب على من جوزه وفي الخامس إثبات دليلك</p>
+        </div>
+        <div type="folio" n="2">
+          <pb n="2"/>
+          <p><lb n="1"/>إما بإقامة الدليل على صحة جميع المقدمات وعلى كل منها<lb n="2"/>أو على مقدمة معينة فإنه سكت الخصم فيها وإلا بل مقدمة أخرى<lb n="3"/>فتقيم على الأخرى وهكذا إلى ينتهي المقدمات وفي السادس<lb n="4"/>المنع الحقيقي وتغيير دليلك وتحريره وتحرير مدعاك<lb n="5"/>وتحرير المادة والنقض والمعارضة والغصب وفي السابع<lb n="6"/>المنع الحقيقي والتحريران وتغيير الدليل والنقصان التحقيقان<lb n="7"/>والغصب والمنع المجاز اللغوي وأما الحالة الثالثة فاعلم أولاً أن التعريف<lb n="8"/>على أربعة أقسام لفظي وتنبيهي وحقيقي واسمي والأولان<lb n="9"/>من المطالب التصديقية رأي والأخيران من التصورية<lb n="10"/>فالوظائف الوجهة عند الأولين <term type="concept">المناقضة</term> مجازاً لغوياً<lb n="11"/>و<term type="concept">المعارضة التقديرية</term> مطلقاً و<term type="concept">النقض الإجمالي</term> بشهادة فساد<lb n="12"/>وما شبيهياً أو تحقيقياً على اختلاف على اختلاف فلك في الكل مثل ما مر<lb n="13"/>مثله وعند الأخيرتين النقض شبيهياً أو تحقيقيا<lb n="14"/>فلك المنع الحقيقي والمجاز اللغوي والحذفي والنقض والمعارضة وتحرير التعريف<lb n="15"/>وتغييره وتحريف العرف ومادة النقض قبل الأحسن إن يجعل<lb n="16"/>هذه التحريرات الثلاثة أسانيد للمنوع وأما المنع والمعارضة<lb n="17"/>فلا يتوجه إلا إذا اعتبر الدعاوى الضمنية [فح] يجوز المنع المجاز اللغوي<lb n="18"/>والمعارضة التقديرية على تلك الدعاوى فلك في الأول<lb n="19"/>إثبات دعواك بالدليل أو بإبطال السند المساوي والتغيير<lb n="20"/>والتحريرات في الثاني المناقضة مطلقاً والنقضان التحقيقان<lb n="21"/>ووجوده التحرير والتغيير وقد يفهم من كلام <persName ref="#person-al-sharif">الشريف</persName> في <term type="discipline">شرح المواقف</term><lb n="22"/>أنه يجوز المعارضة بلا اعتبار دعوى بأنه يقول ما ذكرته في التعريف<lb n="23"/>معارضته بذلك التعريف فلك منع التعارض بالرسمية<lb n="24"/>أما الحالة الرابعة فالوظائف الموجهة من الخصم المنع المجاز اللغوي<lb n="25"/>مطلقاً والمعارضة التقديرية إذا اعتبرت الدعوى هذا<lb n="26"/>إذا كانت التقسيم من مطالب التصورية كما قيل وأما إذا كان</p>
+        </div>
+        <div type="folio" n="3">
+          <pb n="3"/>
+          <p><lb n="1"/>من التصديقية فلا حاجة إليه و<term type="concept">النقض الشبيهي</term> بخصوص الفساد<lb n="2"/>ومثل التداخل وعدم الحاصرية فلك في الأخيرتين النقصان<lb n="3"/>التحقيقان وتحرير القسم والأقسام وتغيير التقسيم اعتبارياً<lb n="4"/>ومنع الصغرى فقد ويجوز منع الكبرى أيضاً إذا كان التقسيم<lb n="5"/>اعتبارياً وفي الأول إثبات الدعوى بالإقامة وبالإبطال<lb n="6"/>أو بأحد التحريرين والتخييروأما الحالة الخامسة فتعلم الوظائف<lb n="7"/>الموجهة من الخسم ومنكسة بالمقايسة على ما سبق آنفاً وهذا الذي<lb n="8"/>بيناه إلى هنا من الوظائف هي الوظائف في الرتبة الأولى<lb n="9"/>وأما التي في الرتبة الثانية فتعلمها بالمقايسة على الأولى واعلم<lb n="10"/>أنه لا يخلو إما أن يعجز لمعلل عن الكلام ويسكت وذلك<lb n="11"/>هو <term type="concept">الإفحام</term> أو العجز السائل من التعرض للمعلل بشيء من الوظائف<lb n="12"/>المذكورة بأن ينتهي دليل المعلل مثلاً إلى مقدمة ضرورية القبول<lb n="13"/>أو مسلمة عند السائل تفطر إلى القبول وذلك هو <term type="concept">الإلزام</term> فح ينتهي المناظرة<lb n="14"/>فلنختم الباب في بيان أسلوب المطالعة الكتاب فاعلم أنك إذا شرعت<lb n="15"/>في المطالعة فانظر في البحث من أوله إلى آخره بنظر إجمالي بحيث<lb n="16"/>ينتقش في ذهنك المعنى ظاهراً ثم لاحظ الأمور التصورية والتصديقية<lb n="17"/>بدقة النظر واستبصر فيها هل يرد عليها من الأمور الفادحة أم لا وهل<lb n="18"/>يمكن دفعها أم لا فانظر أولاً في الألفاظ والمعاني وتدبر غاية التدبر في هذه<lb n="19"/>اللفظ موضوع لذلك المعنى أم يحتمل غيره وأنه لازم أو متعد وأنه<lb n="20"/>من أي باب وأنه صفة أو مضاف أو معرفة أو نكرة عام أو خاص<lb n="21"/>إلى غير ذلك وتأمل ثانياً في وجه التقديم والتأخير والمناسبة<lb n="22"/>وفي فائدة كل لفظ فانظرفي المتن والشرح واقصد أن الشارح من أي<lb n="23"/>عبارة المتن أخذتها والمعنى الذي ذكره واجتهد أن يجد معناً أو <term type="concept">نقضاً</term><lb n="24"/>أو <term type="concept">معارضة</term> فإذا نظرت على هذا الوجه فإما أن يجد شيئاً يدع<lb n="25"/>أو لا يدع أو لا تجد شيئاً أصلاً فذلك إما لكمال من جده وبينه<lb n="26"/>أو لقصورك فلا تفتر جدك فانظر إلى البحث الثاني أيضاً</p>
+        </div>
+        <div type="folio" n="4">
+          <pb n="4"/>
+          <p><lb n="1"/>على الوجه السابق في الثالث ثم في الرابع هكذا حتى ترتقي إلى مدارج<lb n="2"/>تمييز المقبول من المردود وتكون من المقبول والمردود والحمد لله على التمام<lb n="3"/>وعلى رسوله أفضل الصلاة والتحية والسلام وقد تم تلخيص<lb n="4"/>الحسينية في الآداب للسيد محمد الكفوي عن يد أضعف الخليقة<lb n="5"/>بل لا شيء في الحقيقة السيد <persName ref="#person-copyist-muhammad-said">محمد سعيد بن مصطفى المدعو بمدرس زادة</persName><lb n="6"/>عومل بالفلاح والسعادة في الاثنين من <date calendar="#Hijri">ربيع الأول</date><lb n="7"/>لسنة <date when-custom="1224" calendar="#hijri">أربعة وعشرين ومائتين وألف</date></p>
+        </div>
+      </div>
+      <div type="appendix" subtype="uncertain" n="A" xml:lang="ar">
+        <head>Editorially uncertain appended fragment</head>
+        <div type="folio" n="appendix">
+          <pb n="appendix"/>
+          <p><lb n="1"/>ببسم الله الرحمن الرحيم<lb n="2"/>فال بعض ان مدرك للکلّيات والجزئيات المجرّدة خوالنفس<lb n="3"/>المادّليل هوا قوي الج نیّت و صورها<lb n="4"/>الناطق وصور همافيها ولالجزئیّات<lb n="5"/>ِیهاو قال بعض الحققین منهاان المدرکب للکلّيت ولجزئيات مجرّدة<lb n="6"/>اوماّدة هوالعقل وصورها فيها ونسبت الاوراک الي فوا همامجاز عقلیّ<lb n="7"/>كسبت القطع الالسّکین وقال بعضهم ان مدرک الکل من الکلیات و الجزئيات<lb n="8"/>المجردّة او الاّ دة هاوالعقل لكن صورلکلّيات والجزئيات المجردّة<lb n="9"/>والّنفس وصورالجزييات يالجسما نيت فی الانها ووفع هنا ثالست هذا مسبب<lb n="10"/>والختارالاخبران والاوّل من الاخيران ارجع بشهادة الوجدانا علح<lb n="11"/>انّاه مر في المحّل الّذی الکلّيات ولا کان ذكرالمحلّ هوالنّفس<lb n="12"/>وفاقا ثبت ان محّل الکلّ هوانَّفس طال الحقّا هوالمذهب الاوّل<lb n="13"/>بشهادة ان الحيوانات مع کونها فا قرة للنفس المجرّدة مدرکت الجزئيّات<lb n="14"/>الحوست والعانى المنزعت منها قلات انهاحاسات الادرکات<lb n="15"/>ثمان من ادلت الذهب الاول ان الادراک نقیض ارتسام الدرک في الدرک</p>
+        </div>
+      </div>
+      <div type="translation" xml:lang="en">
+        <head>English Translation</head>
+        <note type="information">AI-assisted English translation for research use; it should still be checked against the Arabic witness.</note>
+        <div type="folioTranslation" n="1">
+          <pb n="1"/>
+          <p><lb n="1"/><title type="work">Epitome of the Science of Debate Etiquette by Mawlana Muḥammad al-Kafawī</title><lb n="2"/>In the name of God, the Compassionate, the Merciful.<lb n="3"/>Praising God for His favors, and blessing the master of His prophets, and the family and companions,<lb n="4"/>and the wives and beloved ones, after which the poor servant asks and says:<lb n="5"/>the one in need of God, the loving and mighty lord, <persName ref="#person-akirmani">Muḥammad ibn al-Ḥājj Ḥamīd al-Kafawī</persName>, may God forgive him and his parents,<lb n="6"/>through the Hashimite Prophet. This is a treatise in the discipline, abridged from the books of this field,<lb n="7"/>as a gift for some beloved friends and a reminder for those of sound understanding. Know that when you utter<lb n="8"/>a statement, you have five states: the state of a claim without a <term type="concept">proof</term>,<lb n="9"/>the state of a claim with proof, the state of <term type="concept">definition</term>, the state of <term type="concept">division</term>,<lb n="10"/>and the state of restriction and specification. As for the first state, the functions<lb n="11"/>directed from the opponent are three: <term type="concept">contradiction</term> in a purely linguistic figurative sense, <term type="concept">analogical refutation</term>,<lb n="12"/>and <term type="concept">hypothetical counter-proof</term>. In the first, your task is to establish your claim, either by setting up a <term type="concept">proof</term>,<lb n="13"/>by clarifying it, or by invalidating the <term type="concept">ground</term> if an equivalent one exists, and by invalidating the <term type="concept">objection</term>.<lb n="14"/>In the latter two, the text only sketches denial of two premises, clarification, and the two strict refutations,<lb n="15"/>and says that fuller explanation will come later. As for the second state, the functions directed from<lb n="16"/>the opponent are seven: contradiction in the real sense absolutely, contradiction in a figurative<lb n="17"/>intellectual sense, contradiction by ellipsis, <term type="concept">procedural usurpation</term>, and figurative objection<lb n="18"/>linguistically related to the proof itself according to one opinion, along with <term type="concept">refutation</term> and <term type="concept">counter-proof</term>.<lb n="19"/>As for the first three, your task is to establish your denied premise,<lb n="20"/>either by proving its soundness, by clarifying it, or by clarifying your broader claim,<lb n="21"/>or by invalidating the opponent's ground if it is equivalent, by altering it, and by moving to<lb n="22"/>another proof and even to another line of inquiry for the sake of invalidating the objection when it concerns<lb n="23"/>a self-evident, attractive, inductive, merely conceded, or otherwise non-binding premise.<lb n="24"/>But denying it, denying the ground, and illuminating it are in some cases simply not heard.<lb n="25"/>In the fourth case, establishment is by proof, clarification, or change,<lb n="26"/>and by transition by agreement, along with denial of its premise, refutation, and counter-proof,<lb n="27"/>and also procedural usurpation according to those who allow it. In the fifth, one establishes one's proof.</p>
+        </div>
+        <div type="folioTranslation" n="2">
+          <pb n="2"/>
+          <p><lb n="1"/>This is done either by proving the soundness of all the premises and of each one individually,<lb n="2"/>or of one specific premise; then if the opponent falls silent there, otherwise he moves to another premise,<lb n="3"/>and one answers that other one likewise until the premises are exhausted. In the sixth case there are<lb n="4"/>real denial, revision of your proof, clarification of it, and clarification of your claim,<lb n="5"/>along with clarification of the matter, refutation, counter-proof, and procedural usurpation. In the seventh,<lb n="6"/>there are real denial, the two clarifications, change of proof, and the two strict refutations,<lb n="7"/>as well as procedural usurpation and figurative linguistic objection. As for the third state, know first that definition<lb n="8"/>is of four kinds: lexical, indicative, real, and nominal. The first two<lb n="9"/>belong, according to one view, to assentive inquiries, whereas the latter two belong to conceptual inquiries.<lb n="10"/>Thus, the functions directed at the first pair are figurative linguistic <term type="concept">contradiction</term>,<lb n="11"/><term type="concept">hypothetical counter-proof</term> absolutely, and <term type="concept">summary refutation</term> through a witness of corruption,<lb n="12"/>as well as what is analogical or strict by disagreement. In all of these, the response resembles what has already passed.<lb n="13"/>As for the latter two kinds, they admit analogical or strict refutation.<lb n="14"/>Then you may answer with real denial, linguistic and elliptical figurative denial, refutation, counter-proof, and clarification of the definition,<lb n="15"/>together with modifying it, correcting customary usage, and attending to the material of the refutation. It is better if one makes<lb n="16"/>these three clarifications into grounds for the objection. As for denial and counter-proof,<lb n="17"/>they do not arise unless implicit claims are taken into account; then figurative linguistic denial is permitted,<lb n="18"/>as is hypothetical counter-proof directed at those implicit claims. In the first case,<lb n="19"/>you establish your claim by proof, by invalidating an equivalent ground, and by modification.<lb n="20"/>In the second, there are contradiction absolutely and the two strict refutations,<lb n="21"/>together with clarification and modification. It may be understood from the words of <persName ref="#person-al-sharif">al-Sharif</persName> in <term type="discipline">Sharḥ al-Mawāqif</term><lb n="22"/>that counter-proof is permissible without explicitly positing an implicit claim, when one says: what you gave in the definition<lb n="23"/>is opposed by that other definition. Then your reply is to deny the opposition by appeal to mere descriptiveness.<lb n="24"/>As for the fourth state, the functions directed from the opponent are figurative linguistic objection<lb n="25"/>absolutely, and hypothetical counter-proof if a claim is presupposed. This is<lb n="26"/>if division is treated as belonging to conceptual inquiries, as some have said; but if it belongs otherwise...</p>
+        </div>
+        <div type="folioTranslation" n="3">
+          <pb n="3"/>
+          <p><lb n="1"/>If it belongs to assentive inquiry, then there is no need for that distinction. There is also <term type="concept">analogical refutation</term> specifically through corruption,<lb n="2"/>such as overlap and failure of exhaustiveness. In the latter two cases there are the two strict refutations,<lb n="3"/>clarification of the division and its members, and changing the division by a notional basis.<lb n="4"/>One may deny the minor premise, and it is also permissible to deny the major when the division is<lb n="5"/>notional. In the first case, the claim is established by proof and by invalidation,<lb n="6"/>or by one of the two clarifications and by selection. As for the fifth state, learn its directed functions<lb n="7"/>and their inversions by analogy with what has preceded. What we have set out so far<lb n="8"/>are the functions of the first rank.<lb n="9"/>As for those of the second rank, learn them by analogy with the first. And know<lb n="10"/>that the matter is not free of two possibilities: either the proponent becomes unable to speak and falls silent, and that<lb n="11"/>is <term type="concept">silencing the proponent</term>; or the questioner becomes unable to confront the proponent by any of the functions<lb n="12"/>mentioned, because the proponent's proof ends, for example, in a premise that is necessarily accepted,<lb n="13"/>or conceded by the questioner so that he is forced to accept it, and that is <term type="concept">compelling the opponent</term>; then the debate ends.<lb n="14"/>Let us then close the chapter by explaining the method of studying a book. Know that when you begin<lb n="15"/>to study, look through the discussion from beginning to end with a global view so that<lb n="16"/>the apparent meaning becomes impressed upon your mind. Then examine conceptual and assentive matters<lb n="17"/>with precision of النظر, and test whether serious defects arise against them, and whether<lb n="18"/>they can be answered or not. First look into the words and meanings, and reflect deeply on whether this<lb n="19"/>expression is assigned to that meaning or might bear another, whether it is intransitive or transitive, and whether<lb n="20"/>it belongs to this or that grammatical class, whether it is an adjective, an annexed noun, definite or indefinite, general or specific,<lb n="21"/>and so forth. Then reflect secondly on precedence and postponement and on suitability.<lb n="22"/>Also consider the benefit of each word. Look in the base text and commentary, and determine from which<lb n="23"/>phrase of the base text the commentator took it, and what meaning he intended, and strive to find either a meaning or a <term type="concept">refutation</term>,<lb n="24"/>or a <term type="concept">counter-proof</term>. If you look in this way, then either you find something and leave it,<lb n="25"/>or you do not leave it, or you find nothing at all. That may be either because of the text's own strength and clarity<lb n="26"/>or because of your limitation; so do not let your effort weaken, but turn to the second discussion as well.</p>
+        </div>
+        <div type="folioTranslation" n="4">
+          <pb n="4"/>
+          <p><lb n="1"/>Proceed in the same way with the third, then the fourth, and so on, until you ascend to the degrees of<lb n="2"/>distinguishing the acceptable from the rejected, and become one who knows both the acceptable and the rejected. Praise be to God for completion,<lb n="3"/>and upon His Messenger be the best blessing, greeting, and peace. The epitome has been completed:<lb n="4"/>the Ḥusayniyya in the discipline by Sayyid Muḥammad al-Kafawī, through the hand of the weakest of creatures,<lb n="5"/>indeed of one who is nothing in reality, namely <persName ref="#person-copyist-muhammad-said">Muḥammad Saʿīd ibn Muṣṭafā, called Mudarris-zada</persName>,<lb n="6"/>may he be treated with prosperity and happiness, on Monday in <date calendar="#Hijri">Rabīʿ al-Awwal</date>,<lb n="7"/>in the year <date when-custom="1224" calendar="#hijri">1224 AH</date>.</p>
+        </div>
+        <div type="appendixTranslation" n="A">
+          <pb n="appendix"/>
+          <p><lb n="1"/>In the name of God, the Compassionate, the Merciful.<lb n="2"/>The appended note appears to begin: “Some said that the perceiver of immaterial universals and particulars is the soul...”<lb n="3"/>There follows a highly corrupt discussion of forms and their relation to cognition.<lb n="4"/>The wording remains too unstable for secure normalization.<lb n="5"/>A second opinion is then attributed to “some investigators” concerning the perceiver of universals and particulars.<lb n="6"/>The intellect is mentioned as the perceiver, and attribution is described as figurative.<lb n="7"/>Another view is then reported about the knower of universals and particulars.<lb n="8"/>The lines continue to contrast intellect, soul, and the forms of universals and particulars.<lb n="9"/>The wording is heavily damaged by transcription noise and remains uncertain.<lb n="10"/>The passage seems to prefer one of the reported views.<lb n="11"/>It then turns to the locus in which universals are present, apparently identifying that locus with the soul.<lb n="12"/>The first doctrine is described as the sounder one.<lb n="13"/>An argument is introduced from animals that perceive particulars despite lacking an immaterial soul in the strict sense intended here.<lb n="14"/>Sensible particulars and abstracted meanings are then mentioned in a very unstable line.<lb n="15"/>The fragment closes by referring to a further argument for the first doctrine, but the text is too corrupt for reliable full translation.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

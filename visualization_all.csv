@@ -1,0 +1,115 @@
+manuscript_folder,manuscript_title,entity_type,label_ar,label_en,folios,count,birth_hijri,death_hijri,birth_ce,death_ce,authority_or_note
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,أبو السعود الكواكبي,Abu al-Su'ud al-Kawakibi,1,1,1090,1137,1679,1724,https://tarajm.com/people/21743
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,أحمد طاشكبري زاده,Ahmad Taşköprüzade,"1,8",2,901,968,1495,1561,VIAF 36909919; ISNI 0000000119485835; LCNAF no88000627; Wikidata Q12221519
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,الإمام السمرقندي,Shams al-Din al-Samarqandi,"1,7",2,648~ ,709~ ,1250~,1310~,Wikidata Q2031579
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,النسفي,al-Nasafi,1,1,,,,,Referenced as an earlier authority in definition history
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,مسعود الرومي,Mas'ud al-Rumi,"1,2,3,6",4,,,,,Ottoman commentator cited repeatedly
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,الإمام الرازي,Fakhr al-Din al-Razi,"3,4",2,544,606,1149,1210,Referenced for ordering of objections
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,ركن الدين العميدي,Rukn al-Din al-Amidi,"4,5",2,,,,,Cited in debate over ghashb
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,أبو إسحاق الشيرازي,Abu Ishaq al-Shirazi,5,1,393,476,1003,1083,Legal-dialectical authority on naqḍ
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,person,ابن الحاجب,Ibn al-Hajib,8,1,570,646,1174,1249,Referenced on istifsar
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,آداب البحث,Rules of inquiry,1,3,,,,,Core discipline named in proem and definition
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,المناظرة,Debate,"1,2,3",9,,,,,Primary procedural concept
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,المنع,Objection,"2,6,7,8",45,,,,,Most frequent procedural move
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,المعارضة,Counter-proof / opposition,"2,3,4,6,7",20,,,,,Technical form of rebuttal
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,المناقضة,Contradiction,"3,4,6,7",14,,,,,Technical objection category
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,النقض,Refutation / counterexample,"4,5,7",17,,,,,Technical objection category
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,السند,Ground of objection,"4,6,7",18,,,,,Linked to admissibility of objection
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,الغصب,Procedural usurpation,"4,5,6",9,,,,,Improper seizure of the expositor's role
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,concept,الدوران,Concomitance,"7,8",2,,,,,Causal-indicative relation
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,المنطق,Logic,"1,4",3,,,,,Framework science for debate theory
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,أصول الفقه,Legal theory,1,2,,,,,Mixed discipline used for comparative rank
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,الفقه,Law,"1,5",4,,,,,Used in ranking proofs and examples
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,النحو,Grammar,1,2,,,,,Used in ranking proofs
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,التفسير,Qur'anic exegesis,1,1,,,,,Mixed discipline cited in classification of sciences
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,الحديث,Hadith,1,1,,,,,Mixed discipline cited in classification of sciences
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,discipline,الهندسة,Geometry,1,1,,,,,Ranked as strongest proof-discipline
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,place,حلب,Aleppo,header,2,,,,,Birth and scholarly career of al-Kawakibi
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,place,أنقرة,Ankara,header,1,,,,,Current repository location
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,textual_feature,قوله,Lemma-introducing citation cue,1-8,multiple,,,,,Signals return to base text under commentary
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,textual_feature,بسم الله الرحمن الرحيم,Opening basmala,1,1,,,,,Devotional opening
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,textual_feature,وصلى الله على سيدنا ومولانا محمد,Closing prayer,8,1,,,,,Colophon-like closing formula
+Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde,Al-Kawakibi Gloss on Taskoprizade,manuscript_feature,تضرر مائي,Water damage,"1,4,8",visible,,,,,Observed in PDF at lower and outer margins
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,person,أحمد طاشكبري زاده,Ahmad Taşköprüzade,header,1,901,968,1495,1561,VIAF 36909919; ISNI 0000000119485835; LCNAF no88000627; Wikidata Q12221519; WorldCat Entities ID E39PBJc7XRQ69dTDqKfDVC7j4q
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,person,أثير الدين الأبهري,Athir al-Din al-Abhari,appendix,1,595,663,1198,1265,Named only in the appended logic text excluded from the main TEI body
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,علم الآداب,Science of debate etiquette,1r,1,,,,,Programmatic label for the epitome
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,المناظرة,Debate,"1r,1v",5,,,,,Central definition and closing adab section
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,المناقضة,Contradiction,"1r,1v",3,,,,,Primary objection category of the questioner
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,النقض,Refutation / counterexample,1r,1,,,,,Objection directed to the proof itself
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,المعارضة,Counter-proof / opposition,"1r,1v",3,,,,,Objection directed to the conclusion
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,السند,Ground of objection,"1r,1v",2,,,,,Basis attached to objection
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,غصب,Procedural usurpation,1r,1,,,,,Improper seizure of the proponent's role before due proof
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,مكابرة,Obstinate denial,"1r,1v",2,,,,,Denial without admissible proof or witness
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,الإفحام,Silencing the proponent,1v,1,,,,,One formal outcome of debate
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,الاستفسار,Request for clarification,1v,1,,,,,Explicitly allowed before full understanding
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,السائل,Questioner,"1r,1v",4,,,,,One of the two operative roles in the debate procedure
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,المعلل,Proponent / expositor,1v,7,,,,,Role responsible for establishing the claim and responding to objections
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,concept,المجيب,Respondent,1r,1,,,,,Named in the opening alongside the questioner
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,discipline,المنطق,Logic,appendix,1,,,,,Appended Abhari text is a separate logic witness
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,place,أنقرة,Ankara,header,1,,,,,Current repository location
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,textual_feature,بسم الله الرحمن الرحيم,Opening basmala,"1r,appendix",2,,,,,Main treatise and appended logic text each begin with a basmala
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,textual_feature,ومن التوفيق وإلهام الصواب,Closing formula,1v,1,,,,,Marks the end of the encoded debate treatise
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,textual_feature,ايساغوجي,Isagoge cue,appendix,1,,,,,Confirms the appended logic fragment is not part of the adab text
+Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde,Taskoprizade Treatise on Debate,manuscript_feature,appendix logic fragment,Appended unrelated logic witness,appendix,1,,,,,Excluded from main TEI body but retained in the raw transcription file
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,person,السمرقندي,Shams al-Din al-Samarqandi,header,1,,702,,1303,VIAF 293067824; Wikidata Q2031579
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,person,أبو حنيفة,Abu Hanifa,5,1,80,150,699,767,VIAF 76322875; Wikidata Q161457
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,person,محمود بن رسول,Mahmud ibn Rasul,5,1,,,,,Named in the dated colophon of the witness
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,آداب البحث,Protocols of inquiry,1,1,,,,,Title discipline and programmatic frame of the treatise
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المناظرة,Debate,"1,3",2,,,,,Defined in the opening chapter and referenced again procedurally
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,الدليل,Proof,1-5,16,,,,,Most central procedural term in the text
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المستند,Ground of objection,1,1,,,,,Defined in the first chapter of technical terms
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المناقضة,Contradiction,1-2,4,,,,,Defined then used in procedural classification
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المعارضة,Counter-proof / opposition,1-5,8,,,,,Technical rebuttal category used in definitions and examples
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,النقض,Refutation / counterexample,1-5,7,,,,,Used both in definitions and case analysis
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المنع,Objection,1-5,6,,,,,Core act of the questioner
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,الدوران,Concomitance,1,1,,,,,Defined as causal concomitance
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,المؤثر,Efficient cause,2-3,4,,,,,Central to the cosmological example
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,الحوادث,Accidents / events,2-3,13,,,,,Repeated in the proof for the world's origination
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,الممكن,Possible / contingent,3-4,3,,,,,Used in anti-eternalist and anti-preference arguments
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,concept,واجب الوجود,Necessary Existent,4,2,,,,,Central theological-philosophical problem in chapter three
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,discipline,الكلام,Kalām / theology,4,2,,,,,Source domain of the first invented problem
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,discipline,الحكمة,Philosophy,4,2,,,,,Source domain of the second invented problem
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,discipline,الخلاف,Legal controversy / dialectic,4-5,2,,,,,Source domain of the third invented problem
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,place,أنقرة,Ankara,header,1,,,,,Current repository location
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,textual_feature,بسم الله الرحمن الرحيم,Opening basmala,1,1,,,,,Devotional opening formula
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,textual_feature,تمت الكتاب بعون الله,Closing completion formula,5,1,,,,,Colophon-style ending
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,textual_feature,سنة 1118,Dated colophon,5,1,,,,,Copy date recorded in the witness
+Risālat fī al-Ādāb al-Baḥth Al-Samarqandi,Al-Samarqandi Treatise on Adab al-Bahth,manuscript_feature,خط نسخي,Naskhi script,header,1,,,,,Script description follows project metadata
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,person,محمد,Prophet Muhammad,"1r,duplicate",2,,,,,Named in opening devotional formulas
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,person,البركوي,Birgivi,header,1,929,981,1523,1573,Author attribution follows project metadata for Birgivī
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,person,محمد بن واعظ بن وليحان,Muhammad ibn Wa'iz ibn Walyhan,duplicate,1,,,,,Noisy name in the duplicate witness; preserved as transmitted
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,المناظر,Debater,1r,2,,,,,Core actor in the compressed teaching text
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,المناقضة,Contradiction,1r,3,,,,,Primary objection form
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,النقض,Refutation / counterexample,1r,1,,,,,General invalidation of a proof
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,المعارضة,Counter-proof / opposition,1r,3,,,,,Opposition to the conclusion by contrary proof
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,غصب,Procedural usurpation,1r,1,,,,,Objection raised with a proof against a denied premise
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,الإفحام,Silencing the proponent,1r,1,,,,,One possible debate outcome
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,الإلزام,Compelling the opponent,1r,1,,,,,Opposite procedural outcome
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,السند,Ground of objection,1r,1,,,,,Used in classifying contradiction
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,concept,الخصم,Opponent,1r,1,,,,,Role reversal turns the opponent into claimant
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,tradition,الحنفية,Hanafis,1r,1,,,,,Cited on the issue of preference between proofs
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,place,أنقرة,Ankara,header,1,,,,,Current repository location
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,textual_feature,بسم الله الرحمن الرحيم,Opening basmala,"1r,duplicate",2,,,,,The raw witness preserves two parallel openings
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,textual_feature,وقس عل الى ان ينتهى,Analogical close,1r,1,,,,,Ends the primary witness by instructing extension through analogy
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,textual_feature,duplicate witness,Parallel second transcription,duplicate,1,,,,,Second half of the raw file is a noisier parallel witness excluded from the main TEI body
+Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî,Birgivi Commentary Witness,manuscript_feature,parallel transcription,Dual-witness source file,"1r,duplicate",1,,,,,Local transcription file preserves two overlapping versions
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,person,محمد الكفوي الأقكرماني,Muhammad al-Kafawi al-Aqkirmani,"1,4",2,,,,,Author as identified in the witness and project metadata
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,person,محمد سعيد بن مصطفى مدرس زادة,Muhammad Sa'id ibn Mustafa Mudarris-zada,4,1,,,,,Named in the dated colophon as copyist
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,person,الشريف,al-Sharif,2,1,,,,,Cited in connection with Sharh al-Mawaqif
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,المناقضة,Contradiction,1-3,6,,,,,Repeated throughout the taxonomy of opponent functions
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,النقض,Refutation / counterexample,1-4,10,,,,,One of the most frequent procedural categories
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,المعارضة,Counter-proof / opposition,1-4,10,,,,,Prominent across all five states
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,الغصب,Procedural usurpation,1-2,4,,,,,Listed among admissible or disputed objection-types
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,الإفحام,Silencing the proponent,3,1,,,,,Outcome when the proponent cannot continue
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,الإلزام,Compelling the opponent,3,1,,,,,Outcome when the opponent must concede
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,التعريف,Definition,2,5,,,,,Third major state of discourse
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,التقسيم,Division,2-3,4,,,,,Fourth major state of discourse
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,التحرير,Clarification / specification,1-3,7,,,,,Used as a recurrent answer-strategy
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,concept,السند,Ground of objection,1-2,3,,,,,Appears in response theory
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,discipline,الآداب,Protocols of inquiry,"1,4",2,,,,,Title discipline of the summary
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,discipline,شرح المواقف,Sharh al-Mawaqif,2,1,,,,,Commentarial authority cited in the definition section
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,place,أنقرة,Ankara,header,1,,,,,Current repository location
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,textual_feature,بسم الله الرحمن الرحيم,Opening basmala,"1,appendix",2,,,,,Main summary and uncertain appendix each open with a basmala
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,textual_feature,أسلوب المطالعة,Method of reading/study,3-4,1,,,,,Distinctive closing pedagogical section
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,textual_feature,colophon,Colophon with date,4,1,,,,,Copy completed in Rabi' al-Awwal 1224 AH
+Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani,Aqkirmānī Talhis al-Husayniyya,manuscript_feature,uncertain appendix,Editorially uncertain appended fragment,appendix,1,,,,,Retained in raw transcription and TEI appendix but treated separately from the main summary

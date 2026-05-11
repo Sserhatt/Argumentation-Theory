@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="doc-5" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ar">رسالة في آداب البحث</title>
+        <title type="alt" xml:lang="ar-Latn-x-dmg">Risālah fī Ādāb al-Baḥth</title>
+        <title type="translated" xml:lang="en">Treatise on the Protocols of Inquiry</title>
+        <author ref="#person-al-samarqandi">
+          <persName xml:lang="ar">شمس الدين محمد بن أشرف الحسيني السمرقندي</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Shams al-Dīn Muḥammad ibn Ashraf al-Ḥusaynī al-Samarqandī</persName>
+          <death when="1303" calendar="#gregorian">
+            <date xml:lang="en">1303 CE</date>
+            <date xml:lang="ar" calendar="#hijri">٧٠٢هـ</date>
+          </death>
+        </author>
+        <respStmt>
+          <resp>Include : TEI normalization, annotations, translation block, and analytical contextual markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Argumentation Theory Open-Sources TEI-XML Repository</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          <p>This TEI file is shared for reuse under Creative Commons Attribution 4.0. The repository is designed for FAIR-compliant discovery, citation, intellectual, and computational reuse.</p>
+        </availability>
+        <idno type="state-library" xml:lang="tr">Diyanet İşleri Başkanlığı Kütüphanesi</idno>
+        <idno type="state-library" xml:lang="en">Diyanet Manuscript Library</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Turkey</country>
+            <settlement>Ankara</settlement>
+            <repository ref="https://yazmaeserler.diyanet.gov.tr/details?id=12630&amp;materialType=YE&amp;query=%D8%B1%D8%B3%D8%A7%D9%84%D8%A9+%D9%81%D9%8A+%D8%B9%D9%84%D9%85+%D8%A2%D8%AF%D8%A7%D8%A8+%D8%A7%D9%84%D8%A8%D8%AD%D8%AB+%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9">Diyanet Manuscripts Library</repository>
+            <idno type="inventory">3251-XVI</idno>
+            <idno type="shelfmark">3251-XVI</idno>
+          </msIdentifier>
+          <msContents>
+            <summary xml:lang="en">A concise Arabic foundational treatise on <term xml:lang="ar-Latn-x-dmg">ādāb al-baḥth</term>. It defines core technical terms of disputation, orders the sequence of objection and response, and then tests the method through examples drawn from kalām, philosophy, and legal controversy.</summary>
+            <msItem n="1">
+              <author ref="#person-al-samarqandi">
+                <persName xml:lang="ar">السمرقندي</persName>
+                <persName xml:lang ="en"> al-Samarqandī </persName>
+              </author>
+              <title xml:lang="ar">رسالة في آداب البحث</title>
+              <title xml:lang="ar-Latn-x-dmg">Risālah fī Ādāb al-Baḥth</title>
+              <title xml:lang="en">Treatise on the Protocols of Inquiry</title>
+              <note type="genre" xml:lang="en"> One the foundational base texts in debate theory and history.</note>
+              <note type="content" xml:lang="en">The text defines  first of definition of debate, proof, sign, cause, condition, contradiction, refutation, and counter-proof; explains the procedural order of disputation; and concludes with test cases from theology, philosophy, and legal theory.</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <support xml:lang="en">Cream colorred watermarked paper; black and red inks.</support>
+                <extent>5 folio-level text blocks.</extent>
+                <layoutDesc>
+                  <layout >
+                    <p> TEI mark up body follows  text transcription's five folio-style divisions. Folios are in 53b-58a,  page size 210 × 150  written area approximately 150 × 70 mm.</p>
+                  </layout>
+                </layoutDesc>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="naskh" xml:lang="en">Naskhi book hand as described in project metadata in <code>arg_theory.js</code> .</handNote>
+            </handDesc>
+            <condition>
+              <p>Some of its leaves have darkened due to water stains.</p>
+            </condition>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate type="copied" when="1707" calendar="#gregorian" xml:lang="en">1707 CE</origDate>
+              <origDate type="copied" when-custom="1118" calendar="#hijri" xml:lang="ar">١١١٨هـ</origDate>
+            </origin>
+            <provenance>
+              <p >There is no explicitly provenance information. However, the copy preserved in this witness ends with a dated colophon by a scribe named Maḥmūd ibn Rasūl in 1118 AH.</p>
+            </provenance>
+          </history> 
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p >Annotation text follows the project plaintext witness and has been reorganized into five folio-based divisions. Blank lines in the source witness were preserved only at the level of line accounting in the companion annotation file and not encoded as empty textual nodes in the TEI body.</p>
+        <p>Readings were not silently normalized. Orthographic irregularities, compressed expressions such as <q xml:lang="ar">لا نم</q>, and local transcription  noise were preserved unless XML well-formedness required intervention. In other words, adherence to the original sources has been maintained. </p>
+        <p >Because the source text is a compact didactic treatise rather than a running commentary, semantic markup focuses on core technical terms, named persons, and section structure rather than repeated lemma cues.</p>
+        <p >English translation is a close research translation of the edited witness and remains intentionally concise where the Arabic text itself is compressed or procedurally elliptical. Translation was generated by AI. It definetely requires review to ensure complete accuracy.</p>
+      </editorialDecl>
+      <projectDesc>
+        <p>This repository encodes a corpus of early modern Arabic argumentation manuscripts in TEI-XML for manuscript description, semantic markup, and future corpus-scale DH analysis.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="persName" occurs="multiple"/>
+          <tagUsage gi="term" occurs="multiple"/>
+          <tagUsage gi="pb" occurs="multiple"/>
+          <tagUsage gi="lb" occurs="multiple"/>
+          <tagUsage gi="seg" occurs="occasional"/>
+        </namespace>
+      </tagsDecl> 
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+        <language ident="ar-Latn-x-dmg">Arabic transliteration (DMG-style)</language>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="local">
+          <term xml:lang="ar">آداب البحث</term>
+          <term xml:lang="ar">المناظرة</term>
+          <term xml:lang="ar">الدليل</term>
+          <term xml:lang="ar">المعارضة</term>
+          <term xml:lang="ar">المناقضة</term>
+          <term xml:lang="ar">النقض</term>
+          <term xml:lang="ar">الكلام</term>
+          <term xml:lang="ar">الحكمة</term>
+          <term xml:lang="ar">الخلاف</term>
+          <term xml:lang="en">ādāb al-baḥth</term>
+          <term xml:lang="en">dialectic</term>
+          <term xml:lang="en">debate theory</term>
+          <term xml:lang="en">base text</term>
+          <term xml:lang="en">logic-adjacent procedure</term>
+        </keywords>
+        <classCode scheme="genre">argumentation-theory</classCode>
+      </textClass>
+      <particDesc>
+        <listPerson>
+          <person xml:id="person-al-samarqandi">
+            <persName type="short" xml:lang="ar">السمرقندي</persName>
+            <persName type = "short" xml:lang ="en">al-Samarqandī </persName>
+            <persName type="full" xml:lang="ar">شمس الدين محمد بن أشرف الحسيني السمرقندي</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Shams al-Dīn Muḥammad ibn Ashraf al-Ḥusaynī al-Samarqandī</persName>
+            <death when="1303">
+              <date xml:lang="ar">٧٠٢هـ</date>
+              <date xml:lang="en">1303 CE</date>
+            </death>
+            <idno type="VIAF">293067824</idno>
+            <idno type="LCNAF">n89622149</idno>
+            <idno type="Wikidata">Q2031579</idno>
+            <note type="authority">Authority identification follows the same cluster used elsewhere in this repository for al-Samarqandī as author of the foundational debate treatise.</note>
+          </person>
+          <person xml:id="person-abu-hanifa">
+            <persName type="short" xml:lang="ar">أبو حنيفة</persName>
+            <persName type="short" xml:lang="en"> Abū Ḥanīfah </persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Abū Ḥanīfah al-Nuʿmān ibn Thābit</persName>
+            <birth when="699">
+              <date xml:lang="ar">٦٩٩هـ </date>
+              <date xml:lang="en">699 CE</date>
+            </birth>
+            <death when="767">
+              <date xml:lang="ar">٧٦٧هـ </date>
+              <date xml:lang="en">767 CE</date>
+            </death>
+            <idno type="VIAF">88126052</idno>
+            <idno type="ISNI">0000000115770954</idno>
+            <idno type="LCNAF">n82031776</idno>
+            <idno type="Wikidata">Q190896</idno>
+             <idno type="WorldCatEntities">E39PBJkMHhHfgDjbP39wTvxxDq</idno>
+          </person>
+          <person xml:id="person-mahmud-ibn-rasul">
+            <persName role = "copyist" xml:lang="ar">محمود بن رسول</persName>
+            <persName xml:lang="ar-Latn-x-dmg">Maḥmūd ibn Rasūl</persName>
+            <note type="authority" >Named in the colophon as the copyist or possessor of this witness; no external authority identifier found and supplied.</note>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <name type="repository">Diyanet Manuscripts Library</name>
+          <placeName>Ankara</placeName>
+        </setting>
+      </settingDesc>
+      <abstract>
+        <p xml:lang="en">This short manuscript preserves the most concise and foundational text in the argumentation commentary chain. It first establishes a compact technical lexicon of disputation, then maps the order of objection and reply, and finally demonstrates that method through three argumentative test cases regarding theology, metaphysics, and legal dialectic.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="ar">
+        <div type="folio" n="1">
+          <pb n="1"/>
+          <p><lb n="1"/>بسم الله الرحمن الرحيم <lb n="2"/> المنة علينا لواهب العقل <lb n="3"/> هذه رسالة في <term type="discipline">آداب البحث</term> يحتاج إليها كل متعلم لتكون محافظة له في البحث <lb n="4"/> من الضلالة وتسهل عليه طريق الفهم والتفهيم وهي إن كان متداولة بين <lb n="5"/> المحققين لكنها منظومة فيما كانت منظومة في سلك ومجموعة في عقد <lb n="6"/> أردت نظم منثورها وجمع مأثورها وهي مرتبة على ثلاثة فصول في التعريفات <lb n="7"/> وفي ترتيب البحث وفي مسائل اخترعتها <seg type="section">الفصل الأول: في التعريفات</seg> <term type="concept">المناظرة</term> <lb n="8"/> هي النظر بالبصيرة من الجانبين في النسبة بين الشيئين إظهاراً للصواب و<term type="concept">الدليل</term> <lb n="9"/> هو الذي يلزم من العلم به العلم بشيء آخر وهو المدلول والأمارة هي التي يلزم <lb n="10"/> من العلم بها الظن بوجود المدلول وما يتوقف عليه وجود الشيء إن كان <lb n="11"/> داخلاً فيه يسمى ركناً وإن كان خارجاً عنه فإن كان مؤثراً في وجوده يسمى <lb n="12"/> علة وإلا فشرطاً والعلة التامة هي جملة ما يتوقف عليه وجود الشيء <lb n="13"/> والتعليل هو تبيين علة الشيء والملازمة هي كون الحكم مقتضياً للآخر والأول هو <lb n="14"/> الملزوم والثاني هو اللازم و<term type="concept">الدوران</term> هو ترتب الشيء على الشيء الذي له صلوح <lb n="15"/> العلية إما وجوداً أو عدماً أو معاً الأول هو الدائر والثاني هو المدار و<term type="concept">المناقضة</term> <lb n="16"/> هي منع مقدمة الدليل و<term type="concept">المعارضة</term> هي إقامة الدليل على خلاف ما أقام الدليل <lb n="17"/> عليه الخصم و<term type="concept">النقض</term> هو تخلف الحكم المدعى عن الدليل والمستند ما يكون المنع <lb n="18"/> مبنياً عليه <seg type="section">الفصل الثاني: في ترتيب البحث</seg> إذا شرع المعلل في ترتيب الأقوال و<lb n="19"/> المذاهب فلا يتوجه عليه المنع لأن ذلك بطريق الحكاية إلا إذا انتهض بإقامة <lb n="20"/> الدليل على ما ادعاه فالسائل إما أن يمنعه في شيء أو لا يمنع فيه أصلاً فإن لم يمنع <lb n="21"/> فظاهر فإن منع فإما أن يمنع قبل تمام [دليله] وهذا إنما يكون على مقدمة من مقدمات <lb n="22"/> دليله أو يمنع بعد تمام دليله فإن منع مقدمة من مقدمات دليله فإما أن يقتصر <lb n="23"/> بمجرد المنع أو لم يقتصر فإن لم يقتصر فإما أن يقول المستند أو لم يقل والمستند كما نقول <lb n="24"/> لا نسلّم لم لا يجوز أن يكون كذا أو نقول لا نسلّم لزوم ذلك وإنما يلزم هذا أن لو كان كذا وذلك <lb n="25"/> هو <term type="concept">المناقضة</term> وإن لم يقل مستنداً بل يستدل بدليل على انتفاء تلك المقدمة <lb n="26"/> الممنوعة وذلك يسمى فصلاً وهو غير مسموع عند المحققين لاستلزامه الخبط <lb n="27"/> في البحث نعم قد يتوجه ذلك بعد إقامة المعلل الدليل على تلك المقدمة كما <lb n="28"/> سيأتي ذكره وإن منع بعد تمام الدليل فذلك على قسمين فإما أن لا يتم الدليل <lb n="29"/> بعد التمام بناء على تخلف الحكم عنه في شيء من الصور أو يسلم الدليل ويمنع المدلول <lb n="30"/> ويستدل بما ينافي ثبوت المدلول والأول النقض الإجمالي والثاني هو <term type="concept">المعارضة</term> فعلمنا <lb n="31"/> أن <term type="concept">النقض</term> إما تفصيلي وهو المناقضة المذكورة أو إجمالي</p>
+        </div>
+        <div type="folio" n="2">
+          <pb n="2"/>
+          <p><lb n="1"/>وتوجهه أن يقال ما ذكرتم من الدليل غير صحيح لتخلف الحكم عنه في تلك الصورة وأما <lb n="2"/> المعارضة فطريقها أن يقال ما ذكرتم وإن دل على ثبوت المدلول ولكن عندنا ما ينفيه <lb n="3"/> وإذا شرع في الدليل يصير المعلل ههنا كالسائل ثم بالعكس والمعارضة والنقض <lb n="4"/> الإجمالي هما أن يأتيان في مقدمة الدليل أيضاً وذلك بالنسبة إلى تلك المقدمة <lb n="5"/> يكون معارضة ونقضاً إجمالياً وبالنسبة إلى تمام الدليل مناقضة وبالقياس <lb n="6"/> إلى مجموع الدليل مناقضة على سبيل المعارضة وتفصيلياً على طريق الإجمال هذا <lb n="7"/> من طرف السائل وأما من طرف المعلل فإذا منع مقدمة من مقدمات دليله <lb n="8"/> فيلزم عليه دفعه إما بدليل أو تنبيه كما يقول العالم متغير لأنه نشاهد <lb n="9"/> التغيرات من الحركات والآثار المختلفة وإن أتى بدليل ثان فإما أن يمنعه <lb n="10"/> السائل أيضاً أو يسلم ذلك فإن منعه فالأقسام المذكورة يأتي فيه من <lb n="11"/> المناقضة والنقض وكذلك وإن أتى بدليل ثالث أو رابع فصاعداً حتى <lb n="12"/> ينتهي إما إلى إلزام المانع وإفحام المعلل لأن المعلل إن انقطع بالمنع والمعارضة <lb n="13"/> فحصل الإفحام وإلا فلا يخلو من أن ينتهي أدلته إلى أمر ضروري القبول أو لا ينتهي <lb n="14"/> فإن كان الأول يلزم الإلزام وإن كان الثاني يلزم الإفحام لأنه حينئذ إما تسلسل من طرف <lb n="15"/> المبدأ أو عجز المعلل عن إقامة الدليل والثاني ظاهر والأول محال وتقدير تسليمه <lb n="16"/> يلزم إفحام المعلل لأنه لا يمكن إثبات أمور لا نهاية لها تنبيه منع المقدمة <lb n="17"/> ولا يضر انتفاء تلك المقدمة مستلزماً للمطلوبة وجوابه أن يردد المعلل بأن <lb n="18"/> يقول إن كانت تلك المقدمة ثابتة يتم ما ذكرنا وإن لم يكن يلزم المدعى ولنمثل <lb n="19"/> بعض ما ذكرناه في توضيح إن شاء الله تعالى <quote type="example">مسألة العالم مفتقر إلى المؤثر</quote> <lb n="20"/> لأن العالم محدث وكل محدث فله مؤثر ينتج أن العالم له مؤثر فإن قيل لا نسلّم <lb n="21"/> أن العالم محدث فنقول لأن العالم متغير وكل متغير حادث وهذا دليل ثالث أما بيان <lb n="22"/> الكبرى فلأن كل متغير هو محل الحوادث وكل ما هو محل الحوادث لا يخلو عن الحوادث <lb n="23"/> وكل ما لا [يخلو] عن الحوادث فهو حادث ينتج أن كل متغير حادث وأما بيان كل متغير هو <lb n="24"/> محل الحوادث فهو أن التغير يكون من حالة إلى حالة وتلك الحالة حادثة وهي <lb n="25"/> قائمة بذلك المتغير محل لها فإن قيل لا نسلّم أن التغير من حال إلى حال أخرى حادث <lb n="26"/> لم لا يجوز أن يكون التغير بزوال أمر كان لا بحصول أمر ما كان فنقول لا يخلو من أن <lb n="27"/> يكون بحصول أمر ما كان أو بزوال أمر ما كان وعلى التقديرين هو محل للحوادث أما <lb n="28"/> الأول فظاهر وأما الثاني فلأن كونه عدمياً لا ينافي حادثيته ولا صفتيته فإذا <lb n="29"/> ثبت أن كل متغير هو محل الحوادث فنقول كل ما هو محل للحوادث فلا يخلو <lb n="30"/> عن الحوادث لأنه لا [يخلو] عن قابلية ذلك الحادث وقابليته لأنها مشروطة بإمكان</p>
+        </div>
+        <div type="folio" n="3">
+          <pb n="3"/>
+          <p><lb n="1"/>وجود الحادث وإمكان الحادث حادث لأن الحادث لا يمكن أن يكون أزلياً لأن الحادث <lb n="2"/> ما يكون العدم سابقاً عليه والشيء مع كون العدم سابقاً عليه لا يمكن <lb n="3"/> أن يكون أزلياً فإذا لم يكن في الأزل يكون إمكانه حادثاً وللسائل أن يقول هذا <lb n="4"/> إنما يلزم من أخذ الحادث مع شرط كونه حادثاً أما بالنظر إلى ذاته فلا وكيف <lb n="5"/> هذا لأنه يلزم أن ينقلب الشيء من الامتناع الذاتي إلى الإمكان الذاتي وهو <lb n="6"/> هذا <term type="concept">معارضة</term> بطريق المناظرة لأن توجهه أن يقال ما ذكرتم <lb n="7"/> وإن دل على حدوث إمكان الحدوث ولكن عندنا ما ينافيه وذلك لأنه إذا كان <lb n="8"/> كذلك يلزم الانقلاب وهو محال فإن خلص المعلل عن هذا الموضع نقول <lb n="9"/> إذا كان إمكانه حادثاً وتلك القابلية مشروطة بهذا الإمكان فيكون حادثة ثم <lb n="10"/> لا يخلو من أن تكون تلك القابلية من لوازم وجود المتغير أو لم تكن فإن كانت <lb n="11"/> فمن ثَمّ أنه لا يخلو عن الحوادث وإن لم تكن من لوازمه تكون عرضاً مفارقاً له <lb n="12"/> فقابلية لتلك القابلية أيضاً أمر حادث وهي إما أن تكون من لوازمه أو <lb n="13"/> لم تكن فإن كانت فثبت المطلوب وإن لم تكن فلذلك أيضاً قابلية فيلزم <lb n="14"/> التسلسل أو الانتهاء إلى قابلية لازمة والأول باطل فتعين الثاني و<lb n="15"/> كل ما لا يخلو عن الحوادث فهو حادث لأنه لو كان أزلياً لكانت الحوادث أزلية <lb n="16"/> وهو محال ولقائل أن يقول لا نسلّم أن ما لا يخلو عن الحوادث فهو حادث لم لا يجوز <lb n="17"/> أن يكون الشيء أزلياً وهو لا يخلو عن الحوادث بأن يكون كل حادث سابقاً على <lb n="18"/> الآخر لا إلى الأول ولئن سلّمنا ذلك ولكن عندنا ما ينفيه وذلك لأن كل ما لا بد له <lb n="19"/> من مؤثرية <term type="philosophical">الله تعالى</term> في إيجاد العالم إما أن يكون ثابتاً في الأزل أو لم يكن وهو مستلزم <lb n="20"/> للمحال فتعين الأول لأن كل ما لا بد منه لو لم يكن حاصلاً في الأزل يكون بعضه حادثاً فحينئذ <lb n="21"/> يلزم إما أن يكون الحادث قديماً أو لا وكلاهما باطلان لأن كل ما لا بد منه <lb n="22"/> في مؤثرية ذلك الحادث لا يخلو من أن يكون ثابتاً في الأزل أو لم يكن فإن كان يلزم <lb n="23"/> قدم ذلك الحادث لامتناع تخلف المعلول عن علته التامة كما سنبين وإن لم يكن فبعضه حادث <lb n="24"/> فيعود الكلام فيه كما في الأول فيلزم إما الدور أو التسلسل فإذا ثبت أن كل ما لا بد له <lb n="25"/> في المؤثرية حاصل في الأزل يلزم أزلية العالم لأنه إن كان حادثاً فاختصاص حدوثه بوقت <lb n="26"/> معين لا يخلو من أن يكون أمراً زائداً ما كان في الأول أو لم يكن فإن كان الأول يلزم أن <lb n="27"/> يكون كل ما لا بد له في الأزل حاصلاً وغير حاصل وهو خلف وإن كان <lb n="28"/> الثاني يلزم رجحان أحد جانبي الممكن لا بمرجح وهو محال فإن قال المعلل لا نسلّم أن <lb n="29"/> الترجيح بلا مرجح محال فذلك المنع مما لا يقال للسائل لأن السائل يقول لا يخلو <lb n="30"/> من أن ذلك محال أو لم يكن فإن كان فيتم ما ذكرنا وإن لم يكن فجاز وجود العالم <lb n="31"/> بدون المؤثر فبطل أصل دليلكم أن كل محدث فله مؤثر وجوابه ب<term type="concept">النقض</term> الإجمالي</p>
+        </div>
+        <div type="folio" n="4">
+          <pb n="4"/>
+          <p><lb n="1"/>كما نقول للمعلل ما ذكرتم غير صحيح بدليل التخلف في الحوادث اليومية وإذا ثبت <lb n="2"/> أن العالم محدث فنقول لكل محدث ممكن وكل ممكن فله مؤثر لامتناع ترجيح أحد طرفي <lb n="3"/> الممكن المساوي للطرف الممكن الآخر بلا مرجح فيصدق أن للعالم مؤثراً وهو المطلوب <lb n="4"/> <seg type="section">الفصل الثالث في المسائل التي اخترعها</seg> ويذكر ههنا ثلاث مسائل: الأولى من <term type="discipline">الكلام</term> <lb n="5"/> والثانية من <term type="discipline">الحكمة</term> والثالثة من <term type="discipline">الخلاف</term>. المسألة الأولى من الكلام: <term type="philosophical">واجب الوجود</term> <lb n="6"/> واحد أم لا لأنه لو كان اثنين فلا يخلو من أن يكون بينهما ملازمة أو لا يكون ولا <lb n="7"/> سبيل إلى شيء منهما فيلزم أن لا يكونا اثنين وإنما قلنا إنه لا يجوز أن يكون بينهما <lb n="8"/> ملازمة لأنه لو كان كذلك يلزم أن يكون بين الواجب وغيره علاقة وذلك لا يوجب <lb n="9"/> الاحتياج وعدم الملازمة أيضاً محال لأنه لو كان كذلك يلزم جواز الانفكاك وهو <lb n="10"/> محال وكذلك جوازه لأن جواز المحال محال وفيه منع لطيف وهو أن يقال إن عنيت بجواز <lb n="11"/> الانفكاك جواز الافتراق فلا نسلّم أن اللازم عدم الملازمة إذ قد يكون <lb n="12"/> بين الشيئين ملازمة مع ثبوتها بالضرورة كقولنا كما كان الإنسان حيواناً كان <lb n="13"/> موجوداً وإن عنيت به جواز ثبوت أحدهما بدون الآخر على معنى أنه يجوزالله تعالى <lb n="14"/> ثبوت أحدهما من غير احتياج إلى الآخر سواء كان الآخر ثابتاً أو لم يكن فذلك لازم <lb n="15"/> ولكن لم قلت إنه محال. المسألة الثانية من الحكمة: <term type="philosophical">واجب الوجود</term> يجب أن يكون <lb n="16"/> موجباً بالذات لأنه لو كان فاعلاً بالاختيار فلا يخلو من أن يكون فعله في الأزل <lb n="17"/> أو لم يكن وكل واحد منهما باطل فالقول بكونه فاعلاً بالاختيار باطل وإنما قلنا إن <lb n="18"/> كل واحد من القسمين باطل لأنه لو كان فعله أزلياً يلزم أحد الأمرين <lb n="19"/> الممتنعين وهو إما كون الأول حادثاً أو كون الفاعل موجباً مع الاختيار وذلك <lb n="20"/> لأنه لا يخلو من أن يكون له قصد وإرادة في ذلك الفعل أو لم يكن فإن كان يلزم <lb n="21"/> حدوث فعله وإن لم يكن يلزم كونه موجباً لا فاعلاً وأما إذا لم يكن <lb n="22"/> فعله جائزاً في الأزل فيكون ممتنعاً ثم صار ممكناً فيلزم انقلاب الشيء من <lb n="23"/> الامتناع الذاتي إلى الإمكان الذاتي وهو محال وجوابه أن يقال ما ذكرتم وإن دل <lb n="24"/> على ذلك لكن عندنا ما ينفيه وذلك لأنه لو كان موجباً يلزم الواجب معلولاً <lb n="25"/> لغيره أو جائز العدم وكل واحد منهما باطل وإنما قلنا ذلك لأنه لو كان موجباً <lb n="26"/> فلابد أن يكون معلوله الأول موجوداً معه فلا يخلو من أن يكون معلوله <lb n="27"/> الأول جائز العدم أو لا يكون فإن لم يكن يلزم أن يكون واجباً فيلزم أن يكون هو معلولاً <lb n="28"/> لغيره وإن كان جائز العدم وكلما كان المعلول جائز العدم كانت علته الموجبة <lb n="29"/> أيضاً كذلك لأن المعلول لازم لها وجواز عدم اللازم يوجب جواز عدم <lb n="30"/> الملزوم فيلزم أن يكون الواجب جائز العدم</p>
+        </div>
+        <div type="folio" n="5">
+          <pb n="5"/>
+          <p><lb n="1"/>فحينئذ تكون <term type="concept">المعارضة</term> في المعقولات ك<term type="concept">النقض</term> للدليل. المسألة الثالثة من علم <term type="discipline">الخلاف</term>: <lb n="2"/> قال الشارح الأب يملك إجبار البكر البالغة على النكاح خلافاً ل<persName ref="#person-abu-hanifa">أبي حنيفة</persName> <lb n="3"/> رحمه الله. لنا فيه أن إحدى الولايتين ثابتة وهي إما قبل الإجبار أو عند الإجبار <lb n="4"/> وأياً ما كان يلزم المطلوب وإنما قلنا إن إحدى الولايتين ثابتة لأنه لا يخلو من <lb n="5"/> أن يكون شمول الولاية للوقتين علة لأحد الشمولين مطلقاً أي شمول <lb n="6"/> الولاية وشمول عدمها أو لم يكن وأياً ما كانا يلزم إحدى الولايتين: أما إذا <lb n="7"/> كان علة فظاهر لأن شمول الولاية سواء كان محققاً أو لم يكن يلزم أحد الولايتين <lb n="8"/> وإن لم يكن علة فكذا لأن علية مدار النقيض شمول العدم وجوداً وعدماً <lb n="9"/> فينعكس لأنه لو ثبت شمول الولاية أو الافتراق بين الولايتين ثبت <lb n="10"/> نقيض شمول العدم فيلزم نقيض العدم لأن العلية إذا كانت ثابتة كان <lb n="11"/> نقيض شمول العدم ثابتاً فعند عدمها يجب أن يكون ثابتاً في الجملة وإلا كانت <lb n="12"/> العلية مداراً له وجوداً وعدماً وإذا ثبت نقيض شمول العدم <lb n="13"/> فإما أن يصدق شمول الولاية وأياً كان يلزم إحدى الولايتين وهو <lb n="14"/> المطلوب فإن قيل نسلّم أن العلية ليست مداراً في نفس الأمر لكن <lb n="15"/> لم قلتم إنها كذلك على تقدير عدم علية شمول الولاية لا يجوز أن يكون <lb n="16"/> ذلك التقدير محالاً وفي المحال جاز أن يستلزم المحال فنقول هذا المنع لا <lb n="17"/> يضرنا لأنه لو كان كذلك التقدير ثابتاً في نفس الأمر فيتم ما ذكرنا وإن لم <lb n="18"/> يكن يلزم العلية ومتى ثبتت العلية حصل المقصود كما مر. تمت الكتاب بعون الله <lb n="19"/> الملك الوهاب في يد عبد الضعيف <persName ref="#person-mahmud-ibn-rasul" role = "copyist">محمود بن رسول</persName> غفر الله له ولأستاذه <lb n="20"/> ولوالديه وللمؤمنين والمؤمنات والمسلمين <lb n="21"/> والمسلمات الأحياء منهم <lb n="22"/> والأموات <lb n="23"/> سنة <date when-custom="1118" calendar="#hijri">١١١٨</date></p>
+          <note type="colophon" xml:lang="en">Dated colophon naming Maḥmūd ibn Rasūl and closing with a prayer for the believers.</note>
+        </div>
+      </div>
+      <div type="translation" xml:lang="en">
+        <head>English Translation</head>
+        
+        <div type="folioTranslation" n="1">
+          <p><lb n="1"/>In the name of God, the Compassionate, the Merciful. <lb n="2"/>Grace belongs to the giver of intellect. <lb n="3"/>This is a treatise on the protocols of inquiry, needed by every learner so that it may protect him in debate from error and make easy for him the path of understanding and explanation. <lb n="4"/>Though the material has circulated among investigators, the author says he has arranged what was scattered and gathered what was dispersed. <lb n="5"/>The treatise is organized into three chapters: definitions, the order of disputation, and a set of invented problems. <lb n="6"/>The first chapter defines the core terms of the discipline: debate, proof, sign, constituent, cause, condition, complete cause, causal explanation, entailment, concomitance, contradiction, counter-proof, refutation, and the ground on which an objection rests.</p>
+        </div>
+        <div type="folioTranslation" n="2">
+          <p><lb n="1"/>The second folio explains the procedure of debate. <lb n="2"/>Mere report of positions does not invite objection until the proponent begins to prove his claim. <lb n="3"/>Objection may target a premise before the proof is complete or the conclusion after completion. <lb n="4"/>The folio distinguishes bare denial, denial with a stated ground, inadmissible premature proof against a premise, general refutation, and counter-proof. <lb n="5"/>It then describes the reciprocal sequence of proof and objection and says disputation ends either by compelling the objector or by silencing the proponent. <lb n="6"/>A worked example follows: the world needs an efficient cause because it is originated, and it is originated because it is mutable and every mutable thing is a locus of accidents.</p>
+        </div>
+        <div type="folioTranslation" n="3">
+          <p><lb n="1"/>The third folio extends the worked example. <lb n="2"/>It argues that the possibility of an accident is itself originated and records objections against that move, especially the charge that it implies a transition from essential impossibility to essential possibility. <lb n="3"/>The proponent then attempts to escape by tracing receptivity and its conditions, while the opponent presses the argument toward regress, contradiction, or the eternity of the world. <lb n="4"/>The discussion culminates in the principle that preference without a preferrer is impossible, while also showing how a questioner can attack the proponent's original premise that every originated thing must have a cause.</p>
+        </div>
+        <div type="folioTranslation" n="4">
+          <p><lb n="1"/>The fourth folio closes the cosmological example and opens the third chapter, which contains three test problems. <lb n="2"/>The first, from theology, asks whether the Necessary Existent can be more than one. <lb n="3"/>The second, from philosophy, argues that the Necessary Existent must act by essential necessitation rather than by voluntary choice, because otherwise one would face either eternal volition, originated action, or an impossible shift from essential impossibility to essential possibility. <lb n="4"/>A counter-proof then argues that such necessitation would make the Necessary Existent either dependent or open to nonexistence, both of which are unacceptable.</p>
+        </div>
+        <div type="folioTranslation" n="5">
+          <p><lb n="1"/>The final folio states that counter-proof in rational matters functions much like refutation of a proof. <lb n="2"/>It then turns to a problem from legal dialectic concerning whether a father may compel an adult virgin into marriage, against the position associated here with Abu Hanifa. <lb n="3"/>The argument proceeds through a dilemma about two forms of guardianship and whether their scope is causally grounded. <lb n="4"/>The treatise ends with a colophon: the copy was completed, with God's help, by the weak servant Mahmud ibn Rasul, who asks forgiveness for himself, his teacher, his parents, and all believing men and women. <lb n="5"/>The copy is dated 1118 AH.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

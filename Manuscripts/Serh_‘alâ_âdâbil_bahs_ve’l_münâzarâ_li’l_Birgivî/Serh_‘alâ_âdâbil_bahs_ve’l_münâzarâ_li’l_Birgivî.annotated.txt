@@ -1,0 +1,36 @@
+line_no	text	annotation
+1	بسم الله الرحمن الرحيم	Opening basmala.
+2	الحمدلله رب العالمين والصلاةوالسلام على حبيبه محمد وآله أجمعين وبعد فاعلم أن المناظر إذا نقل طلب	Opening praise and transition to debate procedure.
+3	الصحة فقط إن لم يعرفها وإن ادعاها فيجوز الدليل أو التنبيه كذلك فإن أتى به منع بعض مقدماته كلها مجردا أو مع سند	If one merely transmits a view, only verification is sought; if one claims it, proof or indication is required.
+4	فیسمئ يعرفها مناقضة ونقضا تفصيليا أو مع دليل فيسمى غصبا ففي قوله خلاف ودفعه باثبات المقدمة الممنوعة	Premise-denial is classified as munaqada; proof against the premise is called ghasb.
+5	أو نفي السند بالدليل أو بالتنبيه إن أمكن وإلا فبالانتقال إلى دليل آخر عند البعض وإن عجز فالإفحام	The proponent answers by proving the premise, negating the ground, or shifting to another proof; failure yields ifham.
+6	استلزامه فسادا كالتخلف ونحوه فيسمى نقضا إجماليا فينقلب الحال فيصير الخصم مدعيا والمناظر سائلا	Showing corruption in the proof counts as general naqd and reverses roles.
+7	المناقضة إن أمكن وإلا فله بالانتقال بلا انقلاب وإلا فحاله الإلزام أو منع المدلول بدلیل فيسمى معارضة	The questioner may respond by munaqada, transition, ilzam, or mu'arada.
+8	فينقلب أيضا فله دفعه بالمناقضة إن أمكن وإلا فله بالانتقال دليل آخر من متبين اخر بلاانقلاب	Mu'arada also reverses the roles and can be answered by contradiction or a new proof.
+9	اذولو كان من جنس الأول صار معارضة فلا يفيد عند الحنفية إذ لا ترجيح عندهم بالأصل	A proof of the same kind would merely reproduce opposition and, in Hanafi framing, would not decide the matter.
+10	والأدلة وإنما هو بالوصف والقوة فإن عجز فله السكوت أو الاعتراف ثم في إثبات الممنوعة	Preference comes from quality and strength, not from multiplicity alone.
+11	والانتقال اللحصم المناقضة والنقض والمعارضة	In premise-proof and transition, the opponent again gains the standard objection-types.
+12	والاخيران مناقضة بالنسبة	The final two are relative classifications within the argumentative structure.
+13	ال الدليل لا بدّ من شاهد	Refutation at the level of proof requires a witness/sign.
+14	وقس عل الى ان ينتهى	The reader is told to extend the pattern analogically.
+15		The source line is blank.
+16	بسم الله الرحمن الرحيم	A second basmala marks the start of a parallel or duplicate witness.
+17	الحمد لله الذى افحم المعللّين بالاسانيد المتلين والصلوة والسلام على من ا لزم السائلين بالكتاب	Devotional opening of the duplicate version with more corruption.
+18	المبین وعلی ال واصحاب الدلائل الى اعلی علییّین وبعدفیقول الحقیر المرعشى محمدبن واعظ بن	The duplicate witness names a poor copyist or adapter in corrupt form.
+19	وليحان المفتقرالى رحمة ربه الملك لمنّا ن هده زبرة لمناظرة وهى المدافعة لاظهارالصواب	It defines debate as disputation for showing correctness.
+20	اعنی دفع السائل قول المعلّل وبالعكس قوصيفة السائل فی الصريقات ثمان للمنع وهوطلبالدليل	The questioner's function is restated, with heavy OCR/HTR noise.
+21	على مقدمة الدليل مجرّدا اومع سندمساولنقيضء الممنوعة اواخص منه مطلقافوضيقه	The duplicate text continues the taxonomy of denial with noisy wording.
+22	المعلل هنا اشات الممنوعة بدلیل اوبابطل السندالمساوى اوالانتقال الى دلیال آخروالنقض	The proponent's answer again includes proving the premise or invalidating the ground.
+23	وهوابطال الدليل بشاهدالتخلّف اوالاستحالة فوضفة المعلل المنع اوالانتقال والمعارضة	Naqd is described as invalidating proof through failed entailment or impossibility.
+24	وهوابطالاالمطلوب للمدلل باثبات خلافه فوضفة المعلاالمنع اوالنقض اوالاتقال والمنع	Mu'arada is defined as proving the opposite of the sought conclusion.
+25	المجاز العقلى وهو طلب دليل على المطلوب المدلل مريدامعدمة دليل ولمنع	The text shifts to figurative or extended forms of denial.
+26	المجازالحذ فى وهو صلب دليل على المطالمدلل مريدا مقدمة دليل تقـدرها في العبارة قوضفة	A deletion-based figurative denial is described in corrupt wording.
+27	المعلل فيهما كما في المنع الحقيقى والمنع المجلز اللغوي هوطلب دليل عل المط البحص دواذاكان بقيد لفظ المنع محقيقت فوضقت	The proponent's duties in these figurative denials parallel the real denial.
+28	المعلل الاشـات ونقض الشبیهیّ وهوابطالالمطلوب المجّردبدليل فوضفة	Shabihi-type refutation is introduced.
+29	المعلالمنع اوالنقض اولمعارضة والمعارضة التقديرية وهوابطل المطاالمجرد باثبات خلاف وفرص دليل لعين فوضفة	Taqdiri mu'arada is outlined as proving the contrary of an unproved claim.
+30	للمعلل كما فی النقض الشبهيّ واداكان بغير لفظ النقض والمعارضة فحقبقة فيهما ومجموع وضفت	The duplicate continues its compressed list of response-options.
+31	المعلل ثمانية عسر ووضفة في التعريف هو النقض بعد مجمع ايکون اخصّ من المعرف اوبعدم	It ends with comments on objections to definitions.
+32	ای کون اعمّ منه او بالتلوامه المحال اوبکونه احفى منه فوضقة صاحب التعريف	Definition may be challenged as too narrow, too broad, impossible, or obscure.
+33	هوالمنع منع الله تعلا عنا موجبات ال احران وحفظناعن الضلالة	Closing prayer for preservation from error.
+34	والحذلان بحرمت نبىّ اخرالزمان	Prayer continues by the sanctity of the Prophet.
+35	صلالله عليه وعلى اله	Final blessing closing the duplicate witness.

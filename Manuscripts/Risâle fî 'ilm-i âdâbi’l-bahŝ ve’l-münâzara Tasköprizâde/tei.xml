@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="doc-2" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ar">رسالة في علم آداب البحث والمناظرة</title>
+        <title type="alt" xml:lang="ar-Latn-x-dmg">Risālah fī ʿIlm Ādāb al-Baḥth wa-al-Munāẓarah</title>
+        <title type="translated" xml:lang="en">Treatise on the Science of the Protocols of Inquiry and Debate</title>
+        <author ref="#person-taskoprizade">
+          <persName xml:lang="ar">أحمد بن مصطفى طاشكبري زاده</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Aḥmad ibn Muṣṭafā Ṭāshkubrīzādah</persName>
+          <birth when="1495" calendar="#gregorian">
+            <date xml:lang="en">1495 CE</date>
+            <date xml:lang="ar" calendar="#hijri">٩٠١هـ</date>
+          </birth>
+          <death when="1561" calendar="#gregorian">
+            <date xml:lang="en">1561 CE</date>
+            <date xml:lang="ar" calendar="#hijri">٩٦٩هـ</date>
+          </death>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Argumentation Theory Open-Sources TEI-XML Repository</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          <p>This TEI file is shared for reuse under Creative Commons Attribution 4.0. The TEI encoding is designed for FAIR-compliant discovery, citation, and computational reuse.</p>
+        </availability>
+        <idno type="state-library" xml:lang="tr">Diyanet İşleri Başkanlığı Kütüphanesi</idno>
+        <idno type="state-library" xml:lang="en">Diyanet Manuscript Library</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Turkey</country>
+            <settlement>Ankara</settlement>
+            <repository>Diyanet Manuscripts Library</repository>
+            <idno type="shelfmark">6783-V</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <title xml:lang="ar">رسالة في علم آداب البحث والمناظرة</title>
+              <title xml:lang="ar-Latn-x-dmg">Risālah fī ʿIlm Ādāb al-Baḥth wa-al-Munāẓarah</title>
+              <title xml:lang="en">Treatise on the Science of the Protocols of Inquiry and Debate</title>
+              <note type="genre">Short didactic epitome</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <extent>1 folio (2 written sides)</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="arabic">Naskhī</handNote>
+            </handDesc>
+            <condition>
+              <p>No explicit deterioration or damage is described in the current local witness metadata.</p>
+            </condition>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="unknown">Unknown</origDate>
+            </origin>
+            <provenance>
+              <p>There is no explicit provenance information.</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>The TEI body is derived from the local edited transcription and restructured from a single block into folio-based paragraphs with line breaks.</p>
+        <p>The raw transcription continues with an unrelated logic text beginning with an Abharī-style incipit; that appendix is retained in the plain-text companion but excluded from the main encoded body here.</p>
+        <p type = "information"> AI-assisted English translation for research use; it should be absolutely checked against the Arabic witness. </p>
+      </editorialDecl>
+      <projectDesc>
+        <p>This repository encodes a pilot corpus of early modern Arabic argumentation manuscripts in TEI-XML for manuscript description, semantic markup, and future corpus-scale DH analysis.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="persName" occurs="multiple"/>
+          <tagUsage gi="term" occurs="multiple"/>
+          <tagUsage gi="pb" occurs="multiple"/>
+          <tagUsage gi="lb" occurs="multiple"/>
+          <tagUsage gi="p" occurs="multiple"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+        <language ident="ar-Latn-x-dmg">Arabic transliteration (DMG-style)</language>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="local">
+          <term xml:lang="ar">آداب البحث</term>
+          <term xml:lang="ar">المناظرة</term>
+          <term xml:lang="ar">المناقضة</term>
+          <term xml:lang="ar">المعارضة</term>
+          <term xml:lang="ar">النقض</term>
+          <term xml:lang="en">ādāb al-baḥth</term>
+          <term xml:lang="en">munāẓara</term>
+          <term xml:lang="en">debate</term>
+          <term xml:lang="en">epitome</term>
+          <term xml:lang="en">Ottoman pedagogy</term>
+        </keywords>
+        <classCode scheme="genre">argumentation-theory</classCode>
+      </textClass>
+      <particDesc>
+        <listPerson>
+          <person xml:id="person-taskoprizade">
+            <idno type="local">person-taskoprizade</idno>
+            <persName type="short" xml:lang="ar">طاشكبري زاده</persName>
+            <persName type="short" xml:lang="ar-Latn-x-dmg">Ṭāshkubrīzādah</persName>
+            <persName type="full" xml:lang="ar">أحمد بن مصطفى طاشكبري زاده</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Aḥmad ibn Muṣṭafā Ṭāshkubrīzādah</persName>
+            <birth>
+              <date when="1495" calendar="#gregorian">1495</date>
+              <date when-custom="901" calendar="#hijri">٩٠١هـ</date>
+            </birth>
+            <death>
+              <date when="1561" calendar="#gregorian">1561</date>
+              <date when-custom="969" calendar="#hijri">٩٦٩هـ</date>
+            </death>
+            <idno type="VIAF">36909919</idno>
+            <idno type="ISNI">0000000119485835</idno>
+            <idno type="wikidata">Q12221519</idno>
+            <idno type="LCNAF">no88000627</idno>
+            <idno type="WorldCatEntities">E39PBJc7XRQ69dTDqKfDVC7j4q</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <name type="repository">Diyanet Manuscripts Library</name>
+          <placeName>Ankara</placeName>
+        </setting>
+      </settingDesc>
+      <abstract>
+        <p>A concise Ottoman pedagogical redaction that reduces disputation to operative roles and permissible responses. It depends heavily on the Samarqandian framework while compressing it for instructional use.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="ar">
+        <div type="folio" n="1r">
+          <pb n="1r"/>
+          <p><lb n="1"/>بسم الله الرحمن الرحيم<lb n="2"/>أحمدك اللهم يا <term type="role">مجيب</term> كل <term type="role">سائل</term> وسلك وأصلي على نبيك المبعوث<lb n="3"/>بأقوى الدلائل، وعلى آله وأصحابه المتوسلين بأعظم الوسائل ما جرى<lb n="4"/>بحث بين <term type="role">المجيب</term> و<term type="role">السائل</term>، وبعد لخصتها في <term type="discipline">علم الآداب</term> مجتنباً عن طرف<lb n="5"/>الاقتصار الإخلال والإطناب، والله أسأل أن ينفع بها معاشر الطلاب<lb n="6"/>وما توفيقي إلا بالله عليه توكلت وإليه المآب واعلم أن <term type="concept">المناظرة</term> هي النظر<lb n="7"/>بالبصيرة من الجانبين في النسبة بين الشيئين إظهاراً للصواب وكل<lb n="8"/>من الجانبين وصائف اعتبره العلماء وللمناظرة آداب استحسنها إما<lb n="9"/>وضيفة <term type="role">السائل</term> فثلثه <term type="concept">المناقضة</term> و<term type="concept">النقض</term> و<term type="concept">المعارضة</term> لأنه إما أن<lb n="10"/>يمنع مقدمة <term type="concept">الدليل</term> أو <term type="concept">الدليل</term> نفسه أو المدلول فإن كان الأول فإن منع<lb n="11"/>مجرداً ب<term type="concept">السند</term> فهو <term type="concept">المناقضة</term> ومنها نوع يسمى بالحل وهو تعيين موضع<lb n="12"/>الغلط وإما منعه فهو <term type="concept">غصب</term> غير مسموع عند المحققين نعم قد يتوجه<lb n="13"/>ذلك بعد إقامة <term type="concept">الدليل</term> على تلك المقدمة فإن كان الثاني فإن منع يا<lb n="14"/>الشاهد فهو النقص وأما منعه بلا شاهد من الشاهدين فهو <term type="concept">مكابرة</term><lb n="15"/>غير مسموعة اتفاقاً وإن كان الثالث فإن منع ب<term type="concept">الدليل</term> فهو <term type="concept">المعارضة</term></p>
+        </div>
+        <div type="folio" n="1v">
+          <pb n="1v"/>
+          <p><lb n="1"/>وإما منعه بلا دليل فهو <term type="concept">مكابرة</term> غير مسموعة أيضاً وإما وضيفة<lb n="2"/><term type="role">المعلل</term> إما عند <term type="concept">المناقضة</term> فإثبات المقدمة الممنوعة ب<term type="concept">الدليل</term> أو بالتنبيه<lb n="3"/>عليها أو بإبطال <term type="role">المعلل</term> سنده ب<term type="concept">الدليل</term> إن كان <term type="concept">السند</term> مساوياً له إذ منعه<lb n="4"/>مجرّداً عن <term type="concept">الدليل</term> غير مفيد وإثبات مدعاه بدليل آخر وإما وضيفة<lb n="5"/><term type="role">المعلل</term> عند النقص ففي شاهده أو إثبات <term type="role">المعلل</term> مدعاه بدليل آخر<lb n="6"/>وإما وضيفة <term type="role">المعلل</term> عند <term type="concept">المعارضة</term> فالتعرض إذ يصير <term type="role">المعلل</term> ح كالسائل<lb n="7"/>والعكس ثم إن من يكون بصدر التعليل قد لا يكون مدعياً بل يكون<lb n="8"/>ناقلاً عن الغير فلا يتوجه عليه المنع بل يطلب منه تصحيح النقل<lb n="9"/>فقد هذا الذي ذكرنا طريق <term type="concept">المناظرة</term> وأما ما لها لا يخلو إما أن يعجز<lb n="10"/><term type="role">المعلل</term> إقامة <term type="concept">الدليل</term> على مدعاه ويسكت فذلك هو <term type="concept">الإفحام</term><lb n="11"/>أو يعجز <term type="role">السائل</term> عن التعرض له بأن ينتهي <term type="concept">المناظرة</term> إذ لا قدرة لهما<lb n="12"/>إقامة وضيفنها إلا إلى نهاية وأما <term type="concept">المناظرة</term> فهي أنه ينبغي للمناظرة<lb n="13"/>أن يحترز عن الإيجاز وعن الإطناب وعن الألفاظ الغريبة وعن<lb n="14"/>اللفظ المجمل ولا بأس ب<term type="concept">الاستفسار</term> عن الدخل قبل الفهم ولا بأس بالإعادة<lb n="15"/>وعن التعرض بالإدخال له في المقصود وعن الضحك وعن <term type="concept">المناظرة</term> مع أهل المهابة<lb n="16"/>والاحترام وأن لا يحسب الخصم الحقير هذا غاية ما يراد في هذا الباب<lb n="17"/>ومن التوفيق وإلهام الصواب</p>
+        </div>
+        <note type="editorial" xml:lang="en">The appended logic text beginning with the Abharī incipit remains in the raw transcription and annotated companion, but it is excluded from this TEI body because it is not part of the Taşköprüzade ādāb al-baḥth witness.</note>
+      </div>
+      <div type="translation" xml:lang="en">
+        <head>English Translation</head>
+        <div type="folioTranslation" n="1r">
+          <pb n="1r"/>
+          <p><lb n="1"/>In the name of God, the Compassionate, the Merciful.<lb n="2"/>I praise You, O God, responder to every questioner, and I bless Your Prophet, sent forth<lb n="3"/>with the strongest proofs, and his family and companions who seek the greatest means, whenever there occurs<lb n="4"/>a disputation between the respondent and the questioner. After this, I have abridged it in the <term type="discipline">science of debate etiquette</term>, avoiding the extreme of<lb n="5"/>brevity that causes deficiency and prolixity; and I ask God to make it beneficial for the company of students.<lb n="6"/>My success is only through God; upon Him I rely and to Him is the return. Know that <term type="concept">debate</term> is consideration<lb n="7"/>with insight from the two sides regarding the relation between two things for the manifestation of what is correct, and each<lb n="8"/>of the two sides has functions recognized by the scholars, and debate has etiquettes they have deemed proper. As for<lb n="9"/>the task of the <term type="role">questioner</term>, it is threefold: <term type="concept">contradiction</term>, <term type="concept">refutation</term>, and <term type="concept">counter-proof</term>, because he either<lb n="10"/>prevents a premise of the <term type="concept">proof</term>, or the <term type="concept">proof</term> itself, or the conclusion signified. If it is the first, then if he prevents it<lb n="11"/>merely by a stated <term type="concept">ground</term>, that is <term type="concept">contradiction</term>; and among its kinds is what is called solution, namely specifying the place<lb n="12"/>of error. But if he goes beyond that, it is <term type="concept">procedural usurpation</term>, not heard by the verifiers, though it may be directed<lb n="13"/>after the establishment of the <term type="concept">proof</term> for that premise. If it is the second, then if he objects by a witness<lb n="14"/>that is refutation; but if he denies it without a witness from the two witnesses, that is <term type="concept">obstinate denial</term>,<lb n="15"/>which is not heard by agreement. And if it is the third, then denying it by a <term type="concept">proof</term> is <term type="concept">counter-proof</term>.</p>
+        </div>
+        <div type="folioTranslation" n="1v">
+          <pb n="1v"/>
+          <p><lb n="1"/>But to deny it without a proof is also <term type="concept">obstinate denial</term> and is not heard. As for the task<lb n="2"/>of the <term type="role">proponent</term> when facing <term type="concept">contradiction</term>, it is to establish the denied premise by <term type="concept">proof</term> or by drawing attention<lb n="3"/>to it, or by invalidating the <term type="role">proponent's</term> own stated <term type="concept">ground</term> through a <term type="concept">proof</term>, if that <term type="concept">ground</term> is equivalent to it, since denying it<lb n="4"/>merely without a <term type="concept">proof</term> is not useful; and likewise to establish his claim by another proof. As for the task<lb n="5"/>of the <term type="role">proponent</term> in response to refutation, it is to challenge its witness or to establish the <term type="role">proponent's</term> claim by another proof.<lb n="6"/>And the task of the <term type="role">proponent</term> in response to <term type="concept">counter-proof</term> is to address it, since the <term type="role">proponent</term> then becomes like the questioner,<lb n="7"/>and conversely. Moreover, one who is engaged in exposition may not be a claimant at all, but may instead be<lb n="8"/>transmitting from another; then objection is not directed against him, but only the correction of the transmission is requested.<lb n="9"/>This, then, is the path of <term type="concept">debate</term>. As for its outcome, it is not devoid of one of two possibilities: either the <term type="role">proponent</term> is unable<lb n="10"/>to establish the <term type="concept">proof</term> for his claim and falls silent, and that is <term type="concept">silencing the proponent</term>,<lb n="11"/>or the <term type="role">questioner</term> is unable to continue objecting, so the <term type="concept">debate</term> comes to an end, since neither side has the power<lb n="12"/>to continue its function without limit. As for the etiquette of <term type="concept">debate</term>, it is that one should in debate<lb n="13"/>guard against excessive brevity, against prolixity, and against strange expressions, and against<lb n="14"/>ambiguous wording. There is no harm in a <term type="concept">request for clarification</term> concerning the point at issue before understanding, nor in repetition,<lb n="15"/>and one should avoid introducing what has no connection with the intended subject, and laughter, and <term type="concept">debate</term> with people of dignity<lb n="16"/>and respect; nor should one regard the lowly opponent as insignificant. This is the utmost intended in this chapter,<lb n="17"/>and from God comes success and the inspiration of what is right.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

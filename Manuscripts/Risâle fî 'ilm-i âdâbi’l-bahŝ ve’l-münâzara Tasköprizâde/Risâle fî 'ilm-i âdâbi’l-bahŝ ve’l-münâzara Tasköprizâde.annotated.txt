@@ -1,0 +1,46 @@
+line_no	text	annotation
+1	بسم الله الرحمن الرحيم	Opening basmala.
+2	أحمدك اللهم يا مجيب كل سائل وسلك وأصلي على نبيك المبعوث	Invocation praising God and blessing the Prophet.
+3	بأقوى الدلائل، وعلى آله وأصحابه المتوسلين بأعظم الوسائل ما جرى	Continuation of the devotional opening.
+4	بحث بين المجيب والسائل، وبعد لخصتها في علم الآداب مجتنباً عن طرف	The author presents this as a concise epitome in adab al-bahth.
+5	الاقتصار الإخلال والإطناب، والله أسأل أن ينفع بها معاشر الطلاب	He seeks a middle path between overbrevity and prolixity and prays for usefulness.
+6	وما توفيقي إلا بالله عليه توكلت وإليه المآب واعلم أن المناظرة هي النظر	Formal transition to the treatise; definition of debate begins.
+7	بالبصيرة من الجانبين في النسبة بين الشيئين إظهاراً للصواب وكل	Debate is defined as bilateral intellectual consideration aimed at correctness.
+8	من الجانبين وصائف اعتبره العلماء وللمناظرة آداب استحسنها إما	The two parties are treated functionally; the text turns to debate etiquette.
+9	وضيفة السائل فثلثه المناقضة والنقض والمعارضة لأنه إما أن	The questioner's tasks are reduced to three main objection-types.
+10	يمنع مقدمة الدليل أو الدليل نفسه أو المدلول فإن كان الأول فإن منع	These correspond to premise, proof, and conclusion.
+11	مجرداً بالسند فهو المناقضة ومنها نوع يسمى بالحل وهو تعيين موضع	Bare denial with a stated ground is munaqada; one subtype identifies the exact point of error.
+12	الغلط وإما منعه فهو غصب غير مسموع عند المحققين نعم قد يتوجه	Premature counter-arguing is called ghasb and is usually inadmissible.
+13	ذلك بعد إقامة الدليل على تلك المقدمة فإن كان الثاني فإن منع يا	Such a move may become admissible only after a premise is proved.
+14	الشاهد فهو النقص وأما منعه بلا شاهد من الشاهدين فهو مكابرة	Refutation with a witness/sign is naqd; denial without witness is obstinacy.
+15	غير مسموعة اتفاقاً وإن كان الثالث فإن منع بالدليل فهو المعارضة	Opposing the conclusion with proof is mu'arada.
+16		The source line is blank.
+17	وإما منعه بلا دليل فهو مكابرة غير مسموعة أيضاً وإما وضيفة	Bare denial of the conclusion is likewise treated as inadmissible obstinacy.
+18	المعلل إما عند المناقضة فإثبات المقدمة الممنوعة بالدليل أو بالتنبيه	The proponent's first duty is to re-establish the denied premise.
+19	عليها أو بإبطال المعلل سنده بالدليل إن كان السند مساوياً له إذ منعه	He may also invalidate the objection's ground if it is truly equivalent to the objection.
+20	مجرّداً عن الدليل غير مفيد وإثبات مدعاه بدليل آخر وإما وضيفة	If needed, he can move to another proof for the claim.
+21	المعلل عند النقص ففي شاهده أو إثبات المعلل مدعاه بدليل آخر	Against naqd, he may attack the witness or present a fresh proof.
+22	وإما وضيفة المعلل عند المعارضة فالتعرض إذ يصير المعلل ح كالسائل	Against mu'arada, roles partially reverse and the proponent responds like a questioner.
+23	والعكس ثم إن من يكون بصدر التعليل قد لا يكون مدعياً بل يكون	The author notes that not every speaker is a claimant.
+24	ناقلاً عن الغير فلا يتوجه عليه المنع بل يطلب منه تصحيح النقل	A mere transmitter is asked only to verify transmission.
+25	فقد هذا الذي ذكرنا طريق المناظرة وأما ما لها لا يخلو إما أن يعجز	The procedural path of debate is now summarized through possible outcomes.
+26	المعلل إقامة الدليل على مدعاه ويسكت فذلك هو الإفحام	If the proponent falls silent, the result is ifham.
+27	أو يعجز السائل عن التعرض له بأن ينتهي المناظرة إذ لا قدرة لهما	If the questioner can no longer object, the debate terminates in the opposite direction.
+28	إقامة وضيفنها إلا إلى نهاية وأما المناظرة فهي أنه ينبغي للمناظرة	The treatise closes by listing practical decorum for debate.
+29	أن يحترز عن الإيجاز وعن الإطناب وعن الألفاظ الغريبة وعن	One should avoid both excessive brevity and excessive prolixity.
+30	اللفظ المجمل ولا بأس بالاستفسار عن الدخل قبل الفهم ولا بأس بالإعادة	Ambiguity should be avoided, while clarification and repetition are allowed.
+31	وعن التعرض بالإدخال له في المقصود وعن الضحك وعن المناظرة مع أهل المهابة	The debater should avoid irrelevancies, laughter, and disputing with those whose status inhibits fairness.
+32	والاحترام وأن لا يحسب الخصم الحقير هذا غاية ما يراد في هذا الباب	The opponent should not be despised; this concludes the proper adab.
+33	ومن التوفيق وإلهام الصواب	Closing prayer for right guidance.
+34	بسم لله الّرحمن الّحي	New basmala marking the start of an unrelated appended logic text.
+35	قل الشخ الامام العلاّمة افضلا لعلماء المتاخرين فدوة الحكما	Corrupt/noisy incipit praising a later authority, likely introducing another work.
+36	البرّاسخین اثیرالدّین الابهرى طيب الله ثراه وجعلالجنة مثواه	Athīr al-Dīn al-Abharī is named; this confirms the appendix is not part of the debate treatise.
+37	محمدالله علی توفیقه ونسئله هدایة طريقه ونصلی على محمد وعترته	Devotional transition into the appended logic material.
+38	اجمین وبعد ا قهذه رسالة فی المنطق اوردنافها مايجب استحصل ها	The appended text identifies itself as a logic treatise.
+39	المن بتبدئ فی شئ من العلوم متعینا بالله انه مفیض الخيروالجود	It presents itself as introductory material for learners.
+40	ايساغوجی اللّفظ الدال يالوضع يدل على تمام ماوضع له با	The logic appendix begins with semantics and the Isagoge tradition.
+41	المطابقة وعلي جزئه بالنّضمن ان کان له جزء وعلى مايلازمه	It defines signification by correspondence, inclusion, and implication.
+42	فی الّذهن بالا ل تن ام کالانسان فانه یدل على لحیوان الناطق	Example: "human" signifies "rational animal."
+43	وعلى احدهما بالمتضمن وعلى قابل العلم وصنعة الكتابة بالالتزام	Further examples illustrate included and implicative signification.
+44	ثم اللّفظ اما مفرد وهوالّذى لا یردبالجزءمنه الدلاله له على خبرء	The text moves to the distinction between simple and composite expressions.
+45	مفناه کالا نسان واما مؤلّف وهو الّذی لا یکون کذلك كرامى الحجان	The final line continues the unrelated logic classification.

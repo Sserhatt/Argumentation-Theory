@@ -1,0 +1,151 @@
+line_no	text	annotation
+1	بسم الله الرحمن الرحيم	Opening basmala invoking God.
+2	المنة علينا لواهب العقل	Brief praise to God as a giver of intellect.
+3	هذه رسالة في آداب البحث يحتاج إليها كل متعلم لتكون محافظة له في البحث	The treatise is introduced as a practical guide for every learner.
+4	من الضلالة وتسهل عليه طريق الفهم والتفهيم وهي إن كان متداولة بين	Its purpose is to guard against error and ease understanding and explanation.
+5	المحققين لكنها منظومة في ما كانت منظومة في سلك ومجموعة في عقد	Although known among scholars, the material is here reorganized into orderly form.
+6	أردت نظم منثورها وجمع مأثورها وهي مرتبة على ثلاثة فصول في التعريفات	The author states his aim: to arrange scattered material into three chapters.
+7	في ترتيب البحث في مسائل التي اخترعتها الفصل الأول: في التعريفات المناظرة	Chapter one begins with definitions; the first defined term is debate.
+8	هي النظر بالبصيرة من الجانبين في النسبة بين الشيئين إظهاراً للصواب أو	Debate is defined as bilateral intellectual consideration of a relation to show correctness.
+9	الدليل هو الذي يلزم من العلم به العلم بشيء آخر وهو المدلول والأمارة هي التي يلزم	Dalil is defined as that from knowing which another thing is known; the other thing is the madlul.
+10	من العلم بها الظن بوجود المدلول وما يتوقف عليه وجود الشيء إن كان	Amara yields probable judgment, unlike the stronger force of dalil.
+11	داخلاً فيه يسمى ركناً وإن كان خارجاً عنه فإن كان مؤثراً في وجوده يسمى	A distinction is made between internal constituent, external cause, and condition.
+12	علة واحدة إلا فشرطاً والعلة التامة هي جملة ما يتوقف عليه وجود الشيء	The complete cause is the totality of what existence depends on.
+13	والتعليل هي تبيين علة الشيء والملازمة هي كون الحكم مقتضياً للآخر والأول هي	Ta'lil is explanation of cause; mulazama is entailment between two judgments.
+14	الملزوم والثاني هو اللازم والدوران هو ترتب الشيء على الشيء الذي له صلوح	The two sides of entailment are named malzum and lazim.
+15	العلية إما وجوداً أو عدماً أو معاً الأول هو الدائر والثاني هو المدار والمناقضة	Dawaran is concomitance with something apt for causality, in presence, absence, or both.
+16	هي منع مقدمة الدليل والمعارضة هي إقامة الدليل على خلاف ما أقام الدليل	Munaqada is denial of a premise; mu'arada is proving the opposite.
+17	عليه الخصم والنقض هو تخلف الحكم المدعى عن الدليل والمستند ما يكون المنع	Naqd is failure of the claimed ruling to follow from the proof.
+18	 مبنياً عليه الفصل الثاني: في ترتيب البحث إذا شرع المعلل في ترتيب الأقوال و	Mustanad is what the objection rests on; chapter two turns to debate procedure.
+19	المذاهب فلا يتوجه عليه المنع لأن ذلك بطريق الحكاية إلا إذا انتهض بإقامة	Mere reporting of views is not yet subject to objection.
+20	الدليل على ما ادعاه فالسائل إما أن يمنعه في شيء أو لا يمنع فيه أصلاً فإن لم تمنع	Once the proponent begins proving his claim, the questioner may object or concede.
+21	فظاهر فإن منع فإما أن يمنع قبل تمام [دليله] وهذا إنما يكون على مقدمة من مقدمات	An objection before completion can only target a premise.
+22	دليله أو منع بعد تمام دليله فإن منع مقدمة من مقدمات دليله فإما أن يقتص	Objection after completion opens a different set of procedures.
+23	ر بمجرد المنع أو لم يقتصر فإن لم يقتصر فإما أن يقول المستند أو لم يقل والمستند كما نقول لا نم	The questioner may either give bare denial or add a stated basis.
+24	لم لا يجوز أن يكون كذا أو نقول لا نم لزوم ذلك وإنما يلزم هذا أن لو كان كذا وذلك	Examples of mustanad are given in the form of challenge or conditional denial.
+25	هو المناقضة وإن لم يقل مستنداً بل يستدل بدليل على انتفاء تلك المقدمة	This type is classified as munaqada.
+26	الممنوعة وذلك يسمى فصلاً وهو غير مسموع عند المحققين لاستلزامه الخبط	If the questioner instead proves the opposite of the premise directly, that is fasl.
+27	في البحث نعم قد يتوجه ذلك بعد إقامة المعلل الدليل على تلك المقدمة كما	Fasl is generally inadmissible because it creates procedural confusion.
+28	سيأتي ذكره وإن منع بعد تمام الدليل فذلك على قسمين فإما أن لا يتم الدليل	After the proof is complete, objection divides into two main cases.
+29	بعد التمام بناء على تخلف الحكم عنه في شيء من الصور أو يسلم الدليل ويمنع المدلول	Either the proof fails in some case, or the conclusion is denied despite the proof.
+30	واستدل بما ينافي ثبوت المدلول والأول النقض الإجمالي [و]الثاني هو المعارضة	The first is broad naqd; the second is mu'arada.
+31	فعلمنا أن النقض إما تفصيلي وهو المناقضة المذكورة أو إجمالي وتوجهه 	Naqd is thus either detailed, via premise-denial, or summary/general.
+32		The source line is blank.
+33	أن يقال ما ذكرتم من الدليل غير صحيح لتخلف الحكم عنه في تلك الصورة وأما المعا	The formula of broad naqd is to say the proof fails in a given case.
+34	رضة لطرفها أن يقال ما ذكرتم وإن دل على ثبوت المدلول ولكن عندنا ما ينفيه	The formula of mu'arada is to admit the proof's force but cite a counter-proof.
+35	وإذا شرع في الدليل يصير المعلل ههنا كالسائل ثم وبل العكس والمعارضة والنقض	When counter-proof begins, roles temporarily reverse between proponent and questioner.
+36	الإجمال هما أن يأتيان في مقدمة الدليل أيضاً وذلك بالنسبة إلى تلك المقدمة	Mu'arada and general naqd may also target a premise, not just a full proof.
+37	يكون المعارضة ونقضاً إجمالياً وبالنسبة إلى تمام الدليل مناقضة وبالقياس	Their classification shifts depending on whether one looks at premise or total proof.
+38	إلى مجموع الدليل مناقضة على سبيل المعارضة وتفصيلياً على طريق الإجمالي هذا	The author notes these relative reclassifications within the structure of argument.
+39	من طرف السائل ما من طرف المعلل فإذا منع مقدمة من مقدمات دليله	He now turns from the questioner's role to the proponent's task.
+40	فيلزم عليه دفعه إما بدليل أو تنبيه كما يقول العالم متغير لأنه نشاهد	The proponent must answer denial either by proof or explanatory indication.
+41	التغيرات من الحركات والآثار المختلفة وإن أتى بدليل ثان فإما أن يمنعه	Example begins: the world's changeability is inferred from observed motions and effects.
+42	السائل أيضاً أو يسلم ذلك فإن منعه فالأقسام المذكورة يأتي فيه من	The same objection-types recur if a second proof is offered.
+43	المناقضة والنقض وكذلك وإن أتى بدليل ثالث أو رابع فصاعداً وح	The recursive structure of debate is emphasized.
+44	وأن ينتهي إما إلى إلزام المانع وإفحام المعلل لأن المعلل إن انقطع بالمنع والمعارضة	Debate ends either in compelling the objector or silencing the proponent.
+45	فحصل الإفحام وإلا فلا يخلومن أن ينتهي أدلته إلى أمر ضروري القبول أو لا ينتهي	If the proponent is cut off, that is ifham; otherwise his proofs end or regress.
+46	فإن كان الأول يلزم الإلزام وإن كان الثاني يلزم الإفحام لأنه ح إما تسلسل من طرف	If proof reaches what must be accepted, the objector is compelled.
+47	المبدأ أو عجز المعلل عن إقامة الدليل الثاني ظاهر والأول محال وتقدير تسليمه	If not, either infinite regress or inability follows; inability is decisive.
+48	يلزم إفحام المعلل لأنه لا يمكن إثبات أمور لا نهاية لها تنبيه منع المقدمة	Even if regress were allowed, infinite proofs cannot be completed in practice.
+49	ولا يضر انتفاء تلك المقدمة مستلزماً للمطلوبة وجوابه أن تردد المعلل بأن	A note addresses a premise whose negation does not damage the desired conclusion.
+50	يقول إن كانت تلك المقدمة ثابتة يتم ما ذكرنا وإن لم يكن يلزم المدعى ولتمثل	The answer is disjunctive: whether the premise stands or not, the claim survives.
+51	بعض ما ذكرناه في توضيح إن شاء الله تعالى مسألة العالم مفتقر إلى المؤثر	An extended example begins: the world requires an efficient cause.
+52	لأن العالم محدث وكل محدث فله مؤثر ينتج أن العالم له مؤثر فإن قيل لا نم	The basic proof is: the world is originated; every originated thing has a cause.
+53	أن العالم فنقول لأن العالم متغير وكل متغير حادث وهذا دليل ثالث أما بيان	The first objection targets the premise that the world is originated.
+54	الكبرى فلأن كل متغير هو محل الحوادث وكل ما هو محل الحوادث لا يخلوعن الحوادث	A supporting proof argues that every changing thing is a locus of accidents.
+55	وكل ما لا [يخلو] عن الحوادث فهو حادث ينتج أن كل متغير حادث وأما بيان كل متغيرهو	Anything inseparable from accidents is originated; therefore every mutable thing is originated.
+56	محل الحوادث فهو أن التغير يكون من حالة إلى حالة وتلك الحالة حادثة وهي	Change is analyzed as transition from one state to another.
+57	قائمة بذلك التغير محل لها فإن قيل لا نم أن التغير من الحال إلى حال أخرى حادث	The new state is an accident inhering in the changing substrate.
+58	لم لا يجوز أن يكون التغير بزوال أمر كان لا بحصول أمر ما كان فنقول لا يخلو من أن	Objection: perhaps change is mere loss, not acquisition of a new accident.
+59	يكون بحصول أمر ما كان أو بزوال أمر ما كان وعلى تقديرين محالاً للحوادث أما	Response: in either case the subject remains related to accidents.
+60	الأول قد وأما الثاني فلأن كونه عدمياً لا ينافي حادثية ولا صفتيه فإذا	The mere privative character of loss does not block its being temporally originated.
+61	ثبت أن كل متغير هو محل الحوادث فنقول كل ما هو محل للحوادث فلا يخل	Once mutability implies locushood of accidents, the next major premise is defended.
+62	وعن الحوادث لأنه لا [يخلو] عن قابلية ذلك الحادث وقابليته لأنها مشروطة بإمكان	What is a locus of accidents cannot be devoid of accident-related receptivity.
+63		The source line is blank.
+64	وجود الحادث حادث لأن الحادث لا يمكن أن يكون أزلياً لأن الحادث	The possibility/receptivity for accident is itself argued to be originated.
+65	ما يكون عدمية سابقة عليه والشيء مع كون العدم سابقاً عليه لا يمكن	Anything preceded by nonexistence cannot be eternal.
+66	أن يكون أزلياً فإذا لم يكن في الأزل يكون إمكانه حادثاً وللسائل أن يقول هذا	So if the possibility was absent eternally, it too must be originated.
+67	إنما يلزم من أخذ الحادث مع شرط كونه حادثاً إما بالنظر على ذاته فلا وكيف	The questioner objects that this depends on taking the thing together with an added condition.
+68	هذا لأنه يلزم أن ينقلب الشيء من الامتناع الذاتي إلى مكان الذاتي وهو	Otherwise one would be implying a transition from essential impossibility to essential possibility.
+69	هذا مناقض بطريق المناظرة المعارضة لأن توجهه أن يقال ما ذكرتم	This is identified as mu'arada in dialectical form.
+70	فإن دل على حدوث إمكان الحدوث ولكن عندنا ما ينافيه وذلك لأنه إذا كان	The objection says the argument implies an impossible inversion.
+71	كذلك يلزم الانقلاب وهو محال فإن خلص المعلل عن هذا الموضع نقول	If the proponent escapes this point, the argument proceeds further.
+72	إذا كان إمكانه حادثاً وتلك مشروطة بهذا الإمكان فيكون حادثة وح	If the possibility is originated, the correlated receptivity is originated too.
+73	لا يخلو من أن يكون تلك القابلية من لوازم وجود المتغير أو لم يكن	The receptivity is either essential to the mutable thing or accidental to it.
+74	فإن كانت منبث لأنه لا يخلو عن الحوادث وإن لم يكن من لوازمه يكون عرضاً مفارقاً له	If essential, the conclusion follows directly; if accidental, more regress threatens.
+75	فقابلية لتلك القابلية أيضاً أمر حادث وهي إما أن يكون من لوازمه أو	A second-order receptivity for that accident is then posited.
+76	لم يكن فإن كانت فثبت المط وإن لم يكن فلذلك يعمل من القابلية فيلزم	This recursive argument forces either the claim or regress.
+77	فيلزم السر والقابلية أو الانتهاء القبلية لازمة والأول باطل فتعين الثاني و	The regress is rejected, so termination in an essential receptivity is required.
+78	كلي مالح عن الحوادث فهو حادث لأنه لو كان أزلياً لكانت الحوادث أزلية 	The principle is restated: whatever never escapes accidents is originated.
+79	وهو محال ولقائل أن يقول لا نم أن ما لا يخلو عن الحوادث فهو حادث لم لا يجوز	New objection: perhaps something eternal can still have endlessly successive accidents.
+80	أن يكون الشيء أزلياً وهو لا يخلو عن الحوادث بأن يكون كل حادث سابقاً عن	The questioner imagines an infinite past succession of accidents.
+81	الآخر لا إلى الأول ولئن سلمنا ذلك ولكن عندما ينفيه وذلك لأن كل ما لابد له	A counter-argument is promised against even that concession.
+82	من مؤثرية الله تعالى في إيجاد العالم إما أن يكون ثابتاً في الأزل أو لم يكن ومستلزم	Everything required for God's production of the world either existed eternally or not.
+83	للمحال فتعين الأول لأن كل ما لابد منه لو لم يكن حاصلاً في الأزل يكون بعضه حادثاً فح	If not, some requisite would be originated, which leads to difficulty.
+84	يلزم إما أن يكون الحادث قديماً أو لا وكلاهما بطالان لأن كل ما لابد منه	Either the originated becomes eternal or contradiction arises; both are rejected.
+85	في مؤثرية ذلك الحادث لا يكون من أن يكون ثانياً في الأزل أو لم يكن فإن كان يلزم	The chain of requisites is analyzed with respect to eternity.
+86	قدم ذلك الحادث لامتناع التخلف المعلول ح كما سنبين وإن لم يكن فبعضه حادث	If the cause is complete eternally, the effect would have to be eternal too.
+87	في الكلام فيه كما في الأول فيلزم إما العدم أوله فإذا ثبت أن كل ما لابد له	If not complete eternally, the original problem of originated requisites returns.
+88	 في المؤثرية حاصلي في الأزل يلزم أزلية العالم لأنه إن كان حادثاً فاختصاص حدوثه بوقت	If all requisites are eternal, the world would also have to be eternal.
+89	معين لا يخلو من أن يكون أمراً زايداً ما كان في الأول و لم يكن فإن كان الأول	The specification of one moment over another demands an extra differentiator.
+90	يكون كل متغير لابد له في الأزل حاصلاً وغير حاصل هف وإن كان	If that differentiator was always present, contradiction follows.
+91	الثاني يلزم رجحان أحد جانبي الممكن لا بمرجح وهو محال فإن قال المعلل لا نم أن 	If absent before, preference without a preferrer follows, which is impossible.
+92	 الترجيح بلا مرجح محال فذلك المنع مما لا يقال للسائل لأن السائل يقول لا يخلو 	The text restricts what kind of denial the proponent can make against the questioner.
+93	من أن ذلك محالاً أو لم يكن فإن كان فيتم ما ذكرنا وإن لم يكن فجاز وجود العالم	The questioner can argue disjunctively: if the principle fails, the proof collapses.
+94	بدون المؤثر فبطل أصلاً دليلكم أن كل محدث فله مؤثر وجوابه بالنقض الإجمالي	If so, the premise that every originated thing has a cause is undermined.
+95		The source line is blank.
+96	كما نقول المعلل ما ذكرتم غير صحيح بدليل التخلف في الحوادث اليومية	A general naqd is then stated through examples from daily events.
+97	أن العالم محدث فنقول لكل محدث ممكن وكل ممكن فله مؤثر لامتناع ترجيح أحد طرفي	A revised proof begins from contingency rather than origination alone.
+98	الممكن المساوي للطرفي الممكن الآخر بلا مرجح فيصدقان العالم أمر المؤثر وهو المطلوب	The impossibility of uncaused preference grounds the need for an efficient cause.
+99	الفصل الثالث في المسائل التي اخترعها وبذكر ههنا ثلاث مسائل الأول اعلم الكلام	Chapter three presents three original issues from different sciences.
+100	والثانية علم الحكمية والثالث من الخلاف المسألة الأول من الكلام واجب الوجود	The first issue is from kalam and concerns the unity of the Necessary Existent.
+101	واحد أم لا لأنه لو كان اثنين فلا يخلو من أن يكون بينهما ملازمة ولا يكون لا	The argument begins by assuming two necessary beings and dividing the possibilities.
+102	لا سبيل إلى شيء منهما فيلزم أن لا يكون اثنين وإنما قلنا إنه لا يجوز أن يكون بينهما	Neither full connection nor total disconnection can stand.
+103	ملازمة لأنه لو كان كذلك يلزم أن يكون بين الواجب وغيره علاقة وذلك لا يوجب	If there were entailment, a relation between the necessary and other-than-it would arise.
+104	الاحتياج وعدم الملازمة أيضاً محال لأنه لو كان كذلك يلزم جواز الانفكاك وهو	Total non-entailment would permit separation, which is judged impossible.
+105	محال وكذلك جوازه لأن جواز المحال محال وفيه منع لطيف وهو أن يقال إن عنيت لجواز	A subtle objection questions what exactly "possibility of separation" means.
+106	الانفكاك جواز الافتراق فلا نم أن اللازم عدم الملازمة وهذا الجواز أن يكون	If it means actual separability, entailment does not necessarily fail.
+107	بين الشيئين ملازمة مع ثبوتها بالضرورة كقولنا كما كان الإنسان حيواناً كان الله	Two things may be linked necessarily without one needing the other.
+108	تعالى موجود وإن عنيت به جواز ثبوت أحدهما بدون الآخر على معنى أنه يجوز	Example: "as man is animal, God exists" joins two truths without dependence.
+109	ثبوت أحدهما من غير احتياج إلى الآخر سواء كان الآخر ثابتاً أو لم يكن فذلك لازم	If separability means independent subsistence, that may be granted.
+110	ولكن لم قلت إنه محال المسألة الثانية من الحكمة واجب الوجود يجب أن يكون	The objection presses the author to prove why such independence is impossible.
+111	موجب بالذات لأنه لو كان فاعلاً بالاختيار فلا يخلو من أن يكون فعله في الأول	The second issue, from philosophy, claims the Necessary Existent acts by necessity.
+112	أو لم يكن وكل واحد منهما باطل فالقول بكونه فاعلاً بالاختيار باطل وإنما قلنا إن	The alternative of acting by choice is rejected through a dilemma.
+113	كل واحد من القسمين باطل لأنه لو كان فعله أزلياً يلزم أحد الأمرين	If the act is eternal, unacceptable consequences follow.
+114	الممتنعين وهو إما كون الأول حادثاً أو كون الفاعل موجباً بالاختيار وذلك	One result is the origination of the first effect, the other collapses choice into necessitation.
+115	لأنه لا يخلو من أن يكون له قصد وإرادة في ذلك الفعل أو لم يكن فإن كان يلزم	Intentional willing would make the act temporally originated.
+116	حدوث فعله وإن لم يكن يلزم كونه موجباً إلا فاعلاً هف وأما إذا لم يكن	Without will, the agent becomes a necessitating cause rather than chooser.
+117	فعله جائزاً في الأزل فيكون ممتنعاً ثم صار ممكناً فيلزم انقلاب الشيء من	If the act was impossible and later possible, essential status would change.
+118	الامتناع الذاتي إلى الإمكان الذاتي وهو محال وجوابه أن يقاما ذكرتم وإن دل	This would mean transition from essential impossibility to essential possibility.
+119	على ذلك لكن عندما ما ينفيه وذلك لأنه لو كان موجباً يلزم الواجب معلولاً	The reply is given by mu'arada: necessitation yields other unacceptable consequences.
+120	لغيره أو جائزاً لعدم وكل واحد منها باطل وإنما قلنا ذلك لأنه لو كان موجباً	If God necessitates, the Necessary either depends on another or becomes non-necessary.
+121	فلابد وأن يكون معلوله الأول موجوداً معه فلا يخلو من أن يكون معلوله	The first effect would have to coexist eternally with the cause.
+122	الأول جائز العدم أو لم يكن يلزم أن يكون واجباً فمحال يلزم أن يكون الو	If that first effect cannot fail to exist, it becomes necessary, which is impossible here.
+123	لغيره وإن كان جائزاً لعدم وكلما كان المعلول جائزاً لعدم كانت علته الموجبة	If it can fail, then its necessitating cause cannot guarantee it fully.
+124	أيضاً كذلك لأن المعلول ح لازم لها وجواز عدم اللزوم يوجب جواز عدم	If the effect's nonexistence is possible, the entailment relation weakens the cause as well.
+125	الملزوم فيلزم أن يكون الواجب جائزاً لعدم هف بنسبة سيان يكون المعا	This would make the Necessary Existent liable to nonexistence, which is absurd.
+126		The source line is blank.
+127	 المعارضة في المعقولات كالنقض للدليل المسألة الثالثة من علم الخلاف	A note indicates how mu'arada functions in rational sciences; the third issue begins.
+128	قال الشارح الأب يملك إجبار البكر البالغة على المنكوح خلافاً لأبي حنيفة	The legal issue concerns paternal power to compel an adult virgin to marry.
+129	رحمه الله لنا فيه أن إحدى الأوليتين ثابتة وهي إما قبل الإجبار أو عند الإجبار	The argument claims one of two forms of guardianship must hold.
+130	وأياً ما كان يلزم المطلوب وإما قلنا إن أحد الولايتين ثابتة لأنه لا يخلو من	The intended conclusion follows whichever of the two is established.
+131	من أن يكون شمول الولاية للوقتين علة لأحد الشمولين مطلقاً أي شمول	The proof analyzes whether inclusive guardianship over both times causes one of the two rulings.
+132	الولاية وشمول عدمها أو لم يكن وأياً ما كانا يلزم إحدى الولايتين إما إذا	Either way, one guardianship position is supposed to follow.
+133	كان علة فظاهر لأن شمول الولاية سواء مان محققاً أو لم يكن يلزم أحد الولايتين	If it is causal, the conclusion is said to be immediate.
+134	وإن لم يكن علة فكذا لأن عليته مدار النقيض شمول العدم وجوداً وعدماً	If not, a dawran-style relation is built from the negation side.
+135	في الأنفس لأنه لو ثبت شمول الولاية أو الافتراق بين الولايتين ثبت	The relation is argued through what follows from presence or separation of jurisdictions.
+136	نقيض شمول العدم يلزم نقيض العدم لأن العلية إذا كانت ثابتة كان	The negation of non-coverage is made to imply one of the two guardianships.
+137	نقيض شمول العدم ثابتاً فعند عدمها يجب أن يكون ثابتاً في الجملة وإلا كانت	If otherwise, the causal relation would become perfectly reciprocal.
+138	العلية مداراً له وجوداً وعدماً هف وإذا ثبت نقيض شمول العدم	That reciprocal dawran is treated as unacceptable in the intended frame.
+139	فإما أن يصدق شمول الولاية وأياً كان يلزم إحدى الولايتين وهو	Thus one of the two legal powers is concluded.
+140	المطلوب فإن قيل مسلمنا أن العلية ليست مدار في نفس الأمر لكن	An objection is raised about assuming real dawran from a merely hypothetical case.
+141	 لد لم قلتم إنها كذلك على تقدير عدم علية شمول الولاية لا يجوز أن يكون	The opponent questions why the non-causal supposition must behave as argued.
+142	ذلك التقدير محالاً في المحال جاز أن يستلزم المحال فنقول هذا المنع لا	A false supposition may entail absurdity without proving anything substantive.
+143	يضرنا لأنه لو كان كذلك التقدير ثابتاً في نفس الأمر فيتم ما ذكرنا وإن لم	The response says the objection does not harm the proof.
+144	يكن يلزم العلية ومجا بها يحصل المقصود كما مرتمت الكتاب بعون الله	If the supposition holds, the argument stands; if not, causality follows and still yields the aim.
+145	الملك الوهاب في يد عبد الضعيف محمود بن رسول غفر الله له ولأستاذه	Colophon: the copy was completed by the weak servant Mahmud b. Rasul.
+146	ولوالديه وللمؤمنين والمؤمنات والمسلمين	The scribe asks forgiveness for his teacher, parents, and all believers.
+147	والمسلمات الأحياء منهم	Prayer continues for the living faithful.
+148	والأموات	And for the dead as well.
+149	سنة	Date formula introducing the year.
+150	1118	The copy date is given as 1118 AH.

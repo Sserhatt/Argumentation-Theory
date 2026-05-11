@@ -1,0 +1,346 @@
+line_no	text	annotation
+1	بسم الله الرحمن الرحيم	Opening basmala invoking God's mercy.
+2	حمداً لك يا واهب النفوس والعقول، وشكراً لك يا مخترع ماهيات الأركان والأصول	Praise to God as giver of souls, intellects, and first principles.
+3	وصلاة وسلاماً على المتأدب بأعلى الآداب والمنعوت بأحسن الشمائل فلا قدرة	Blessings on the Prophet, model of perfect adab and noble character.
+4	للمعلل على الوقوف على كنه قدره ولو لم يألو جهداً في إيراد الدلائل، وعلى آله وصحبه	Even the disputant cannot fully grasp the Prophet's rank despite many proofs; blessings extend to family and companions.
+5	المنتهضين لإلزام كل مكابر باستنادهم إلى أعظم برهان ما جرت مناظرة وتناظر	The companions are praised as confuters of obstinate opponents by decisive proof.
+6	اثنان وبعد فإن تراب أقدام العلماء وغبار مجالس الفضلاء أقل عباد الله	Transition to the preface; the author humbly describes himself before the scholars.
+7	الصمد أبو السعود ابن أحمد بن محمد الكواكبي أصلح الله تعالى حاله وبلغه يمنه وآماله	Authorial self-identification: Abu al-Su'ud al-Kawakibi names himself with a prayer.
+8	بقوله هذه أوراق متعلقة بالرسالة المشهورة في صناعة الآداب المنسوجة	He introduces these pages as notes attached to the well-known treatise on debate etiquette.
+9	إلى المولى المحقق والعلامة المدقق شهاب الملة والدين أحمد الطاش كبري	The base text is attributed to Ahmad Taşköprüzade, praised with honorifics.
+10	عليه رحمة الكريم الوهاب ما سمح به الفكر الفاتر والنظر القاهر عند مطالعتها	The gloss is presented modestly as a product of limited reflection while reading the treatise.
+11	مع بعض الإخوان هذا والمسؤول ممن حسن خيمه وجبل على الإنصاف أديمه إن	The author asks fair-minded readers for charitable reception.
+12	ينظر إليها بنظر الإحسان وإصلاح ما فيها من الزلل والخطأ والهذيان فإني معترف	He explicitly requests correction of slips, mistakes, and confused passages.
+13	بأن بضاعتي مزجاة وظلي قلص من ظل خطاه شعريكون أجاجاً دونكم فإذا غدا	The author intensifies his humility, calling his own contribution meager beside his predecessors.
+14	لديكم تلقى نشركم فيطيب وعلى الله جل شأنه اعتمادي وهو حسبي ونعم الوكيل قوله 	He entrusts the work to God, then turns to the lemma of the base text.
+15	اعلم أن المناظرة إلخ آداب البحث والمناظرة في صناعة التقرير والتحرير كعلم المنطق في الروية 	The commentary opens by comparing adab al-bahth to logic in ordering thought and exposition.
+16	والتفكير وبها يقصر سبيل المرام وتخلص مقيلة الكلام حتى إن متقدمي المنطقيين	This discipline shortens the path to correct inquiry and clarifies speech.
+17	كانوا يجعلون مباحثها ذيلاً للمنطق ثم إن المتأخرين أفردوها على حدة ودونوا فيها	Earlier logicians treated it as part of logic; later scholars made it independent.
+18	كتباً ورسائل بوفور الحاجة إليها في المباحثة والأبحاث لدى الأفاضل هذا وقد كان من	Its separate codification is justified by practical scholarly need in disputation.
+19	أصحاب التصنيف والتدوين أن يصدروا كتبهم بطائفة من الكلام في ماهية العلم وموضوعه والحاجة	He notes the convention of opening books with a prolegomenon on definition, subject, and utility.
+20	إليه يدعونه بمقدمة الشروع وحيث ترك المصنف ذلك روماً للاختصار وتحاشياً 	Taşköprüzade omitted that preface for brevity, so the commentator supplies it.
+21	عن الإكثار فلا علينا في إيضاحه وبيانه فنقول آداب البحث صناعة نظرية	Beginning of the commentator's own formal definition of the science.
+22	الطالب معرفة طرق المناظرة وشرائطها صيانة له عن الخبط في البحث	Adab al-bahth teaches methods and conditions of debate to prevent confusion.
+23	وموضوعه المباحث والأبحاث من حيث التأليف والتوجيه	The subject matter is debates and argumentative exchanges as structured and directed.
+24	ثم لما كان ذلك مختلفاً باختلاف كل مسألة وكل علم فإن لم تكن ضرورية فلابد لحصول العلم	Debate procedure varies across questions and sciences, especially in non-self-evident matters.
+25	أو الظن بها من توضيحات وأدلة وإزالة نسبة السؤال وتعرف أقسام الاعتراضات 	Knowledge or probable judgment requires proofs, clarifications, and recognized objection-types.
+26	والتوجيهات وهي ليست بضرورية فلا جرم دعت الحاجة إلى معرفة قانون يفيدنا	Because such procedures are not self-evident, a regulating discipline is needed.
+27	معرفة القدر الكافي من الهيئات وأقسام الاعتراضات والجوابات الموجهات منها	The science teaches sufficient forms of objections and directed responses.
+28	وغير الموجهات وهو هذا العلم ثم إن ههنا تنبيهاً يحسن الوقوف عليه وهو أن	It also distinguishes proper from improper responses; a new analytical note follows.
+29	كل علم يقع فيه البحث إما أن يتعلق بالألفاظ أو المعاني أو بهما جميعاً، أما الأول فكعلم 	Sciences are classified by whether they concern words, meanings, or both.
+30	اللغة والنحو والصرف والعروض وغير ذلك من العلوم العربية وأما الثاني فأقسام	Examples of word-based sciences: language, grammar, morphology, and prosody.
+31	المعقولات كالإلهي والطبيعي والرياضي والطب والأخلاق وجملة ما لا تعلق له بالألفاظ	Meaning-based sciences include metaphysics, natural science, mathematics, medicine, and ethics.
+32	وأما الثالث فكعلم التفسير وعلم الحديث وأصول الفقه وما شابه ذلك وفي كل واحد من	Mixed sciences include tafsir, hadith, and usul al-fiqh.
+33	هذه العلوم اصطلاحات ومسلمات يجب على الباحث في ذلك العلم أن يسلمها فيه سواء كانت	Each science has its own conventions and accepted premises that the debater must grant.
+34	يقينية أم لا وذلك لأن أدلة كل علم لها غادية في القوة والمرتبة بنفس التجاوز إلى ما فوقها	Proofs differ in strength by discipline and do not automatically transfer upward.
+35	ويحصل الغرض من ذلك العلم بها كالفقه مثلاً فإن قصارى أدلته الظن الغالب ويحصل به	Fiqh is given as an example: strong probability suffices for its practical aim.
+36	المطلوب من الفقه من العلم بوجوب العمل فح لا يطلب في كل علم إلا ما هو متيسر فيه	One should demand from each science only the level of proof proper to it.
+37	فلا يطالب في الفقه والنحو مثلاً البرهان بل يقتصر على حصول الظن الغالب والأخذ بالأولى	Demonstrative certainty is not required in fiqh or grammar; probable reasoning may suffice.
+38	 والأحسن ودلائل العلوم وقد ترتب في القوة والضعف أدناها مرتبة دلائل النحو والتصريف	The sciences' proofs are ranked by relative weakness and strength.
+39	وما يتعلق بعلم اللغات ثم دلائل الفقه ثم أصول الفقه والخلاف ثم الحكمة ثم 	He orders them upward from philology to fiqh, usul, khilaf, and philosophy.
+40	المنطق ثم الهيئة ثم الهندسة وهي أعلى الدلائل قوة انتهى قوله:هي النظر إلخ من العجب أن الإمام السمرقندي	The sequence culminates in logic, astronomy, and geometry; then he turns to Samarqandi's definition.
+41	تعريفها بمدافعة الكلام من الجانبين إظهاراً للصواب عرفها بذلك التعريف في الرسالة و	He notes that al-Samarqandi defined debate as two-sided disputation aimed at truth.
+42	قد تعسف بعضهم في توجيه ذلك بأنه مجرد متابعة للإمام النسفي فتأمل قوله	He rejects the strained claim that Samarqandi merely followed al-Nasafi.
+43	مأخوذة من النظر إلخ بيان للمناسبة بين المعنى المنقول منه والمعنى المنقول إليه	The term is discussed etymologically through its relation to naẓar, "consideration."
+44	ولم يذكر الشارح من المعاني اللغوي النظر بالبصيرة والنظر بمعنى المقابلة وقد تابع في	The commentator notes omitted lexical senses such as inner seeing and confronting.
+45	ذلك المدقق مسعود الرومي ولم يخفى عليك قوة المناسبة باعتبار	He observes that Mas'ud al-Rumi followed the same lexical selection.
+46	Folio 2	Folio marker for the second manuscript page.
+47	فإن قلت باعتبار المعنى الأول يفضي إلى الاتحاد بين المعنى اللغوي والمعنى المصطلح عليه لأنه 	Objection: deriving the technical sense from the lexical sense risks collapsing the distinction.
+48	مأخوذ فيه فلم يحسن ذكره قلت يجاب عنه بأن الاتحاد مندفع بناء على أن المغايرة حاصلة من	Response: extra technical restrictions preserve difference between lexical and technical usage.
+49	با قی القيودالتی الحذت فی المعنى المصطلح لايقال ان قد اظهر ماخفي من المعانى اللغويي واخفى	He addresses a further objection about highlighting obscure lexical senses while neglecting obvious ones.
+50	 ما ظهر منها لأنه يقال يجوز أن يكون الأمر بالعكس فتأمل قوله والمراد بالنظر إلخ	The commentator says the valuation could be reversed; then returns to defining naẓar.
+51	 لا يخفى أن المشهور في هذا المقام تفسير النظر بالفكر بقرينة استعماله بفي لكن حيث أورد على 	Common view: naẓar here means fikr, "thought," due to standard usage.
+52	تعريف المناظر بأنه غير جامع لأنه يصادق على المنع المجرد لأن السائل إذا اقتصر على مجرد المنع	Problem: that definition excludes the questioner who only raises bare denial.
+53	لا يصدق عليه ترتيب أمور معلوم على وجه يؤدي إلى استعلام ما ليس بمعلوم الذي هو	Bare denial does not fit the classic definition of thought as arranging known premises.
+54	معنى الفكر فعدل بعض المحققين عن التفسير المذكور وفسر النظر بالتفات النفس إلى المعاني 	Some therefore redefine naẓar as the soul's turning toward meanings.
+55	ليصدق التعريف على تلك الصورة فإن النفس السائل لها التفات إلى المعاني وإن لم يكن لها	This broader sense includes the questioner's mental orientation even without full inferential thought.
+56	فكر بالمعنى المذكور وهو تكلف فإن النظر بهذا المعنى يكون مستعملاً بإلى وقد تعسف بعض 	He judges this reinterpretation forced, partly on linguistic grounds.
+57	الأفاضل في التوجيه حيث قال إن النظر إذا كان بمعنى الالتفات يكون مستعملاً بفي وإذا عبر عنه	He criticizes attempts to justify the shift through different prepositions.
+58	بلفظ الالتفات يكون مستعملاً بإلى هذا ثم إن الشارح سلك هذه الطريقة حيث فسر 	The commentator notes that the sharh itself followed this broadened path.
+59	النظر بالتوجه نحو المعقولات وكان الداعي لذلك توجه الإيراد الذي ذكرناه آنفاً لكن بقي 	The motive was to solve the earlier objection, though another issue remains.
+60	هنا شيء وهو أنه ذكر في آخر البحث الإيراد المذكور وأجاب عنه بأن المنع مفوت لإثبات 	The sharh later answers that bare denial affects the establishment of predication.
+61	النسبة الحكمية فيكون من قبيل النظر فيها وما بنى دفعه على تفسير النظر بما ذكر فلا 	So denial can count as relevant to naẓar without redefining the term.
+62	يكون للعدول عما هو المشهور وجه على أنه قد يجاب عن ذلك الإيراد بأن الفكر مقول 	Therefore leaving the standard interpretation is unnecessary; another reply is offered.
+63	بالاشتراك اللفظي على معنيين أحدهما الحركات التخيلية والثاني ترتيب أمور معلومة	Fikr can mean either imaginative mental movement or formal arrangement of premises.
+64	إلخ والأول أعم من الثاني وليس المراد بالفكر ههنا المعنى الثاني بل المراد به المعنى الأول فح	The wider first sense is preferable here because it covers more cases.
+65	يتناول التعريف تلك الصورة بلا كلفة فإن المانع منها مجرداً إذا منع مقدمته من مقدمات	Thus the definition can include bare denial without strain.
+66	الدليل لا يدل من حركات تخيلية بأن المنع وارد أم لا فإن كان وارداً فعلى أي مقدمة من	The questioner still engages mentally by determining whether and where objection applies.
+67	مقدمات الدليل فإن من المقدمات ما لا يتوجه عليه المنع أصلاً كالبديهيات والمسلمات 	Some premises, like self-evident or conceded ones, are not open to objection.
+68	أقبل أن ذلك الفكر لا دخل له في كون البحث مناظرة وإنما الدخل للفكر الواقع في 	Yet such preliminary mental motion is not what makes an exchange a debate.
+69	نفب	This line appears corrupt or incomplete in the transcription.
+70	الحكم التنازع فيه ثبوتاً أو نفياً فقد أورد عليه بأن السائل ما لم يورد المنع	What matters is thought concerning the disputed predication, affirmatively or negatively.
+71	لا يكون البحث مناظرة وما لم يتحقق ذلك لا يورد المنع فتأمل جيداً.قوله لإخراج	He states the circularity objection, then turns to the clause excluding pre-issue consideration.
+72	النظر قبل تحرير البحث قبل التحرير الأمر إذ يقال حرره لأمر كذا أي أفرزه له في الصحاح تحرير الكتاب	He explains taḥrīr through lexical senses such as correcting or setting something free.
+73	تقويمه وتحرير الرقبة عتقها وتحرير الولد تقريبه لطاعة الله وخدمة المسجد وتحرير	More lexical examples continue to ground the meaning of taḥrīr.
+74	الكلام تهذيبه وتحرير البحث تعيينه وتعريفه كما إذا ادعى أحد أن النية ليست بشرط	Technical taḥrīr al-baḥth means defining and specifying the issue under dispute.
+75	في الوضوء فيقول المراد بالنية ما يكون بالقلب وهي القصد ويعرف الشرط والوضوء	Example: in debating intention in ablution, the disputed terms must be defined.
+76	وإنما يجب عليه ذلك التعيين محل النزاع ويكون التوارد بالنفي والإثبات على شيء	Specification ensures affirmation and negation target the same precise matter.
+77	واحد من الجانبين ولا حاجة إليه إذا كان البحث مشهوراً أو يعرفه الخصم ولا يطلبه	If the issue is already clear to both parties, such clarification may be unnecessary.
+78	قوله والمراد بالجانبين إلخ هذا أولى مما ذهب إليه المدقق مسعود الرومي	He prefers interpreting "the two sides" differently from Mas'ud al-Rumi.
+79	فإنه فسرهما بالمتخاصمين وأما عدم شمول المعلل والسائل لصورة المعارضة بلا كلفة	Al-Rumi read them as two litigants, which creates difficulties for opposition cases.
+80	بناء على أن السائل طالب والمعارض ليس يطالب بل هو معلل أيضاً فلابد من أن يتكلف	In mu'arada the opponent also argues, not merely asks, so categories must be handled carefully.
+81	ويقال المراد بالمعلل الحافظ للوضع لإقامة الحجة وبالسائل الهادم للوضع بالمنع والمعارض 	He reframes the roles as establisher versus underminer of the argumentative position.
+82	فقد يدفع بأن المعارضة منع المدلول مع إقامة الدليل على خلاف ما أقام عليه الخصم وإن	Mu'arada is defined as opposing the conclusion with a counter-proof.
+83	التعريف بإقامة الدليل إلخ ما صحة مشهورة على أنه لا تكلف في ذلك الحملأصلاً فإنه أحد	He says this reading is not excessively forced and rests on accepted role-definitions.
+84	المعاني التي ذكرت للمعلل والسائل لا يقال الجانبان أعم من المعلل والسائل والعام لا يدل على الخاص	He answers the objection that the expression is too general.
+85	بدلالة أصلاً لأن ذلك مشترك الالتزام فإن المتخاصمين أخص أيضاً وما هو جوابكم 	The same problem would affect rival formulations as well.
+86	فهو جوابنا والحاصل أن الجانبين وإن كانا أعم من المعلل والسائل في اللغة لكنهما في عرف	Conclusion: in technical usage the phrase points primarily to the two debate roles.
+87	هذا الفن موضعان لهما وضعاً أولياً فدلالتهما على المعلل والسائل أولية دون غيرها	In the discipline's convention, those roles are the default reference.
+88	قوله ويحترز بذلك إلخ فإنه يصدق على ما ذكر أنه نظر بالبصيرة من الجانبين في النسبة لكن لا بين 	The exclusion clause prevents overextension of the definition.
+89	الشيئين المعنيين فلم يكن مناظرة أصلاً إذ المناظرة يجب أن يكون المحكوم عليه وبه فيها	Debate requires determinate subject and predicate, not mere bilateral attention.
+90	متعينين بتعين محل النزاع ويظهر صحة كلام الجانبين وفساده على ما حقق في المطولات	Correctness and falsity can only be assessed once the issue is fixed.
+91	قوله وإلا لاختص إلخ يعني لو لم يجعل هذا القيد احترازياً لاختص النظر في النية	Without the clause, the definition would narrow improperly.
+92	بالصورة المذكورة أي بين الموضوع والمحمول والمقدم والتالي لأن النسبة لا تكون إلا 	It would be restricted to relations like subject-predicate or antecedent-consequent.
+93	 لا تكون إلا بين الشيئين فيكون هذا القيد ببيان الواقع وهو خلاف الأصل أورد 	He rejects making the clause merely descriptive rather than restrictive.
+94	Folio 3	Folio marker for the third manuscript page.
+95	في هذا المقام بحث مشهور وهو أن النظر في المحكوم عليه وبه بحسب الحقيقة نظر	A famous objection is introduced about considering subject and predicate.
+96	في النسبة فإن النظر من الجانبين لا يتصور إلا إذا انعقد هناك قضية وكذا الكلام في حقيقة 	Such consideration already implies a proposition and relation.
+97	النسبة فإنه إذا كان من الجانبين لا يتصور إلا إذا انعقد هناك قضية وإذا كان كذلك فكيف	If so, how can it be excluded from the definition of debate?
+98	يحترز عنه وأجيب عنه بأن المحكوم عليه وبه يلزم أن يكون مأخوذاً في تلك	Response: subject and predicate may be considered in a non-debative way.
+99	النظر والالتفات ليس بمناظرة وإن كان النظر الواقع في تلك القضية مناظرة والمراد 	Attention to the terms alone is not identical with debate over the proposition.
+100	من النظر الواقع في المحكوم عليه وبه وهو الأول فيجب التحرز عنه وكذا الكلام في النظر في	The definition excludes only the first sort of attention.
+101	حقيقة النسبة فتأمل قوله ثم إن قصد إظهار الصواب إلخ إشارة إلى دفع ما يقال	He now addresses the clause "aiming to manifest the truth."
+102	إنه قد يكون الغرض من جانبي الخصومة تغليظ الخصم صاحبه فلا يصدق	Objection: some debaters seek to overpower an opponent, not reveal truth.
+103	عليه هذا التعريف وتقرير ما ذكره أن غرضه إظهار الصواب لا تنافي غرضية 	Response: apparent truth-seeking can coexist with a motive of humiliation.
+104	التغليظ لأن المناظرة المغالط بحسب [الظاهر] صدر أن بحثه لإظهار الصواب غاية	Outwardly, even the sophist presents his debate as truth-directed.
+105	ما في الباب أن الإصابة لا تكون غرضاً له لا يلزم من عدم كون غرض المناظرة الإصابة أن 	His inner aim may differ from the formal aim of the debate act.
+106	لا يكون إظهارها غرضاً له ولكن أن تقول إن أريد بالغرض ما هو غرض بحسب الحقيقة	He distinguishes real inner motive from formal or apparent end.
+107	فلا نسلم إظهار الصواب غرض للمغالط بحسب الحقيقة وإن أريد به ما هو غرض 	For the sophist, truth is not the real final cause.
+108	بحسب [الظاهر] فعدم التنافي بين الغرضين مسلم لكن الكلام فيما هو غرض	At the level of outward procedure, however, both aims can coexist.
+109	بحسب الحقيقة واعلم أن الشارح قد تابع المدقق مسعود الرومي في هذا المقام لكن	The sharh follows Mas'ud al-Rumi here, but a further objection is raised.
+110	اعترض عليه الفاضل الحنفي بأن ذلك مبني على جواز تعدد العلة الغائية وهو مم 	A Hanafi scholar objects that this assumes multiple final causes.
+111	لأن الباعثة على إقدام الفاعل على الفعل فإن كان الباعث مجموع الأمرين فهو علة 	If both motives jointly move the act, the final cause is their composite.
+112	غائية لا كل واحد منهما وإن كان كل واحد على حدة كذلك لزم توارد العلتين 	If each independently explains the act, two causes converge on one effect.
+113	المستقلتين على معلول واحد مشخص وهو مم وإن كان واحد منهما كذلك فقط	That convergence is rejected; only one can be the true final cause.
+114	فهو علة غائية لا غير ومنه علم ضعف القول بجواز تعددها فليتأمل	He concludes that the multiplicity thesis is weak.
+115	قضى في هذا التعريف إلخ قد يجاب عنه بأن المنع المجرد ليس من المناظرة إذ ليس	Another reply: bare denial is not really part of debate.
+116	من البحث في شيء بناء على أن المبحث عبارة من إثبات النسبة الحكمية إيجابية 	Debate concerns establishing or negating a predicative relation by reasoning.
+117	كانت أو سلبية بطريق الاستدلال أعم من أن يكون دليلاً أو صورة الدليل على ما	This includes full proof or proof-form, whether affirmative or negative.
+118	هو المشهور من معانيه الاصطلاحية ويكون ذكرهم المنع المجرد استطرادياً وقد 	Thus references to bare denial may be incidental rather than essential.
+119	وقد بينا من قبل ما يدفع هذا الإشكال فكن على ما ذكر منه.قوله وأجيب بأن	He indicates that earlier analysis already handled the issue.
+120	المنع إلخ إن كان مراده بالنظر في قوله من قبيل النظر فيها بمعنى الفكر فهو صحيح	If naẓar means thought, the prior answer works.
+121	لكنه ليس بمرضيّ ضده وإن مراد النظر بمعنى التوجه كما هو تفسيره فلا معنى لإقحام	If naẓar means mere orientation, the wording becomes awkward.
+122	لفظ القبيل فتأمل.قوله وسيجيء تفصيلها ملخص التفصيل الآتي أن 	He moves to the promised classification of opposition.
+123	المعارضة على قسمين معارضة في الدليل ومعارضة في المقدمة وإن الأولى تنقسم	Mu'arada is divided into opposition to the proof and opposition to a premise.
+124	إلى القلب والمثل والغير وقد جعل المقسم ههنا مطلق المعارضة فتدبرها قوله       	The first type is further divided into qalb, mithl, and ghayr.
+125	لأنه إما أن يمنع مقدمة الدليل اعلم أن المقدمة تطلق تارة على ما يتوقف عليه	He pauses over the term muqaddima, noting its several meanings.
+126	الأبحاث الآتية وتارية على قضية جعلت جزء قياس وتارة على ما يتوقف عليه 	A premise may be part of a syllogism or a condition of valid proof.
+127	صحة الدليل والمراد بالمقدمة هنا أحد المعنيين والمعنى الأول أعم من الآخرين	Here one of these technical senses is intended, with one broader than the rest.
+128	لأن كل ما جعل جزء دليل أو يتوقف عليه صحة الدليل يتوقف عليه الأبحاث الآتية	Anything that is part of proof or required for proof conditions later inquiry.
+129	من غير عكس كما يجاب الصغرى وكلية الكبرى فإن صحة الدليل بل هنا خارجان	The relation is one-way, as shown through syllogistic examples.
+130	عنه هذا ثم الدليل هنا عبارة عن المركب من قضيتين للتأدي إلى مجهول نظري	He defines proof here as a compound of two propositions yielding theoretical knowledge.
+131	وهذا أولى من تعريفه بما يلزم من العلم به العلم بشيء آخر على ما هو المشهور لانتقاضه 	He prefers this over the broad standard definition of dalil.
+132	طرداً بالمعرفات بالنسبة على معرفاتها والملزومات بالنسبة إلى لوازمها البينة و	The standard definition overgenerates, including definitions and obvious concomitants.
+133	عكساً بالأدلة الغير البينة الإنتاج وبالدليل الفاسدة الصورة سواء كان على 	It also undergenerates by excluding some inferential forms and malformed proofs.
+134	الصحة أو على قصد التغليظ كقولنا الإنسان حيوان والحيوان جنس لإثبات الإنسان 	He gives a faulty argument example to show the problem.
+135	جنس وفساد الصورة فيه باعتبار أن الكبرى ليست كلية بخلاف التعريف الأول	The form fails because the major premise is not universal.
+136	على ما قيل فتأمل قوله وإنما قدم منع المقدمة إلخ الجواب لإيراد مشهور	He turns to why denial of a premise is discussed before other moves.
+137	 وهوان ترتب المنوع على ما ذكره الإمام الرازي في المحاكمات هو أن النقيض	Razi's ordering gives priority differently, raising an objection.
+138	مقدم على المناقضة وهي على المعارضة وهذا ما يقتضيه طبع البحث فإن الدليل 	Natural procedure seems to prioritize refutation of the proof itself.
+139	Folio 4	Folio marker for the fourth manuscript page.
+140	موصل قريب إلى المطلوب ومقدماته موصلات بعيدة والنظر في الموصل	The full proof is a nearer route to the conclusion than its separate premises.
+141	القريب أقرب في النظر أهل المناظرة إلى ما هو المقصود أعني رد ما يدعيه الخصم وأن	So debating practice might seem to start with the proof, not the parts.
+142	النقض يدل على فساد الدليل صريحاً بخلاف المناقضة فإنها تدل على خفائه وأما المعارضة	Naqd explicitly shows the proof's failure; munaqada and mu'arada differ in force.
+143	فهي قدح في الدليل ضمناً فلا عبرة بها فلو قدم المصنف النقض على المناقضة لوافق	Opposition is more indirect, so another ordering might appear preferable.
+144	الوضع الطبع وتقرير الجواب أن طبع البحث وإن اقتضى تقديم النقض ولكن تقدم متعلق	Response: although naqd seems prior, its object is posterior to the premises.
+145	 المناقضة وهو مقدمات الدليل على متعلق النقض الذي هو مجموع	Munaqada concerns premises, which are ontologically prior to the whole proof.
+146	الدليل يقتضي تقديم المناقضة لتعلقه بالجزء الدليل ولا شك أن الجزء متقدم	Hence premise-level denial can legitimately precede proof-level refutation.
+147	على الكل طبعاً فكذا ما يتعلق به على قياس ما تقرر في علم المنطق من تقديم	This is likened to logic's priority of what leads to conception before assent.
+148	الموصل إلى التصور على الموصل إلى التصديق هذا ويمكن أن يقال	A secondary explanatory route is then proposed.
+149	يجوز أن يكون عدول المصنف مما ذكره الإمام الرازي لنكتة وهي رعاية التناسب	The author may have shifted order to preserve a certain conceptual symmetry.
+150	بين النقض والمعارضة في كون كل واحد منهما استدلالاً وراجعاً إلى منع	Naqd and mu'arada both involve argumentative resistance rather than simple demand.
+151	مقدمة غير معينة وفي هذا المقام أبحاث نفيسة تطلب من الحاشية الفتحية	He refers readers to another gloss for more detailed discussion.
+152	قوله أي الذي هو شاهد المنع المشهور فيما بينهم أن المنع	He now defines the "witness" or supporting sign associated with denial.
+153	في هذا المقام إنما يقارن الند فقط وأما الشاهد فإن اعتبر مفهومه	Common usage links a certain companion notion specifically to one objection type.
+154	فقط وهو ما يدل على فساد الدليل من غير اعتبار قيد الحيثية فقد يصدق	If "witness" is taken broadly, it may overlap with sanad.
+155	على السند بهذا الاعتبار فيقارن المنع بطريق المطالبة وإن اعتبر مفهوم	If taken with a stricter qualification, the overlap disappears.
+156	مع ذلك القيد فلا يصدق عليه ولا يقارن المنع المذكور وإنما يقارن	He distinguishes broad versus narrow readings of "witness."
+157	المنع بطريق الإبطال فإن السند وإن كان يصدق عليه أنه مشاهد لكن	Sanad may show failure, but not always in the same technical sense.
+158	لا يصدق عليه من حيث أنه شاهد فعلى التقدير الأول الشاهد أعم من السند	On one reading, witness is broader than sanad.
+159	وعلى الثاني مباين له بالاعتبار وقد يطلق الشاهد على ما يدل على فساد	On another reading, the two are distinct.
+160	الدليل من حيث إنه ذلك وعلى هذا لا يصدق على السند أصلاً بل يكون	If defined by proof-failure as such, sanad is excluded altogether.
+161	مبايناً له لذات والاعتبار جميعاً إذا تحققت هذا علمت ما في تفسير	This shows the defect in equating sanad with witness.
+162	السند بالشاهد من الخلل اللهم إلا أن يقال السند مرادف الشهادة عند الأصوليين وفيه	He notes an attempted usuli defense of the equivalence.
+163	أن ذلك مبني على جعل النقض والمناقضة شيئاً واحد وحصر الكلام السائل في المناقضة والمعارضة	But that depends on a different classification collapsing naqd and munaqada.
+164	وأنه اصطلاح آخر وتوضيحه أن المناقضة عندهم عبارة عن النقض ومرجعها إلى الممانعة	This is presented as an alternative terminology, not the current one.
+165	لأنها امتناع من تسليم بعض المقدمات من غير تعيين وتخلف الحكم عندهم بمنزلة السند	In that system, failed entailment functions like the supporting sanad.
+166	فتأمل قوله ومنها نوع إلخ لا مرية في أن المناقضة منع بطريق المطالبة فقط ففي	Returning to the present system, he questions a subtype's placement under munaqada.
+167	اندراج هذا النوع تحت المناقضة خفاء فإنه في الحقيقة عبارة عن دعوى فساد المقدمة	The subtype is really a claim that a premise is defective.
+168	بناء على الاشتباه فالأحرى أن يجعل من أنواع النقض الإجمالية فتأمل قوله 	It might better be counted under broad refutation instead.
+169	إنما يرد على مقدمة مبنية على الفاظ اعلم أن السبب العالم في تحقيق الغلط في الدليل	He introduces fallacy arising from verbal ambiguity in a premise.
+170	هو عدم التمييز بين الشيء وما يشبهه لأنه لو لم يشتبه شيء بما شابهه لما أمكن	Error stems from confusing a thing with what resembles it.
+171	التلفظ ثم الغلط إما أن يكون بسبب المادة أو بسبب الصورة أو بسببهما	Fallacy may be material, formal, or both.
+172	جميعاً وأسباب الغلط البسيط تنحصر في اثني عشر قسماً ستة منها في الألفاظ و	Simple errors are divided into twelve types, six verbal and six semantic.
+173	ستة منها في المعاني وقد يتألف منها أقسام أخرى يعني معرفة بساقطها عنها	Further composite classes arise from combining those basic types.
+174	وإن أردت الوقوف على معرفة هذه الأقسام وأمثلتها وحلها فارجع إلى شرح القسطاس	He refers readers to Samarqandi's Sharh al-Qistas for details.
+175	 للإمام السمرقندي قوله أي إقامة الدليل على خلاف ما أقامه على	He resumes the definition of mu'arada as proving the contrary.
+176	رأي الإمام المحقق من أهل النظر وإما على رأي صاحب المقدمة فالغصب	Under another view, acting too early in this way counts as usurpation.
+177	قوله فهو غصب إلخ قيل فما سمي غصباً لأن السائل إذا كان في منع	He explains why the move is called "ghasb" in debate.
+178	المقدمة لا يكون معارضاً بل يكون مناقضاً فالمعارضة منصب	The questioner seizes the role of the objector-prover improperly.
+179	الغير وقد عصب السائل ذلك المنصب وقيل لأن التعليل قبل إثبات	One explanation is role usurpation; another concerns procedural right.
+180	المقدمة الممنوعة حق المعلل ولا حق للسائل إلا المنع المجرد	The establisher has priority to prove his premise before counter-proof appears.
+181	أو منع سند المطالبة قوله لاستلزامه الخبط إلخ حاصله	The questioner's right is limited to denial or challenging the basis of demand.
+182	أن الغصب لا يسمع ولا يلتفت إليه قوله خلاف البعض	Therefore ghasb is generally inadmissible.
+183	إلخ نقل من الإمام ركن الدين العميدي أنه كان يسمع الغصب	But Rukn al-Din al-Amidi reportedly allowed hearing it.
+184	ويقول إن منعه وعدم سماعه لا يجدي نفعاً فإن السائل	Al-Amidi argues that exclusion is often practically useless.
+185	Folio 5	Folio marker for the fifth manuscript page.
+186	قد يكون ذهنياً فيخرج ما قاله عن صورة الغصب بأدنى تفسير مثلاً في المثال المذكور	The questioner can often rephrase the move to make it admissible.
+187	آنفاً يقول لا نسلم أن الحلي مراد هو غير مراداً لثبت الحكم فيه لكنه غير ثابت وذلك لقوله عليه الصلاة	Illustrative case: dispute over whether "ornament" is intended in a legal proof.
+188	والسلام لا زكاة في الحلي فإن قال المعلل هذا غصب وهوغير مسموع فيقول السائل هكذا الحلي	A hadith about no alms on ornaments supplies the counterexample.
+189	غير مراد إذ لو كان مراد منه لكان مع جميع لوازم الإرادة كالحكم في صورة النزاع والحرج 	The questioner reformulates the objection through entailments of intended meaning.
+190	بعدم الأداء لكن جميع اللوازم منتفية لقوله عليه السلام لا زكاة في الحلي فح يكون قياساً 	Because the entailments fail, the objection becomes a structured conditional proof.
+191	استثنائياً واجب السمع وإن كان كذلك يكون الغصب مسموعاً إذ سماعه والالتفات	If recast as a valid hypothetical syllogism, it must be heard.
+192	إليه يدفعه أولاً أولى ومنعه لا يجدي نفعاً فبالعناية يستحق الجواب كما علمت وقد أورد	Thus answering it directly may be better than formally excluding it.
+193	على الإمام ركن الدين البحث من وجهين أحدهما أن ما هو باطل فالأصل أن لا يجاب	He then records two objections against al-Amidi's permissive view.
+194	عنه وما لا يتوقع إلا من البعض في بعض الأحيان لا يترك الأصل لأجله والثاني 	First objection: one should not abandon the norm for occasional cases.
+195	أن الجواب عن الغصب لا يخلو إما أن يكون جواباً عن نفس الغصب وهو باطل	Second objection begins: either the answer targets the invalid move itself or not.
+196	لأن الغصب باطل بالاتفاق والباطل لا يستحق الجواب أصلاً أو يكون جواباً عما يقال 	If it targets ghasb itself, that is improper because the move is void by consensus.
+197	بعد المنع ولا يجدي نفعاً أيضاً لأنه لا يكون جواباً عن الغصب فتأمل قوله	If it answers only a later reformulation, that still does not justify hearing the ghasb.
+198	وذلك الشاهد على نوعين إلخ ظاهر كلام المحقق مولانا عضد الملة والدين في الرسالة	He turns back to "witness" and notes how 'Adud al-Din presents it.
+199	تخصيص الشاهد بالتخلف وحصره فيه وقد أورد عليه أن النقض لا يختص بالتخلف المذكور	'Adud seems to restrict witness to failed entailment, but this is challenged.
+200	بل هو عبارة عن منع الدليل بأن يقال إن هذا الدليل غير صحيح إما لتخلف الحكم عنه أو لاستلز	Naqd is broader than one kind of failure.
+201	ام فساد آخر على أي وجه كان من الخصوصيات وأجيب عنه بأن هذا إنما يرد ما لو حمل التخلف	The reply depends on reading "takhalluf" broadly rather than narrowly.
+202	على تخلف الحكم عن الدليل كما هو المتبادر وأما إذا حمل على ما هو أعم من تخلف المذكور من	If broad enough, it covers other inferential breakdowns too.
+203	الدليل ولخلف اللازم من الملزوم فلا ورود له لأنه إن استلزم الدليل فساداً كان	A proof implying absurdity necessarily lacks a valid entailment relation.
+204	لازمه متخلفاً عنه قطعاً ضرورة أن ذلك الفساد اللازم غير متحقق في الواقع علم أنه	The unwanted consequence is absent in reality, so the proof fails.
+205	على تقدير حمل التخلف على المعنى الأول إنما يتوجه ذلك الإيراد إن أريد بالحكم الحكم	On the narrow reading, the objection returns depending on what "judgment" means.
+206	الذي في الدعوى أو غير فلا قوله واعلم أن النقض قد يكون إلخ أي بأن	He next distinguishes kinds of naqd by structural variation.
+207	لا يتفاوت الدليل في الموضعين إلا باعتبار المحكوم عليه في الأقيسة آلاقبئرا نیت	One form keeps the proof the same except for the subject term.
+208	أعني موضوع الصغرى في الشكل الأول وباعتبار الجزء المتكرر بعينه إما نفياً أو إثباتاً	This is explained through the subject of the minor premise or repeated conditional part.
+209	في لائقة الاستثنائية كما إذا كان المدعى أن كلام الله تعالى أزلي فالمحكوم عليه	Example: the claim that God's speech is eternal.
+210	هو الكلام وقياسه أنه أسنده إلى ذاته حقيقة وكلما كان كذلك فهو صفة أزلية	The proof is that what is truly attributed to God's essence is eternal.
+211	فينقض بأن يجري هذا الدليل بعينه في الخلق بأن يقال الخلق أزلي فالحكم عليه	The same form is then run on "creation" to expose a problem.
+212	هنا الخلق وقياسه أنه أسند على ذاته وكلما كان كذلك فهو أزلي فهذا الدليل بعينه الدليل	That yields the absurd conclusion that creation is eternal.
+213	الأول لأن التفاوت بينهما باعتبار المحكوم عليه ليس إلا فإنه في الأول الكلام وفي الثاني	The two arguments differ only in the subject term.
+214	الخلق قوله وقد يكون بأجزاء ملخص الدليل إلخ كان يقال في المثال المذكور الكلام مسند	Another kind of naqd uses summarized parts of the proof.
+215	إليه يقال بطريق الحقيقة لأنه ورد في القرآن ذلك وكلام الله موسى تكليماً فيقعد الناقض الخلق 	Qur'anic wording is cited to support the original attribution.
+216	مسند إليه بطريق الحقيقة أيضاً لأنه ورد في القرآن ذلك إنا خلقنا الإنسان في أحسن تقويم	A parallel Qur'anic attribution of creation produces the counter-instance.
+217	قوله وقد ينقض الدليل الدليل اشتهر فيما بين الجدليين أن الكسر عبارة	He turns to "kasr," a well-known dialectical technique.
+218	عن إسقاط وصف من أوصاف العلة المركبة وإخراجه من الاعتبار بيان الدلالة أنه لا أثر له وقد	Kasr removes one element of a compound cause as irrelevant.
+219	ذكر له صورتان إخديهما أن يبدل ذلك الوصف الخاص الذي بين أنه لغوي بوصف أعم منه	First form: replace a specific feature with a broader one.
+220	ثم إن السائل ينقضه على المستدل كأن يقول شافعي في إثبات صلاة الخوف صلاة	Legal example begins concerning fear-prayer.
+221	يجب قضاؤها فيجب أداؤها كصلاة الأمن فيقول المعترض خصوص كونها صلاة	The Shafi'i argument treats fear-prayer as something that must be performed because it must be made up.
+222	ملغى لا أثر له لأن الحج والصوم كذلك فلم يبق إلا الوصف العام وهو كونها عبارة فينقض	The objector says the feature "being a prayer" is irrelevant since hajj and fasting also fit.
+223	عليه بصوم الحائض فإنه عبادة يجب قضاؤها ولا يجب أداؤها بل يحرم والصورة الثانية	The fasting of a menstruating woman serves as counterexample.
+224	أن لا يبدل ذلك الوصف فلا يبقى في مثالنا إلا قول وجب قضاؤها فيجب أداؤها	Second form: omit the specific feature without replacement.
+225	فيقال ليس كلما وجب قضاؤه وجب أداؤه بدليل صوم الحائض فقد أعرض ذلك	The general rule is then directly refuted by the same counterexample.
+226	الوصف بالكلية وذكر صورة النقض هذا نقل من إمام أهل الجدل أبو إسحاق	The specific descriptor is dropped entirely; the view is traced to Abu Ishaq al-Shirazi.
+227	الشيرازي أنه قال في الملخص ما نصه وهو أي هذا النوع من النقض سؤال مليح والاشتغال به	Al-Shirazi praises this as an elegant objection.
+228	ينتهي إلى بيان الفقه وتصحيح العلة وقد اتفق أكثر أهل العلم على صحته أو فساده	It helps clarify fiqh and correct the causal rationale, though there was disagreement.
+229	ويسمونه بالنقض من طريق المعنى والإلزام من طريق الفقه وأنكر ذلك طائفة من	It is called semantic naqd or juridical ilzam.
+230	الخراسانيين قالوا إن العلة هي مجموع الصفات وتخلف الحكم من بعضها لا يوجب	Some Khurasanis reject it because the cause is the total set of attributes.
+231	بالنقض وأما تسميته بالنقض المكسور فليست بمعروفة عند أهل الجدل	He notes that the label "broken naqd" is not standard among dialecticians.
+232	Folio 6	Folio marker for the sixth manuscript page.
+233	غير أن الآمدي انفرد بهذه التسمية والمصنف تابعه قوله واعلم أن المعارضة إلخ لا	Al-Amidi uniquely used that label, and the author followed him.
+234	يذهب عليك ما بين هذا وبين قوله في المتن ومنع المدلول إلخ من التدافع فإن هذا التعريف	He notes tension between this and the matn's earlier definition of mu'arada.
+235	يقتضي تعلق المعارضة بالدليل بلا مرتبة على أنه لو ذكر التعريف المشهور أعني إقامة الدليل	This wording seems to attach opposition directly to the proof.
+236	إلخ لكان أسلم وإن نوقش فيه أيضاً فتأمل قوله بعد إثبات المعلل إلخ قيد به لأن	The more common definition would be safer, though not beyond criticism.
+237	السائل إذا أقام الدليل على نفي شيء من المقدمات قبل إثبات المعلل تلك المقدمة يكون غصباً	The "after the establisher proves" condition prevents premature ghasb.
+238	لأن المعلل ما دام معللاً يكون التعليل حقه ليعلم حقيقة الدليل أو بطلانه وليس للسائل	The establisher has the procedural right to present his proof first.
+239	إلا مطالبة ذلك فلو تعرضالسائل لمنع المقدمة قبل الإثبات يكون غصباً وقد مر تفصيله	The questioner's early counter-proof counts as usurpation, as previously explained.
+240	قوله والمعارضة في الحكم إلخ تخصيص البيان بهذا القسم من المعارضة ليس على ما	He questions why the exposition isolates only opposition in the judgment.
+241	يبتنى فقد ذكر المحقق السعد في التلويح ما نصه والمعارضة في المقدمة إن كانت بجعل علة	Sa'd al-Din's Tawdih/Talwih is cited for a fuller classification.
+242	المستدل معلولاً والمعلول علة فمعارضة فيها معنى المناقضة وإلا فمعارضة خالصة وهي قد تكون	Premise-level opposition may resemble denial if cause and effect are reversed.
+243	لنفي عليّة ما أثبت المستدل عليته وقد تكون لإثبات علية علة أخرى ما قصره وأما	Or it may negate the asserted cause or posit an alternative cause.
+244	متعديه التي مجمع عليه أو مختلف فيه هذه عبارة إلا أن يقال مراده أن المنقسم إلى الأنواع	The transmitted wording is somewhat rough; he suggests a charitable interpretation.
+245	الثلاثة هو هذا القسم وقد علمت ما فيه مما مر فكن على ما ذكر منه انتهى قوله	Perhaps only one subsection was meant to divide into three types.
+246	فمن حيث إبطال دليل المعلل إلخ لا يخفى أن هذا غير مختص بالقلب بل المعارضة مطلقاً	The feature of invalidating the establisher's proof is not unique to qalb.
+247	منع بطريق الإبطال كما هو المشهورقوله وأما المناقضة إلخ فيه سهو ظاهر لعلة من	All mu'arada is, in a common sense, denial by refutation.
+248	قلم الناسخ وقد اتفقت النسخ فيما رأينا عليه وكأنه تابع عبار التلويح في هذا المقام ولا يرد على	He flags an apparent scribal error repeated across the copies.
+249	تلك العبارة بشيء فإن الأصوليين يحصرون كلام السائل في النقض الإجمالي والمناقضة شيئاً 	Under usuli terminology, the questioner's options are classified differently.
+250	واحداً على ما تشهد به عباراتهم وذلك اصطلاح آخر وقد مر توضيحه قوله	There naqd ijmali and munaqada may collapse into one category.
+251	أما وظيفة المعلل إلخ اعلم أنه لابد أولاً من ثلاثة أمور أحدها تقديم الإشارة إلى البحث وهو	He now turns to the duties of the establisher.
+252	ما يتصور البحث على وجه يتمكن من تطبيق الدليل عليه والثاني التلفظ بتقديم الإشارة	First: indicate the issue so the proof can be applied to it.
+253	والثالث تحرير البحث أي تعيينه وتشخيصه لأن الكلام من الجانبين إنما يتوجه إلى ما يبحث	Second and third: verbal presentation and precise issue-definition.
+254	فيه فلو لم يكن متعيناً ولا [مشخصاً] لم يعلم أن الدليل مظهر لثبوته أو ليس بمظهر له وكذلك	Without specification, neither proof nor counter-proof can be evaluated.
+255	بالنسبة إلى دليلالمعارض هذا إذا كان البحث غير بين وأما إذا كان بيناً فلا يحتاج إليه	If the issue is already clear, explicit taḥrīr may be unnecessary.
+256	إليه ثم إن السائل إذا سأل فتدبر المعلل إن الاستعجال في الجواب بل يطلب من السائل	The establisher should not rush; he should ask the questioner to specify the objection.
+257	المنع وتحقيقه إذ ربما لا يتمكن من التوجيه فالبحث ينقطع أو يظهر الفساد فالمنع	An unclarified objection may collapse or prove defective.
+258	يندفع أو يتذكر المعلل الجواب فيتمكن من التعليل عند توجيه السائل المنع التفصيل	Clarification may also help the establisher formulate an answer.
+259	فإن المنع على قسمين أحدهما [بطريق] المعلل ويفيد السائل وهو بأن يكون تمام دليله	He distinguishes denials that truly matter from those that do not.
+260	 موقوفاً على صحة المقدمة التي منعها السائل [والتي] لا يضر بالمعلل ولا يفيد السائل وذلك	A useful denial targets a premise on which the entire proof depends.
+261	قوله أو إبطال سنده إلخ ينبغي أن يعلم أن الكلام على سند المنع لم يجوزه قوم 	He now treats debate over the sanad of a denial.
+262	من المحصلين حيث قالوا إن الاشتغال بالكلام على السند والجواب عنه اشتغال	Some scholars reject this as pointless discussion.
+263	بما لا يفيد لأن المنع مع السند أخص من مطلق المنع فإن المقيد أخص من	A denial-plus-sanad is narrower than denial as such.
+264	غير المقيد ورفع الأخص لا يستلزم رفع الأعم وسمعه آخرون واعترضوا على	So removing the narrower form does not remove the broader denial.
+265	أولئك بأنه إذا لم يغد دفع المستند لا يجوز البحث عنه فكيف يمكن الجواب عن المنع	Others reply that if the sanad grounds the denial, it must be answerable.
+266	مع بقاء السند فإن السند ملزوم وعلة للمنع ودفع اللازم والمعلول مع بقاء اللازم	One cannot remove the effect while leaving its cause intact.
+267	والعلة غير متصور وبان السند إذا كان مساوياً للمنع بمعنى أنه كلما تحقق تحقق	If sanad and denial are coextensive, answering the sanad removes the denial.
+268	وبالعكس لا يكون بينهما عموم وخصوص بل يكونان متساويين بحسب التحقق	That would eliminate the general-specific asymmetry.
+269	فرفعه يستلزم رفع المنع قوله أي لازماً للمنع فيه إشارة إلى أن مسند المساوي	He stresses that this works only when sanad is necessary to the denial.
+270	في غير فهم ما يكون بينه وبين المنع تلازم ويؤيد عما في شرح الآداب المفاضل	This is supported by a statement in another commentary.
+271	مسعود الرومي وهو إبطال السند إنما يفيد إذا كان لازماً للمنع [فح] يندفع ما يكاد	Mas'ud al-Rumi likewise requires necessary connection.
+272	أن يقال إن قوله بأن يلزم ثبوته أو انتفائه ثبوت المنع إلخ قوله	A possible objection to the formulation is thereby neutralized.
+273	وذلك لأن السند إلخ الإشارة إلى جميع ما ذكر وهذا التفسير للسند أولى	He says this broader explanation best captures what sanad means here.
+274	من تفسيره بما ذكر لتقوية المنع بزم المانع وإن لم يكن مفيداً في الواقع	He rejects defining sanad merely as rhetorical reinforcement by the objector.
+275	لأنه يقتضي أن يكون السند الأعم والسند الغير اللازم للمنع بلا سند	Such a definition would wrongly include non-essential supports.
+276	المباين في الواقع أيضاً داخلاً في السند وفرداً من أفراده مع أن كلاً منها	It would admit cases that are not truly fit for sanad-status.
+277	لا يصلح للسندية على ما حققوه بزمتهم وكذا من تفسيره وبما يكون	Thus he refines the concept against both too-broad definitions.
+278	المنع مبنياً عليه لأنه يصدق على تخلف الحكم فإن منع الدليل بعد تمامه مبني	A further difficulty is that the wording could also apply to failed entailment.
+279	Folio 7	Folio marker for the seventh manuscript page.
+280	عليه وعلى المعارضة أيضاً لأن منع المدلول مبني عليها فإن خصص المنع بمنع المقدمة فمع	The same broad wording would encompass mu'arada as well.
+281	أنه خلاف الظاهر يرد المعارضة التي في المقدمة ومن تفسيره بما يكون مصححاً لورود المنع	Restricting it to premise-denial would still leave problems.
+282	لأنه يلزم منه أن لا يكون المنع الغير المقترن بالسند صحيحاً وهو ممنوع فتأملقوله	Another definition would wrongly imply that denial without sanad is invalid.
+283	وذلك لأن مدار المنع إلخ ينبغي أن يعلم أن الدوران لغة هو الطواف وقيل الحركة في السكك	He shifts to the concept of dawaran, first lexically.
+284	واصطلاحاً عبارة عن ترتب شيء على الشيء الذي له صلوح العلية كترتب الإسهال	Technically, dawaran is concomitance with something apt to be a cause.
+285	على شرب السقمونيات والشيء الأول يسمى دائراً والثاني مداراً والمراد بالترتب حصول شيء	Classic medical example: purging follows taking scammony.
+286	شيء آخر كحصول النهار عند حصول الشمس والمراد بالحصول العلية	"Occurrence with" is glossed causally rather than merely temporally.
+287	الإسهال بشرب السقمونيات ثم إن الدوران ثلاثة أقسام أحدهما أن يكون المدار مداراً للدائر	He divides dawaran into three forms.
+288	وجود الإعدام كما في المثال المذكور فإنه إذا وجد السقمونيا وجد الإسهال وإذا عدم فلا يلزم	First: presence-based concomitance without necessary absence.
+289	عدم الإسهال لجواز أن يحصل بدواء آخر وثانيها أن يكون مداراً للدائر عدماً لا وجوداً	Purging may arise from another drug, so absence does not track.
+290	 كالحياة للعلم فإنها إذا لم توجد لم يوجد العلم أما إذا وجدت فلا يلزم وجود العلم وثالثها أن يكون 	Second: absence-based concomitance, as life is necessary but not sufficient for knowledge.
+291	مداراً له وجوداً وعدماً على معنى أنه كلما وجد وجد وكلما انتفى انتفى كالزنا الصادر من	Third: full bidirectional concomitance.
+292	المحصن لوجوب الرجم عليه فإنه كلما وجد وجب الرجم عليه وكلما لم يوجد لم يجب ويسمى هذا التقسيم	Example: zina by a muḥṣan and the hadd of stoning.
+293	دوراناً كلياً والأولان دوراً جزئياً إذا تقرر ما تلونا فاعلم أن البحث إنما يقع فيما فيه حكم	Full concomitance is called universal; the first two are partial.
+294	بنفي أو إثبات وإن المنع في عرفهم مقول بالاشتراك على معنيين أحدهما طلب الدليل على مقدمة	He returns to denial and says the term is shared between two senses.
+295	الدليل وثانيهما السؤال والداخل في مقابلة الدليل سواء كان بطريق المطالبة أو الإبطال والأول	First sense: asking proof for a premise; second: opposition to proof generally.
+296	أخص من الثاني وكلاهما متعلقان بالدليل على دعوى ثبوت الحكم ثم إن الناقل من حيث إنه	Both relate to proof for an asserted judgment, but one is narrower.
+297	ناقل أن يذكر فيما نقله دليل فظاهر أنه لا يتوجه عليه شيء من النوع الثالثة بل يطلب منه تصحيح	A mere transmitter of someone else's view is not targeted like an actual proponent.
+298	النقل إن لم يكن معلوماً لا غير وإن ذكر فيه دليل فإنما هو على طريق الحكاية من المنقول عنه كتاباً	If he cites an argument, it may still be only a report.
+299	كان أو غيره فلا يتوجه عليه شيء منها أيضاً نعم إذا التزم صحته أو أقام دليلاً برأسه	Only if he endorses it or produces his own proof does liability attach.
+300	على ما نقله صار مستند لاح فيتوجه عليه ما يتوجه عليه كذا أفيد قوله ألا ترى أن المنع	Then he assumes the role of actual arguer and objections apply.
+301	لا يتوجه على الحدود إلخ قد عرفت أن البحث إنما يقع فيما فيه حكم إما بنفي أو إثبات وهو	He now distinguishes definitions from propositional issues.
+302	إلى التعريفات والمسائل ولكل منهما طرق مخصوصة في البيان والمطالبة أما المسائل فقد بينت	Both definitions and questions have their own procedures.
+303	قبل وأما التعريفات فقد علم في المنطق أنها أربعة أقسام حدان ورسمان قوله	Definitions are recalled from logic as genus-differentia and descriptive types.
+304	فيمكن توجه المنع إليه إلخ الظاهر أن مراده بالمنع هنا وفيما سبق واحد وهو ما يشمل	He clarifies that "denial" here still covers its several objection-forms.
+305	المناقضة والنقض والمعارضة وحاصله أنه لا يتوجه منها على الحدود شيء إلا إذا	Definitions are not objected to in the same way unless they involve a claim.
+306	حكم المعرف بالحد على المحدود أو اعتبر الخصم ذلك لأن المعرف متى قال هذا هو كذا	If a definer says "this is such-and-such," he effectively advances a proposition.
+307	وكذا على أنه تعريف للشيء فهو دعوى من الدعاوى وجاز أن يكون الأمر بخلافه فجاز أن	That propositional aspect opens the door to denial, refutation, or counter-proof.
+308	يمنع أو ينقض أو يعارض إذا قدر الدليل على تلك الدعوى لا سميا إذا ادعى أنه حد تام	This is especially true if he claims the definition is complete or exact.
+309	مثلاً فإنه ح يشتمل على دعوى الجنس والفصل القريبين فيتوجه عليه المنع ويجب عليه	A full hadd implies claims about genus and differentia that require defense.
+310	بيان ذلك أو ادعى أن هذا التعريف عند قوم وبعينهم فإنه مشتمل على دعوى الاصطلاح	If he attributes a definition to a school, he also asserts a technical usage.
+311	منهم فيتوجه المنع ويجب عليه تصحيح النقل عنهم هذاقوله أما أن يعجز المعلل	Then he must verify the transmission; next comes debate outcomes.
+312	إلخ هذا التقسيم أولى مما ذهب إليه الإمام السمرقندي وهو أن المعلل إما أن ينقطع	This classification of outcomes is said to be better than Samarqandi's.
+313	بالمنع أو المعارضة أو لا ينقطع بل يستدل على إثبات كل مقدمة منعها السائل بدليل آخر أو	Samarqandi's model is summarized as either interruption or continued proof.
+314	تنبيه فإن انقطع فقد حصل الإفهام للمعلل وإن لم ينقطع فلا يخلو من أن ينتهي في تلك	If the establisher stops, that is ifham; otherwise the process continues.
+315	المناظرة إلى أمر ضروري القبول أولاً فإن كان الأول يلزم إلزام السائل وإن كان الثاني يلزم	Either the debate reaches what must be accepted, or further consequences follow.
+316	المعلل لأنه إما أن يعجز من إقامة الدليل على مقدمة منعها السائل أو لا يعجز بل تتسلسل	If not, the establisher either fails or enters an infinite regress of proofs.
+317	أدلته إلى غير النهاية والثاني محال فتعين الأول فيلزم الإقحام على تقرير عدم استحالة	The infinite regress option is declared impossible, forcing ifham.
+318	التسلسل يلزم ذلك أيضاً لأنه لا يتمكن من إثباته أمور لا نهاية لها في مدة عمره فضلاً	Even if one allowed regress, no human could traverse infinitely many proofs.
+319	عن إثباتها في مجلس واحد أو مجالس معدودة لامتناع إحاطة الذهن بما لا نهاية	Nor can the mind encompass the infinite within limited debate sessions.
+320	له إذ لو أحاط به لكان متناهياً وإنما كان ما ذكره المصنف أولى لأنه قد اعترض على	The impossibility is reinforced by the contradiction of a grasped infinite.
+321	هذا التقسيم بأن العجز عن الاستدلال داخل في الانقطاع بالمنع أو المعارضة	He then records an objection to Samarqandi's division.
+322	وقد جعل قسيماً له هنا وإن أجيب عنه بمنع دخوله فيه بناء على أن العجز أعم من الانقطاع	Failure to prove seems already included within interruption.
+323	بهما والعام لا يكون مندرجاً تحت الخاص بل الأمر بالعكس فيناقش فيه بأنه يلزم من	The reply invokes a general-specific distinction, but he probes that too.
+324	كون العجز أعم من الانقطاع ومن دخول الانقطاع تحته أن يكون العام قسيماً للخاص	If interruption falls under broader failure, the division remains conceptually awkward.
+325	أيضاً فيلزم ذلك المجزوم سواء جعل العجز أعم من الانقطاع أو جعل الانقطاع	The structural problem persists whichever category is made broader.
+326	Folio 8	Folio marker for the eighth manuscript page.
+327	أعم من العجز وأما تقسيم المصنف فسالم من الاعتراض بل ما لا يخفى قوله ولا بأس بالاستفسار	The author's own division avoids that objection; he now treats istifsar.
+328	هو استفعال من المفسر وهو لغة طلب الكشف والإظهار ومنه التفسيرقوله وبعض	Istifsar is explained lexically as a request for clarification or disclosure.
+329	المناظرين عد ذلك إلخ الظاهر أن مراده بذلك البعض الإمام ابن الحاجب فإنه عد هذا النوع من الاعتراضات	Some counted it among objections; Ibn al-Hajib is likely intended.
+330	الواردة على قياس العلة في مختصر الأصول بل بدأها به لأنه المتقدمة على كل اعتراض فإن	Ibn al-Hajib even placed it first among objections to causal analogy.
+331	السائل إذا لم يعرف مدلول اللفظ استحال عليه توجيه المنع قوله لكنه يكون سؤالاً	If the questioner does not understand the term, he cannot yet object.
+332	بالمعنى اللغوي من سألته الشيء فهو بمعنى سائل المعروف لا من سألته عن الشيء وفيه	It is a "question" only in the ordinary sense, not yet a technical objection.
+333	إشارة إلى أن عد ذلك من الاعتراضات ليس على ما ينبغي بل هو طليعة جيش الاعتراضات	Therefore istifsar is the prelude to objections, not one of them strictly.
+334	لا منها فإن الاعتراض عبارة عن خدش كلام المستدل والاستفسار ليس فيه خدش	An objection attacks the proof; clarification does not yet attack it.
+335	بل تعرف المراد وتبين للمطلوب ليتوجه ح السؤال قوله وهذا مما يجوز	Instead it seeks understanding so that a proper question may follow.
+336	إذا كان في اللفظ إجمال أو غرابة إلخ أما الأول فكلفظ القرء مثلاً وأما الثاني فكخلط	It is permitted when wording is ambiguous or technically unfamiliar.
+337	اصطلاح كان يستعمل في القياسات الفقهية لفظ الدور أو التس أو الهيولي أو المادة	He lists difficult technical vocabulary from logic and philosophy as examples.
+338	أو المبدأ أو الغاية وما أشبه ذلك من اصطلاح المتكلمين هذا إذا لم يعلم من حال خصمه	Such requests are justified when the opponent likely does not know the terms.
+339	مفرقة ذلك وأما إذا علم فلا غواية ويلزم السائل بيان كون ذلك اللفظ مجملاً أو غريباً حتى	If the opponent clearly knows them, frivolous requests are blameworthy.
+340	يحتاج المعلل إلى التفسير لأن الأصل عدم الإجمال وعدم الغرابة وللمعلل منع ذلك	The questioner must show real ambiguity or strangeness; default presumption is clarity.
+341	لأن شرط الدلالة على المراد عدم إجماله أو غرابة وبيان شرط الدليل على المستدل ثم	The establisher may resist the request by affirming that his wording is plain.
+342	إن جواب الاستفسار يكون بضد ما ادعى السائل بأن يقول المستدل هذا ظاهر	The answer is to deny obscurity and explain the term's obviousness.
+343	في مقصودي ويبين ذلك إما بنقل من أهل اللغة أو بالنقل من أهل العرف العام	Clarification may be supported by lexical authority or common usage.
+344	أو الخاص انتهى هذا ما أوردنا تعليقه على شرح رسالة مولانا العلامة المحقق	Technical custom can also justify the wording; the gloss now closes.
+345	شهاب الملة والدين أحمد الطاش كبري رحمه الله وصلى الله على سيدنا ومولانا محمد وآله 	Closing prayer for Taşköprüzade and blessings on the Prophet and his family.

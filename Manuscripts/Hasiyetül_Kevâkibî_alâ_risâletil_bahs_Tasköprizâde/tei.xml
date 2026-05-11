@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="doc-3" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="ar">حاشية الكواكبي على رسالة البحث لطاشكبري زاده</title>
+        <title type="alt" xml:lang="ar-Latn-x-dmg">Ḥāshiyat al-Kawākibī ʿalā Risālat al-Baḥth li-Ṭāshkubrīzādah</title>
+        <title type="translated" xml:lang="en">Al-Kawākibī's Gloss on Ṭāshkubrīzādah's Treatise on Inquiry</title>
+        <author ref="#person-abu-al-suud-al-kawakibi">
+          <persName xml:lang="ar">أبو السعود بن أحمد بن محمد بن حسن بن أحمد الكواكبي الحنفي الحلبي</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Abū al-Suʿūd ibn Aḥmad ibn Muḥammad ibn Ḥasan ibn Aḥmad al-Kawākibī al-Ḥanafī al-Ḥalabī</persName>
+          <birth when="1679" calendar="#gregorian">
+            <date xml:lang="en">1679 CE</date>
+            <date xml:lang="ar" calendar = "#hijri">١٠٩٠هـ</date>
+          </birth>
+          <death when="1724" calendar="#gregorian">
+            <date xml:lang="en">1724 CE</date>
+            <date xml:lang="ar" calendar= "#hijri">١١٣٧هـ</date>
+          </death>
+        </author>
+        <respStmt>
+          <resp> Include : TEI Normalization, annotations, manuscript description enrichment, translation block, and analytical contextual markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Argumentation Theory Arabic Collection Open-Sources TEI-XML Repository</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          <p>This TEI file is shared for reuse under Creative Commons Attribution 4.0. The repository ise designed for FAIR-compliant discovery, citation, intellectual, and computational reuse.</p>
+        </availability>
+        <idno type="state-library" language = "tr">Diyanet İşleri Başkanlığı Kütüphanesi</idno>
+        <idno type="state-library" language = "en">Diyanet Manuscript Library</idno>
+    </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Turkey</country>
+            <settlement>Ankara</settlement>
+            <repository ref="https://yazmaeserler.diyanet.gov.tr/details?id=18510&amp;materialType=YE&amp;query=006477">Diyanet Manuscripts Library</repository>
+            <idno type="inventory">006477-V</idno>
+            <idno type="shelfmark">477-V</idno>
+          </msIdentifier>
+          <msContents>
+            <summary xml:lang="en">An Arabic gloss Ottoman post-classical epoch on Ṭāshkubrīzādah's short treatise on <term xml:lang="ar-Latn-x-dmg">ādāb al-baḥth wa-l-munāẓara <term xml:lang ="eng" translation ="subject-based"> debate</term></term>This commentary expands the scope of the definitions of inquiry, disputation, objection, and counter-evidence –—within the logical, ethical, and dialectical traditions that succeeded the post-Avicennan eras.</summary>
+            <msItem n="1" locus="83b-90b">
+              <author ref="#person-abu-al-suud-al-kawakibi">
+                <persName xml:lang="ar">أبو السعود الكواكبي</persName>
+              </author>
+              <title xml:lang="ar">حاشية الكواكبي على رسالة البحث لطاشكبري زاده</title>
+              <title xml:lang="ar-Latn-x-dmg">Ḥāshiyat al-Kawākibī ʿalā Risālat al-Baḥth li-Ṭāshkubrīzādah</title>
+              <title xml:lang="en">Al-Kawākibī's Gloss on Ṭāshkubrīzādah's Treatise on Inquiry</title>
+              <note type="genre" xml:lang="en">Scholarly gloss / ḥāshiya on a foundational text in dialectical method.</note>
+              <note type="content" xml:lang="en">The text discusses several subjects, including definition of debate, relation of <term xml:lang="ar">آداب البحث</term> to logic, as well as ranking of proofs across disciplines, classification of objections, and the procedural roles of the <term xml:lang="ar">معلل</term> and <term xml:lang="ar">سائل</term>.</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc>
+                <support xml:lang="en">Buff watermarked paper; black ink.</support>
+                <extent>8 folios</extent>
+                <foliation xml:lang="en">Catalogued as ff. 83b-90b.</foliation>
+                <layoutDesc>
+                  <layout columns="1" writtenLines="23">
+                    <p xml:lang="en">Single-column layout, 23 lines per page; page size 210 × 150 mm, written area approximately 135 × 70 mm.</p>
+                  </layout>
+                </layoutDesc>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="naskh" xml:lang="ar">نسخي</handNote>
+              <handNote script="naskh" xml:lang="en">Naskhi :
+              <p> A legible rounded book hand commonly used in Arabic scholarly manuscripts. It is suitable for dense prose commentary and layered scholastic notation.</p>
+              </handNote>
+            </handDesc>
+            <condition>
+              <p xml:lang="en">The manuscript shows substantial water staining and tide marks, especially at the lower and outer margins. The dampness has caused ink spread, fading, and local loss of legibility. The inner gutter appears strained, and some leaves show signs of weakened attachment or past stitching stress. The first folio is especially affected at the lower edge, where the final lines are partially obscured in the image witness.</p>
+            </condition>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="unknown">Unknown</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p xml:lang="en">The annotation text follows project .txt file and has been refactored from block-level <gi>ab</gi> elements into folio-based <gi>p</gi> elements. Lineation from the plaintext witness is represented with <gi>lb</gi>, while folio transitions are represented with <gi>pb</gi>.</p>
+        <p xml:lang="en"> Orthographic irregularities, spacing anomalies, and evident manuscript noise were preserved unless XML well-formedness required intervention. Square brackets in the witness were retained where they signal uncertainty or editorial supplementation in the source transcription.</p>
+        <p xml:lang="en">Occurrences of <q xml:lang="ar">قوله</q> are treated as lemma-introducing signals that usually mark a return to the base text under commentary rather than a simple topic shift. Selected examples are encoded as quoted lemmata or citation cues where this function is clear.</p>
+        <p xml:lang="en">Physical damage visible in the PDF witness is noted in the header and, where especially relevant to interpretation, in local notes. The English translation is a close research translation of the supplied edited witness rather than a diplomatic reconstruction of the damaged manuscript surface.</p>
+      </editorialDecl>
+      <projectDesc>
+        <p>This repository encodes a pilot corpus of early modern Arabic argumentation manuscripts in TEI-XML for manuscript description, semantic markup, and future corpus-scale text and relation-based DH analysis.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="persName" occurs="multiple"/>
+          <tagUsage gi="term" occurs="multiple"/>
+          <tagUsage gi="quote" occurs="multiple"/>
+          <tagUsage gi="pb" occurs="multiple"/>
+          <tagUsage gi="lb" occurs="multiple"/>
+          <tagUsage gi ="p" occurs ="multiple"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+        <language ident="ar-Latn-x-dmg">Arabic transliteration (DMG-style)</language>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="local">
+          <term xml:lang="ar">آداب البحث</term>
+          <term xml:lang="ar">المناظرة</term>
+          <term xml:lang="ar">الاعتراض</term>
+          <term xml:lang="ar">المعارضة</term>
+          <term xml:lang="ar">المناقضة</term>
+          <term xml:lang="ar">النقض</term>
+          <term xml:lang="ar">المنطق</term>
+          <term xml:lang="ar">أصول الفقه</term>
+          <term xml:lang="ar">الحاشية</term>
+          <term xml:lang="en">ādāb al-baḥth</term>
+          <term xml:lang="en">dialectic</term>
+          <term xml:lang="en">debate theory</term>
+          <term xml:lang="en">logic</term>
+          <term xml:lang="en">post-classiccal Islamic philosophy</term>
+          <term xml:lang="en">Ottoman intellectual history</term>
+          <term xml:lang="en">scholastic commentary</term>
+        </keywords>
+        <classCode scheme="genre">argumentation-theory</classCode>
+      </textClass>
+      <particDesc>
+        <listPerson>
+          <person xml:id="person-abu-al-suud-al-kawakibi">
+            <persName type="short" xml:lang="ar">أبو السعود الكواكبي</persName>
+            <persName type="full" xml:lang="ar">أبو السعود بن أحمد بن محمد بن حسن بن أحمد الكواكبي الحنفي الحلبي</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Abū al-Suʿūd ibn Aḥmad ibn Muḥammad ibn Ḥasan ibn Aḥmad al-Kawākibī al-Ḥanafī al-Ḥalabī</persName>
+            <birth when="1679">
+              <date xml:lang="ar">١٠٩٠هـ</date>
+              <date xml:lang="en">1679 CE</date>
+            </birth>
+            <death when="1724">
+              <date xml:lang="ar">٢ رجب ١١٣٧هـ</date>
+              <date xml:lang="en">March 1724 CE</date>
+            </death>
+            <placeName xml:lang="ar">حلب</placeName>
+            <idno type="tarajm" subtype="person">https://tarajm.com/people/21743</idno>
+            <idno type ="diyanet" subtype= "catalog">https://yazmaeserler.diyanet.gov.tr/details?id=18510&amp;materialType=YE&amp;query=006477</idno>
+            <note type="authority" xml:lang="en">Matched across the Diyanet catalog and Tarajm by full nasab, nisba, office, and work title. However, It was not found `authoriy_id` in VIAF, ISNI, LCNAF, WorldCat Entities, or Wikidata.</note>
+          </person>
+          <person xml:id="person-taskoprizade">
+            <persName type="short" xml:lang="ar">أحمد طاشكبري زاده</persName>
+            <persName type="full" xml:lang="ar-Latn-x-dmg">Aḥmad ibn Muṣṭafá Ṭāshkubrīzādah</persName>
+            <birth when="1495">
+              <date xml:lang="ar">٩٠١هـ</date>
+              <date xml:lang="en">1495 CE</date>
+            </birth>
+            <death when="1561">
+              <date xml:lang="ar">٩٦٨هـ</date>
+              <date xml:lang="en">1561 CE</date>
+            </death>
+            <idno type="VIAF">36909919</idno>
+            <idno type="ISNI">0000000119485835</idno>
+            <idno type="LCNAF">no88000627</idno>
+            <idno type="Wikidata">Q12221519</idno>
+            <idno type="WorldCatEntities">E39PBJc7XRQ69dTDqKfDVC7j4q</idno>
+          </person>
+          <person xml:id="person-al-samarqandi">
+            <persName xml:lang="ar">الإمام السمرقندي</persName>
+            <persName xml:lang="ar-Latn-x-dmg">Shams al-Dīn al-Samarqandī</persName>
+            <birth notBefore="1249" notAfter="1251">
+              <date xml:lang="ar">نحو ٦٤٨هـ</date>
+              <date xml:lang="en">circa 1250 CE</date>
+            </birth>
+            <death notBefore="1309" notAfter="1311">
+              <date xml:lang="ar">نحو ٧٠٩هـ</date>
+              <date xml:lang="en">circa 1310 CE</date>
+            </death>
+            <idno type="VIAF"> 293067824 </idno>
+            <idno type="Wikidata">Q2031579</idno>
+            <note type="authority">Wikidata and Wikipedia identifies him, but the authority cluster is oriented primarily toward his reputation as mathematician and astronomer rather than specifically as author of the debate treatise.</note>
+          </person>
+          <person xml:id= "person-al-razi">
+          <persName xml:lang = "ar"> الإمام الرازي </persName>
+          <persName xml:lang ="ar-Latn-x-dmg"  >Fakhr al-Din al-Razi </persName>
+          <birth when ="1149">
+          <date xml:lang ="ar"> ٥٤٤هـ </date>
+          <date xml:lang ="en"> 1149 CE </date> 
+          </birth>
+          <death when= "1210" > 
+          <date xml:lang ="ar"> ٦٠٧هـ </date>
+          <date xml:lang ="en"> 1210 CE </date> 
+          </death>
+          <idno type ="VIAF"> 90042555 </idno>
+          <idno type ="LCNAF">  n81070765 </idno>
+          <idno type ="ISNI">  0000000081633133</idno>
+          <idno type = "wikidata"> Q333703 </idno>
+          <idno type="WorldCatEntities">E39PBJyGVW83q8dKrYQJdYpF8C</idno>
+            </person>
+        <person xml:id="person-ibn-hajib">
+          <persName xml:lang="ar">ابن الحاجب</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Ibn al-Ḥājib</persName>
+          <birth when="1174">
+            <date xml:lang="ar">٥٧٠هـ</date>
+            <date xml:lang="en">1174 CE</date>
+          </birth>
+          <death when="1249">
+            <date xml:lang="ar">٦٤٧هـ</date>
+            <date xml:lang="en">1249 CE</date>
+          </death>
+          <idno type="VIAF">29665940</idno>
+          <idno type="LCNAF">n82162164</idno>
+          <idno type="ISNI">000000012126111X</idno>
+          <idno type="wikidata">Q6533412</idno>
+          <idno type="WorldCatEntities">E39PBJy8pYQJtttTBDRgjKrg8C</idno>
+        </person>
+        <person xml:id="person-al-shafii">
+          <persName xml:lang="ar">الشافعي</persName>
+          <persName xml:lang="ar-Latn-x-dmg">Imam al-Shafi'i</persName>
+          <birth when="767">
+            <date xml:lang="ar">١٥٠هـ</date>
+            <date xml:lang="en">767 CE</date>
+          </birth>
+          <death when="820">
+            <date xml:lang="ar">٢٠٥هـ</date>
+            <date xml:lang="en">820 CE</date>
+          </death>
+          <idno type="VIAF">122088668</idno>
+          <idno type="LCNAF">n84220632</idno>
+          <idno type="ISNI">0000000121497130</idno>
+          <idno type="wikidata">Q294281</idno>
+          <idno type="WorldCatEntities">E39PBJbxCtffdMXMWDvhpqPYT3</idno>
+        </person>
+        <person xml:id="person-al-amidi">
+          <persName xml:lang="ar">الآمدي</persName>
+          <persName xml:lang="en">Rukn al-Din al-Amidi</persName>
+          <note>No authority records have been discovered.</note>
+        </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <name type="repository">Diyanet Manuscripts Library</name>
+          <placeName>Ankara</placeName>
+        </setting>
+      </settingDesc>
+      <abstract>
+        <p xml:lang="en">This manuscript preserves an Arabic commentary on Ṭāshkubrīzādah's treatise on <term xml:lang="ar">آداب البحث والمناظرة</term>. Al-Kawākibī presents the discipline as a procedural science adjacent to logic, then expands technical distinctions among objection, contradiction, refutation, counter-proof, and interpretive clarification. The gloss situates also debate theory across a hierarchy of sciences, from grammar and law to logic, astronomy, and geometry, while repeatedly linking dialectical method to the control of proof, refutation, and scholarly disputation.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="ar">
+        <div type="folio" n="1">
+          <pb n="1"/>
+          <p><lb n="1"/>بسم الله الرحمن الرحيم <lb n="2"/> حمداً لك يا واهب النفوس والعقول، وشكراً لك يا مخترع ماهيات الأركان والأصول <lb n="3"/> وصلاة وسلاماً على المتأدب بأعلى الآداب والمنعوت بأحسن الشمائل فلا قدرة <lb n="4"/> للمعلل على الوقوف على كنه قدره ولو لم يألو جهداً في إيراد الدلائل، وعلى آله وصحبه <lb n="5"/> المنتهضين لإلزام كل مكابر باستنادهم إلى أعظم برهان ما جرت <term type="discipline">مناظرة</term> وتناظر <lb n="6"/> اثنان وبعد فإن تراب أقدام العلماء وغبار مجالس الفضلاء أقل عباد الله <lb n="7"/> الصمد <persName ref="#person-abu-al-suud-al-kawakibi">أبو السعود ابن أحمد بن محمد الكواكبي</persName> أصلح الله تعالى حاله وبلغه يمنه وآماله <lb n="8"/> بقوله هذه أوراق متعلقة بالرسالة المشهورة في <term type="discipline">صناعة الآداب</term> المنسوجة <lb n="9"/> إلى المولى المحقق والعلامة المدقق شهاب الملة والدين <persName ref="#person-taskoprizade">أحمد الطاش كبري</persName> <lb n="10"/> عليه رحمة الكريم الوهاب ما سمح به الفكر الفاتر والنظر القاهر عند مطالعتها <lb n="11"/> مع بعض الإخوان هذا والمسؤول ممن حسن خيمه وجبل على الإنصاف أديمه إن <lb n="12"/> ينظر إليها بنظر الإحسان وإصلاح ما فيها من الزلل والخطأ والهذيان فإني معترف <lb n="13"/> بأن بضاعتي مزجاة وظلي قلص من ظل خطاه شعريكون أجاجاً دونكم فإذا غدا <lb n="14"/> لديكم تلقى نشركم فيطيب وعلى الله جل شأنه اعتمادي وهو حسبي ونعم الوكيل <quote type="lemma">قوله اعلم أن <term type="discipline">المناظرة</term> إلخ</quote> <term type="discipline">آداب البحث والمناظرة</term> في صناعة التقرير والتحرير ك<term type="discipline">علم المنطق</term> في الروية <lb n="15"/> والتفكير وبها يقصر سبيل المرام وتخلص مقيلة الكلام حتى إن متقدمي المنطقيين <lb n="16"/> كانوا يجعلون مباحثها ذيلاً للمنطق ثم إن المتأخرين أفردوها على حدة ودونوا فيها <lb n="17"/> كتباً ورسائل بوفور الحاجة إليها في المباحثة والأبحاث لدى الأفاضل هذا وقد كان من <lb n="18"/> أصحاب التصنيف والتدوين أن يصدروا كتبهم بطائفة من الكلام في ماهية العلم وموضوعه والحاجة <lb n="19"/> إليه يدعونه بمقدمة الشروع وحيث ترك المصنف ذلك روماً للاختصار وتحاشياً <lb n="20"/> عن الإكثار فلا علينا في إيضاحه وبيانه فنقول <term type="discipline">آداب البحث</term> صناعة نظرية <lb n="21"/> الطالب معرفة طرق المناظرة وشرائطها صيانة له عن الخبط في البحث <lb n="22"/> وموضوعه المباحث والأبحاث من حيث التأليف والتوجيه <lb n="23"/> ثم لما كان ذلك مختلفاً باختلاف كل مسألة وكل علم فإن لم تكن ضرورية فلابد لحصول العلم <lb n="24"/> أو الظن بها من توضيحات وأدلة وإزالة نسبة السؤال وتعرف أقسام الاعتراضات <lb n="25"/> والتوجيهات وهي ليست بضرورية فلا جرم دعت الحاجة إلى معرفة قانون يفيدنا <lb n="26"/> معرفة القدر الكافي من الهيئات وأقسام الاعتراضات والجوابات الموجهات منها <lb n="27"/> وغير الموجهات وهو هذا العلم ثم إن ههنا تنبيهاً يحسن الوقوف عليه وهو أن <lb n="28"/> كل علم يقع فيه البحث إما أن يتعلق بالألفاظ أو المعاني أو بهما جميعاً، أما الأول فك<term type="discipline">علم اللغة</term> <lb n="29"/> والنحو والصرف والعروض وغير ذلك من العلوم العربية وأما الثاني فأقسام <term type="tradition">المعقولات</term> <lb n="30"/> كالإلهي والطبيعي والرياضي والطب والأخلاق وجملة ما لا تعلق له بالألفاظ <lb n="31"/> وأما الثالث فكعلم التفسير وعلم الحديث و<term type="discipline">أصول الفقه</term> وما شابه ذلك وفي كل واحد من <lb n="32"/> هذه العلوم اصطلاحات ومسلمات يجب على الباحث في ذلك العلم أن يسلمها فيه سواء كانت <lb n="33"/> يقينية أم لا وذلك لأن أدلة كل علم لها غادية في القوة والمرتبة بنفس التجاوز إلى ما فوقها <lb n="34"/> ويحصل الغرض من ذلك العلم بها كالفقه مثلاً فإن قصارى أدلته الظن الغالب ويحصل به <lb n="35"/> المطلوب من الفقه من العلم بوجوب العمل فح لا يطلب في كل علم إلا ما هو متيسر فيه <lb n="36"/> فلا يطالب في الفقه والنحو مثلاً البرهان بل يقتصر على حصول الظن الغالب والأخذ بالأولى <lb n="37"/> والأحسن ودلائل العلوم وقد ترتب في القوة والضعف أدناها مرتبة دلائل النحو والتصريف <lb n="38"/> وما يتعلق بعلم اللغات ثم دلائل الفقه ثم أصول الفقه والخلاف ثم الحكمة ثم <lb n="39"/> المنطق ثم الهيئة ثم الهندسة وهي أعلى الدلائل قوة انتهى <quote type="lemma">قوله:هي النظر إلخ</quote> من العجب أن <persName ref="#person-al-samarqandi">الإمام السمرقندي</persName> <lb n="40"/> تعريفها بمدافعة الكلام من الجانبين إظهاراً للصواب عرفها بذلك التعريف في الرسالة و <lb n="41"/> قد تعسف بعضهم في توجيه ذلك بأنه مجرد متابعة للإمام النسفي فتأمل <quote type="lemma">قوله مأخوذة من النظر إلخ</quote> <lb n="42"/> بيان للمناسبة بين المعنى المنقول منه والمعنى المنقول إليه <lb n="43"/> ولم يذكر الشارح من المعاني اللغوي النظر بالبصيرة والنظر بمعنى المقابلة وقد تابع في <lb n="44"/> ذلك المدقق مسعود الرومي ولم يخفى عليك قوة المناسبة باعتبار</p>
+          <note type="damage" xml:lang="en">The lower margin of the first folio is visually damaged in the PDF witness; the final lines are partly obscured by water loss and abrasion.</note>
+        </div>
+        <div type="folio" n="2">
+          <pb n="2"/>
+          <p><lb n="1"/>فإن قلت باعتبار المعنى الأول يفضي إلى الاتحاد بين المعنى اللغوي والمعنى المصطلح عليه لأنه <lb n="2"/> مأخوذ فيه فلم يحسن ذكره قلت يجاب عنه بأن الاتحاد مندفع بناء على أن المغايرة حاصلة من <lb n="3"/> با قی القيودالتی الحذت فی المعنى المصطلح لايقال ان قد اظهر ماخفي من المعانى اللغويي واخفى <lb n="4"/> ما ظهر منها لأنه يقال يجوز أن يكون الأمر بالعكس فتأمل <quote type="lemma">قوله والمراد بالنظر إلخ</quote> <lb n="5"/> لا يخفى أن المشهور في هذا المقام تفسير <term type="concept">النظر</term> بالفكر بقرينة استعماله بفي لكن حيث أورد على <lb n="6"/> تعريف المناظر بأنه غير جامع لأنه يصادق على <term type="concept">المنع</term> المجرد لأن السائل إذا اقتصر على مجرد المنع <lb n="7"/> لا يصدق عليه ترتيب أمور معلوم على وجه يؤدي إلى استعلام ما ليس بمعلوم الذي هو <lb n="8"/> معنى الفكر فعدل بعض المحققين عن التفسير المذكور وفسر النظر بالتفات النفس إلى المعاني <lb n="9"/> ليصدق التعريف على تلك الصورة فإن النفس السائل لها التفات إلى المعاني وإن لم يكن لها <lb n="10"/> فكر بالمعنى المذكور وهو تكلف فإن النظر بهذا المعنى يكون مستعملاً بإلى وقد تعسف بعض <lb n="11"/> الأفاضل في التوجيه حيث قال إن النظر إذا كان بمعنى الالتفات يكون مستعملاً بفي وإذا عبر عنه <lb n="12"/> بلفظ الالتفات يكون مستعملاً بإلى هذا ثم إن الشارح سلك هذه الطريقة حيث فسر <lb n="13"/> النظر بالتوجه نحو المعقولات وكان الداعي لذلك توجه الإيراد الذي ذكرناه آنفاً لكن بقي <lb n="14"/> هنا شيء وهو أنه ذكر في آخر البحث الإيراد المذكور وأجاب عنه بأن المنع مفوت لإثبات <lb n="15"/> النسبة الحكمية فيكون من قبيل النظر فيها وما بنى دفعه على تفسير النظر بما ذكر فلا <lb n="16"/> يكون للعدول عما هو المشهور وجه على أنه قد يجاب عن ذلك الإيراد بأن الفكر مقول <lb n="17"/> بالاشتراك اللفظي على معنيين أحدهما الحركات التخيلية والثاني ترتيب أمور معلومة <lb n="18"/> إلخ والأول أعم من الثاني وليس المراد بالفكر ههنا المعنى الثاني بل المراد به المعنى الأول فح <lb n="19"/> يتناول التعريف تلك الصورة بلا كلفة فإن المانع منها مجرداً إذا منع مقدمته من مقدمات <term type="concept">الدليل</term> <lb n="20"/> لا يدل من حركات تخيلية بأن المنع وارد أم لا فإن كان وارداً فعلى أي مقدمة من <lb n="21"/> مقدمات الدليل فإن من المقدمات ما لا يتوجه عليه المنع أصلاً كالبديهيات والمسلمات <lb n="22"/> أقبل أن ذلك الفكر لا دخل له في كون البحث مناظرة وإنما الدخل للفكر الواقع في <lb n="23"/> نفب <lb n="24"/> الحكم التنازع فيه ثبوتاً أو نفياً فقد أورد عليه بأن السائل ما لم يورد المنع <lb n="25"/> لا يكون البحث مناظرة وما لم يتحقق ذلك لا يورد المنع فتأمل جيداً.<quote type="lemma">قوله لإخراج النظر قبل تحرير البحث</quote> قبل التحرير الأمر إذ يقال حرره لأمر كذا أي أفرزه له في الصحاح تحرير الكتاب <lb n="26"/> تقويمه وتحرير الرقبة عتقها وتحرير الولد تقريبه لطاعة الله وخدمة المسجد وتحرير <lb n="27"/> الكلام تهذيبه وتحرير البحث تعيينه وتعريفه كما إذا ادعى أحد أن النية ليست بشرط <lb n="28"/> في الوضوء فيقول المراد بالنية ما يكون بالقلب وهي القصد ويعرف الشرط والوضوء <lb n="29"/> وإنما يجب عليه ذلك التعيين محل النزاع ويكون التوارد بالنفي والإثبات على شيء <lb n="30"/> واحد من الجانبين ولا حاجة إليه إذا كان البحث مشهوراً أو يعرفه الخصم ولا يطلبه <lb n="31"/> <quote type="lemma">قوله والمراد بالجانبين إلخ</quote> هذا أولى مما ذهب إليه المدقق مسعود الرومي <lb n="32"/> فإنه فسرهما بالمتخاصمين وأما عدم شمول المعلل والسائل لصورة <term type="concept">المعارضة</term> بلا كلفة <lb n="33"/> بناء على أن السائل طالب والمعارض ليس يطالب بل هو معلل أيضاً فلابد من أن يتكلف <lb n="34"/> ويقال المراد بالمعلل الحافظ للوضع لإقامة الحجة وبالسائل الهادم للوضع بالمنع والمعارض <lb n="35"/> فقد يدفع بأن المعارضة منع المدلول مع إقامة الدليل على خلاف ما أقام عليه الخصم وإن <lb n="36"/> التعريف بإقامة الدليل إلخ ما صحة مشهورة على أنه لا تكلف في ذلك الحملأصلاً فإنه أحد <lb n="37"/> المعاني التي ذكرت للمعلل والسائل لا يقال الجانبان أعم من المعلل والسائل والعام لا يدل على الخاص <lb n="38"/> بدلالة أصلاً لأن ذلك مشترك الالتزام فإن المتخاصمين أخص أيضاً وما هو جوابكم <lb n="39"/> فهو جوابنا والحاصل أن الجانبين وإن كانا أعم من المعلل والسائل في اللغة لكنهما في عرف <lb n="40"/> هذا الفن موضعان لهما وضعاً أولياً فدلالتهما على المعلل والسائل أولية دون غيرها <lb n="41"/> <quote type="lemma">قوله ويحترز بذلك إلخ</quote> فإنه يصدق على ما ذكر أنه نظر بالبصيرة من الجانبين في النسبة لكن لا بين <lb n="42"/> الشيئين المعنيين فلم يكن مناظرة أصلاً إذ المناظرة يجب أن يكون المحكوم عليه وبه فيها <lb n="43"/> متعينين بتعين محل النزاع ويظهر صحة كلام الجانبين وفساده على ما حقق في المطولات <lb n="44"/> <quote type="lemma">قوله وإلا لاختص إلخ</quote> يعني لو لم يجعل هذا القيد احترازياً لاختص النظر في النية <lb n="45"/> بالصورة المذكورة أي بين الموضوع والمحمول والمقدم والتالي لأن النسبة لا تكون إلا <lb n="46"/> لا تكون إلا بين الشيئين فيكون هذا القيد ببيان الواقع وهو خلاف الأصل أورد</p>
+        </div>
+        <div type="folio" n="3">
+          <pb n="3"/>
+          <p><lb n="1"/>في هذا المقام بحث مشهور وهو أن النظر في المحكوم عليه وبه بحسب الحقيقة نظر <lb n="2"/> في النسبة فإن النظر من الجانبين لا يتصور إلا إذا انعقد هناك قضية وكذا الكلام في حقيقة <lb n="3"/> النسبة فإنه إذا كان من الجانبين لا يتصور إلا إذا انعقد هناك قضية وإذا كان كذلك فكيف <lb n="4"/> يحترز عنه وأجيب عنه بأن المحكوم عليه وبه يلزم أن يكون مأخوذاً في تلك <lb n="5"/> النظر والالتفات ليس بمناظرة وإن كان النظر الواقع في تلك القضية مناظرة والمراد <lb n="6"/> من النظر الواقع في المحكوم عليه وبه وهو الأول فيجب التحرز عنه وكذا الكلام في النظر في <lb n="7"/> حقيقة النسبة فتأمل <quote type="lemma">قوله ثم إن قصد إظهار الصواب إلخ</quote> إشارة إلى دفع ما يقال <lb n="8"/> إنه قد يكون الغرض من جانبي الخصومة تغليظ الخصم صاحبه فلا يصدق <lb n="9"/> عليه هذا التعريف وتقرير ما ذكره أن غرضه إظهار الصواب لا تنافي غرضية <lb n="10"/> التغليظ لأن المناظرة المغالط بحسب [الظاهر] صدر أن بحثه لإظهار الصواب غاية <lb n="11"/> ما في الباب أن الإصابة لا تكون غرضاً له لا يلزم من عدم كون غرض المناظرة الإصابة أن <lb n="12"/> لا يكون إظهارها غرضاً له ولكن أن تقول إن أريد بالغرض ما هو غرض بحسب الحقيقة <lb n="13"/> فلا نسلم إظهار الصواب غرض للمغالط بحسب الحقيقة وإن أريد به ما هو غرض <lb n="14"/> بحسب [الظاهر] فعدم التنافي بين الغرضين مسلم لكن الكلام فيما هو غرض <lb n="15"/> بحسب الحقيقة واعلم أن الشارح قد تابع المدقق مسعود الرومي في هذا المقام لكن <lb n="16"/> اعترض عليه الفاضل الحنفي بأن ذلك مبني على جواز تعدد العلة الغائية وهو مم <lb n="17"/> لأن الباعثة على إقدام الفاعل على الفعل فإن كان الباعث مجموع الأمرين فهو علة <lb n="18"/> غائية لا كل واحد منهما وإن كان كل واحد على حدة كذلك لزم توارد العلتين <lb n="19"/> المستقلتين على معلول واحد مشخص وهو مم وإن كان واحد منهما كذلك فقط <lb n="20"/> فهو علة غائية لا غير ومنه علم ضعف القول بجواز تعددها فليتأمل <lb n="21"/> قضى في هذا التعريف إلخ قد يجاب عنه بأن المنع المجرد ليس من المناظرة إذ ليس <lb n="22"/> من البحث في شيء بناء على أن المبحث عبارة من إثبات النسبة الحكمية إيجابية <lb n="23"/> كانت أو سلبية بطريق الاستدلال أعم من أن يكون دليلاً أو صورة الدليل على ما <lb n="24"/> هو المشهور من معانيه الاصطلاحية ويكون ذكرهم المنع المجرد استطرادياً وقد <lb n="25"/> وقد بينا من قبل ما يدفع هذا الإشكال فكن على ما ذكر منه.<quote type="lemma">قوله وأجيب بأن المنع إلخ</quote> إن كان مراده بالنظر في قوله من قبيل النظر فيها بمعنى الفكر فهو صحيح <lb n="26"/> لكنه ليس بمرضيّ ضده وإن مراد النظر بمعنى التوجه كما هو تفسيره فلا معنى لإقحام <lb n="27"/> لفظ القبيل فتأمل.<quote type="lemma">قوله وسيجيء تفصيلها</quote> ملخص التفصيل الآتي أن <lb n="28"/> <term type="concept">المعارضة</term> على قسمين معارضة في الدليل ومعارضة في المقدمة وإن الأولى تنقسم <lb n="29"/> إلى القلب والمثل والغير وقد جعل المقسم ههنا مطلق المعارضة فتدبرها قوله <lb n="30"/> لأنه إما أن يمنع مقدمة الدليل اعلم أن المقدمة تطلق تارة على ما يتوقف عليه <lb n="31"/> الأبحاث الآتية وتارية على قضية جعلت جزء قياس وتارة على ما يتوقف عليه <lb n="32"/> صحة الدليل والمراد بالمقدمة هنا أحد المعنيين والمعنى الأول أعم من الآخرين <lb n="33"/> لأن كل ما جعل جزء دليل أو يتوقف عليه صحة الدليل يتوقف عليه الأبحاث الآتية <lb n="34"/> من غير عكس كما يجاب الصغرى وكلية الكبرى فإن صحة الدليل بل هنا خارجان <lb n="35"/> عنه هذا ثم الدليل هنا عبارة عن المركب من قضيتين للتأدي إلى مجهول نظري <lb n="36"/> وهذا أولى من تعريفه بما يلزم من العلم به العلم بشيء آخر على ما هو المشهور لانتقاضه <lb n="37"/> طرداً بالمعرفات بالنسبة على معرفاتها والملزومات بالنسبة إلى لوازمها البينة و <lb n="38"/> عكساً بالأدلة الغير البينة الإنتاج وبالدليل الفاسدة الصورة سواء كان على <lb n="39"/> الصحة أو على قصد التغليظ كقولنا الإنسان حيوان والحيوان جنس لإثبات الإنسان <lb n="40"/> جنس وفساد الصورة فيه باعتبار أن الكبرى ليست كلية بخلاف التعريف الأول <lb n="41"/> على ما قيل فتأمل <quote type="lemma">قوله وإنما قدم منع المقدمة إلخ</quote> الجواب لإيراد مشهور <lb n="42"/> وهوان ترتب المنوع على ما ذكره الإمام <persName ref="#person-al-razi">الإمام الرازي</persName> في المحاكمات هو أن النقيض <lb n="43"/> مقدم على <term type="concept">المناقضة</term> وهي على المعارضة وهذا ما يقتضيه طبع البحث فإن الدليل</p>
+        </div>
+        <div type="folio" n="4">
+          <pb n="4"/>
+          <p><lb n="1"/>موصل قريب إلى المطلوب ومقدماته موصلات بعيدة والنظر في الموصل <lb n="2"/> القريب أقرب في النظر أهل المناظرة إلى ما هو المقصود أعني رد ما يدعيه الخصم وأن <lb n="3"/> <term type="concept">النقض</term> يدل على فساد الدليل صريحاً بخلاف المناقضة فإنها تدل على خفائه وأما المعارضة <lb n="4"/> فهي قدح في الدليل ضمناً فلا عبرة بها فلو قدم المصنف النقض على المناقضة لوافق <lb n="5"/> الوضع الطبع وتقرير الجواب أن طبع البحث وإن اقتضى تقديم النقض ولكن تقدم متعلق <lb n="6"/> المناقضة وهو مقدمات الدليل على متعلق النقض الذي هو مجموع <lb n="7"/> الدليل يقتضي تقديم المناقضة لتعلقه بالجزء الدليل ولا شك أن الجزء متقدم <lb n="8"/> على الكل طبعاً فكذا ما يتعلق به على قياس ما تقرر في علم المنطق من تقديم <lb n="9"/> الموصل إلى التصور على الموصل إلى التصديق هذا ويمكن أن يقال <lb n="10"/> يجوز أن يكون عدول المصنف مما ذكره الإمام <persName ref="#person-al-razi">الإمام الرازي</persName> لنكتة وهي رعاية التناسب <lb n="11"/> بين النقض والمعارضة في كون كل واحد منهما استدلالاً وراجعاً إلى منع <lb n="12"/> مقدمة غير معينة وفي هذا المقام أبحاث نفيسة تطلب من الحاشية الفتحية <lb n="13"/> <quote type="lemma">قوله أي الذي هو شاهد المنع</quote> المشهور فيما بينهم أن المنع <lb n="14"/> في هذا المقام إنما يقارن الند فقط وأما الشاهد فإن اعتبر مفهومه <lb n="15"/> فقط وهو ما يدل على فساد الدليل من غير اعتبار قيد الحيثية فقد يصدق <lb n="16"/> على <term type="concept">السند</term> بهذا الاعتبار فيقارن المنع بطريق المطالبة وإن اعتبر مفهوم <lb n="17"/> مع ذلك القيد فلا يصدق عليه ولا يقارن المنع المذكور وإنما يقارن <lb n="18"/> المنع بطريق الإبطال فإن السند وإن كان يصدق عليه أنه مشاهد لكن <lb n="19"/> لا يصدق عليه من حيث أنه شاهد فعلى التقدير الأول الشاهد أعم من السند <lb n="20"/> وعلى الثاني مباين له بالاعتبار وقد يطلق الشاهد على ما يدل على فساد <lb n="21"/> الدليل من حيث إنه ذلك وعلى هذا لا يصدق على السند أصلاً بل يكون <lb n="22"/> مبايناً له لذات والاعتبار جميعاً إذا تحققت هذا علمت ما في تفسير <lb n="23"/> السند بالشاهد من الخلل اللهم إلا أن يقال السند مرادف الشهادة عند الأصوليين وفيه <lb n="24"/> أن ذلك مبني على جعل النقض والمناقضة شيئاً واحد وحصر الكلام السائل في المناقضة والمعارضة <lb n="25"/> وأنه اصطلاح آخر وتوضيحه أن المناقضة عندهم عبارة عن النقض ومرجعها إلى الممانعة <lb n="26"/> لأنها امتناع من تسليم بعض المقدمات من غير تعيين وتخلف الحكم عندهم بمنزلة السند <lb n="27"/> فتأمل <quote type="lemma">قوله ومنها نوع إلخ</quote> لا مرية في أن المناقضة منع بطريق المطالبة فقط ففي <lb n="28"/> اندراج هذا النوع تحت المناقضة خفاء فإنه في الحقيقة عبارة عن دعوى فساد المقدمة <lb n="29"/> بناء على الاشتباه فالأحرى أن يجعل من أنواع النقض الإجمالية فتأمل <quote type="lemma">قوله إنما يرد على مقدمة مبنية على الفاظ</quote> اعلم أن السبب العالم في تحقيق الغلط في الدليل <lb n="30"/> هو عدم التمييز بين الشيء وما يشبهه لأنه لو لم يشتبه شيء بما شابهه لما أمكن <lb n="31"/> التلفظ ثم الغلط إما أن يكون بسبب المادة أو بسبب الصورة أو بسببهما <lb n="32"/> جميعاً وأسباب الغلط البسيط تنحصر في اثني عشر قسماً ستة منها في الألفاظ و <lb n="33"/> ستة منها في المعاني وقد يتألف منها أقسام أخرى يعني معرفة بساقطها عنها <lb n="34"/> وإن أردت الوقوف على معرفة هذه الأقسام وأمثلتها وحلها فارجع إلى شرح القسطاس <lb n="35"/> للإمام السمرقندي <quote type="lemma">قوله أي إقامة الدليل على خلاف ما أقامه</quote> على <lb n="36"/> رأي الإمام المحقق من أهل النظر وإما على رأي صاحب المقدمة ف<term type="concept">الغصب</term> <lb n="37"/> <quote type="lemma">قوله فهو غصب إلخ</quote> قيل فما سمي غصباً لأن السائل إذا كان في منع <lb n="38"/> المقدمة لا يكون معارضاً بل يكون مناقضاً فالمعارضة منصب <lb n="39"/> الغير وقد عصب السائل ذلك المنصب وقيل لأن التعليل قبل إثبات <lb n="40"/> المقدمة الممنوعة حق المعلل ولا حق للسائل إلا المنع المجرد <lb n="41"/> أو منع سند المطالبة <quote type="lemma">قوله لاستلزامه الخبط إلخ</quote> حاصله <lb n="42"/> أن الغصب لا يسمع ولا يلتفت إليه <quote type="lemma">قوله خلاف البعض</quote> <lb n="43"/> إلخ نقل من الإمام ر<persName >ركن الدين العميدي </persName>  أنه كان يسمع الغصب <lb n="44"/> ويقول إن منعه وعدم سماعه لا يجدي نفعاً فإن السائل</p>
+        </div>
+        <div type="folio" n="5">
+          <pb n="5"/>
+          <p><lb n="1"/>قد يكون ذهنياً فيخرج ما قاله عن صورة الغصب بأدنى تفسير مثلاً في المثال المذكور <lb n="2"/> آنفاً يقول لا نسلم أن الحلي مراد هو غير مراداً لثبت الحكم فيه لكنه غير ثابت وذلك <quote type="citation">لقوله عليه الصلاة <lb n="3"/> والسلام لا زكاة في الحلي</quote> فإن قال المعلل هذا غصب وهوغير مسموع فيقول السائل هكذا الحلي <lb n="4"/> غير مراد إذ لو كان مراد منه لكان مع جميع لوازم الإرادة كالحكم في صورة النزاع والحرج <lb n="5"/> بعدم الأداء لكن جميع اللوازم منتفية لقوله عليه السلام <quote type="citation">لا زكاة في الحلي</quote> فح يكون قياساً <lb n="6"/> استثنائياً واجب السمع وإن كان كذلك يكون الغصب مسموعاً إذ سماعه والالتفات <lb n="7"/> إليه يدفعه أولاً أولى ومنعه لا يجدي نفعاً فبالعناية يستحق الجواب كما علمت وقد أورد <lb n="8"/> على الإمام ركن الدين البحث من وجهين أحدهما أن ما هو باطل فالأصل أن لا يجاب <lb n="9"/> عنه وما لا يتوقع إلا من البعض في بعض الأحيان لا يترك الأصل لأجله والثاني <lb n="10"/> أن الجواب عن الغصب لا يخلو إما أن يكون جواباً عن نفس الغصب وهو باطل <lb n="11"/> لأن الغصب باطل بالاتفاق والباطل لا يستحق الجواب أصلاً أو يكون جواباً عما يقال <lb n="12"/> بعد المنع ولا يجدي نفعاً أيضاً لأنه لا يكون جواباً عن الغصب فتأمل <quote type="lemma">قوله وذلك الشاهد على نوعين إلخ</quote> ظاهر كلام المحقق مولانا عضد الملة والدين في الرسالة <lb n="13"/> تخصيص الشاهد بالتخلف وحصره فيه وقد أورد عليه أن النقض لا يختص بالتخلف المذكور <lb n="14"/> بل هو عبارة عن منع الدليل بأن يقال إن هذا الدليل غير صحيح إما لتخلف الحكم عنه أو لاستلز <lb n="15"/> ام فساد آخر على أي وجه كان من الخصوصيات وأجيب عنه بأن هذا إنما يرد ما لو حمل التخلف <lb n="16"/> على تخلف الحكم عن الدليل كما هو المتبادر وأما إذا حمل على ما هو أعم من تخلف المذكور من <lb n="17"/> الدليل ولخلف اللازم من الملزوم فلا ورود له لأنه إن استلزم الدليل فساداً كان <lb n="18"/> لازمه متخلفاً عنه قطعاً ضرورة أن ذلك الفساد اللازم غير متحقق في الواقع علم أنه <lb n="19"/> على تقدير حمل التخلف على المعنى الأول إنما يتوجه ذلك الإيراد إن أريد بالحكم الحكم <lb n="20"/> الذي في الدعوى أو غير فلا <quote type="lemma">قوله واعلم أن النقض قد يكون إلخ</quote> أي بأن <lb n="21"/> لا يتفاوت الدليل في الموضعين إلا باعتبار المحكوم عليه في الأقيسة آلاقبئرا نیت <lb n="22"/> أعني موضوع الصغرى في الشكل الأول وباعتبار الجزء المتكرر بعينه إما نفياً أو إثباتاً <lb n="23"/> في لائقة الاستثنائية كما إذا كان المدعى أن كلام الله تعالى أزلي فالمحكوم عليه <lb n="24"/> هو الكلام وقياسه أنه أسنده إلى ذاته حقيقة وكلما كان كذلك فهو صفة أزلية <lb n="25"/> فينقض بأن يجري هذا الدليل بعينه في الخلق بأن يقال الخلق أزلي فالحكم عليه <lb n="26"/> هنا الخلق وقياسه أنه أسند على ذاته وكلما كان كذلك فهو أزلي فهذا الدليل بعينه الدليل <lb n="27"/> الأول لأن التفاوت بينهما باعتبار المحكوم عليه ليس إلا فإنه في الأول الكلام وفي الثاني <lb n="28"/> الخلق <quote type="lemma">قوله وقد يكون بأجزاء ملخص الدليل إلخ</quote> كان يقال في المثال المذكور الكلام مسند <lb n="29"/> إليه يقال بطريق الحقيقة لأنه ورد في القرآن ذلك <quote type="citation">وكلام الله موسى تكليماً</quote> فيقعد الناقض الخلق <lb n="30"/> مسند إليه بطريق الحقيقة أيضاً لأنه ورد في القرآن ذلك <quote type="citation">إنا خلقنا الإنسان في أحسن تقويم</quote> <lb n="31"/> <quote type="lemma">قوله وقد ينقض الدليل الدليل</quote> اشتهر فيما بين الجدليين أن الكسر عبارة <lb n="32"/> عن إسقاط وصف من أوصاف العلة المركبة وإخراجه من الاعتبار بيان الدلالة أنه لا أثر له وقد <lb n="33"/> ذكر له صورتان إخديهما أن يبدل ذلك الوصف الخاص الذي بين أنه لغوي بوصف أعم منه <lb n="34"/> ثم إن السائل ينقضه على المستدل كأن يقول <persName ref="#person-al-shafii">شافعي </persName>  في إثبات صلاة الخوف صلاة <lb n="35"/> يجب قضاؤها فيجب أداؤها كصلاة الأمن فيقول المعترض خصوص كونها صلاة <lb n="36"/> ملغى لا أثر له لأن الحج والصوم كذلك فلم يبق إلا الوصف العام وهو كونها عبارة فينقض <lb n="37"/> عليه بصوم الحائض فإنه عبادة يجب قضاؤها ولا يجب أداؤها بل يحرم والصورة الثانية <lb n="38"/> أن لا يبدل ذلك الوصف فلا يبقى في مثالنا إلا قول وجب قضاؤها فيجب أداؤها <lb n="39"/> فيقال ليس كلما وجب قضاؤه وجب أداؤه بدليل صوم الحائض فقد أعرض ذلك <lb n="40"/> الوصف بالكلية وذكر صورة النقض هذا نقل من إمام أهل الجدل أبو إسحاق <persName>الشيرازي</persName> أنه قال في الملخص ما نصه وهو أي هذا النوع من النقض سؤال مليح والاشتغال به <lb n="41"/> ينتهي إلى بيان الفقه وتصحيح العلة وقد اتفق أكثر أهل العلم على صحته أو فساده <lb n="42"/> ويسمونه بالنقض من طريق المعنى والإلزام من طريق الفقه وأنكر ذلك طائفة من <lb n="43"/> <placeName>الخراسانيين</placeName> قالوا إن العلة هي مجموع الصفات وتخلف الحكم من بعضها لا يوجب <lb n="44"/> بالنقض وأما تسميته بالنقض المكسور فليست بمعروفة عند أهل الجدل</p>
+        </div>
+        <div type="folio" n="6">
+          <pb n="6"/>
+          <p><lb n="1"/>غير أن <persName ref="#person-al-amidi">الآمدي </persName>  انفرد بهذه التسمية والمصنف تابعه <quote type="lemma">قوله واعلم أن المعارضة إلخ</quote> لا <lb n="2"/> يذهب عليك ما بين هذا وبين قوله في المتن ومنع المدلول إلخ من التدافع فإن هذا التعريف <lb n="3"/> يقتضي تعلق المعارضة بالدليل بلا مرتبة على أنه لو ذكر التعريف المشهور أعني إقامة الدليل <lb n="4"/> إلخ لكان أسلم وإن نوقش فيه أيضاً فتأمل <quote type="lemma">قوله بعد إثبات المعلل إلخ</quote> قيد به لأن <lb n="5"/> السائل إذا أقام الدليل على نفي شيء من المقدمات قبل إثبات المعلل تلك المقدمة يكون غصباً <lb n="6"/> لأن المعلل ما دام معللاً يكون التعليل حقه ليعلم حقيقة الدليل أو بطلانه وليس للسائل <lb n="7"/> إلا مطالبة ذلك فلو تعرضالسائل لمنع المقدمة قبل الإثبات يكون غصباً وقد مر تفصيله <lb n="8"/> <quote type="lemma">قوله والمعارضة في الحكم إلخ</quote> تخصيص البيان بهذا القسم من المعارضة ليس على ما <lb n="9"/> يبتنى فقد ذكر المحقق السعد في التلويح ما نصه والمعارضة في المقدمة إن كانت بجعل علة <lb n="10"/> المستدل معلولاً والمعلول علة فمعارضة فيها معنى المناقضة وإلا فمعارضة خالصة وهي قد تكون <lb n="11"/> لنفي عليّة ما أثبت المستدل عليته وقد تكون لإثبات علية علة أخرى ما قصره وأما <lb n="12"/> متعديه التي مجمع عليه أو مختلف فيه هذه عبارة إلا أن يقال مراده أن المنقسم إلى الأنواع <lb n="13"/> الثلاثة هو هذا القسم وقد علمت ما فيه مما مر فكن على ما ذكر منه انتهى قوله <lb n="14"/> فمن حيث إبطال دليل المعلل إلخ لا يخفى أن هذا غير مختص بالقلب بل المعارضة مطلقاً <lb n="15"/> منع بطريق الإبطال كما هو المشهورقوله <quote type="lemma">وأما المناقضة إلخ</quote> فيه سهو ظاهر لعلة من <lb n="16"/> قلم الناسخ وقد اتفقت النسخ فيما رأينا عليه وكأنه تابع عبار التلويح في هذا المقام ولا يرد على <lb n="17"/> تلك العبارة بشيء فإن الأصوليين يحصرون كلام السائل في النقض الإجمالي والمناقضة شيئاً <lb n="18"/> واحداً على ما تشهد به عباراتهم وذلك اصطلاح آخر وقد مر توضيحه <quote type="lemma">قوله أما وظيفة المعلل إلخ</quote> اعلم أنه لابد أولاً من ثلاثة أمور أحدها تقديم الإشارة إلى البحث وهو <lb n="19"/> ما يتصور البحث على وجه يتمكن من تطبيق الدليل عليه والثاني التلفظ بتقديم الإشارة <lb n="20"/> والثالث تحرير البحث أي تعيينه وتشخيصه لأن الكلام من الجانبين إنما يتوجه إلى ما يبحث <lb n="21"/> فيه فلو لم يكن متعيناً ولا [مشخصاً] لم يعلم أن الدليل مظهر لثبوته أو ليس بمظهر له وكذلك <lb n="22"/> بالنسبة إلى دليلالمعارض هذا إذا كان البحث غير بين وأما إذا كان بيناً فلا يحتاج إليه <lb n="23"/> إليه ثم إن السائل إذا سأل فتدبر المعلل إن الاستعجال في الجواب بل يطلب من السائل توجه <lb n="24"/> المنع وتحقيقه إذ ربما لا يتمكن من التوجيه فالبحث ينقطع أو يظهر الفساد فالمنع <lb n="25"/> يندفع أو يتذكر المعلل الجواب فيتمكن من التعليل عند توجيه السائل المنع التفصيل <lb n="26"/> فإن المنع على قسمين أحدهما [بطريق] المعلل ويفيد السائل وهو بأن يكون تمام دليله <lb n="27"/> موقوفاً على صحة المقدمة التي منعها السائل [والتي] لا يضر بالمعلل ولا يفيد السائل وذلك <lb n="28"/> <quote type="lemma">قوله أو إبطال سنده إلخ</quote> ينبغي أن يعلم أن الكلام على سند المنع لم يجوزه قوم <lb n="29"/> من المحصلين حيث قالوا إن الاشتغال بالكلام على السند والجواب عنه اشتغال <lb n="30"/> بما لا يفيد لأن المنع مع السند أخص من مطلق المنع فإن المقيد أخص من <lb n="31"/> غير المقيد ورفع الأخص لا يستلزم رفع الأعم وسمعه آخرون واعترضوا على <lb n="32"/> أولئك بأنه إذا لم يغد دفع المستند لا يجوز البحث عنه فكيف يمكن الجواب عن المنع <lb n="33"/> مع بقاء السند فإن السند ملزوم وعلة للمنع ودفع اللازم والمعلول مع بقاء اللازم <lb n="34"/> والعلة غير متصور وبان السند إذا كان مساوياً للمنع بمعنى أنه كلما تحقق تحقق <lb n="35"/> وبالعكس لا يكون بينهما عموم وخصوص بل يكونان متساويين بحسب التحقق <lb n="36"/> فرفعه يستلزم رفع المنع <quote type="lemma">قوله أي لازماً للمنع</quote> فيه إشارة إلى أن مسند المساوي <lb n="37"/> في غير فهم ما يكون بينه وبين المنع تلازم ويؤيد عما في شرح الآداب المفاضل <lb n="38"/> مسعود الرومي وهو إبطال السند إنما يفيد إذا كان لازماً للمنع [فح] يندفع ما يكاد <lb n="39"/> أن يقال إن قوله بأن يلزم ثبوته أو انتفائه ثبوت المنع إلخ <quote type="lemma">قوله وذلك لأن السند إلخ</quote> الإشارة إلى جميع ما ذكر وهذا التفسير للسند أولى <lb n="40"/> من تفسيره بما ذكر لتقوية المنع بزم المانع وإن لم يكن مفيداً في الواقع <lb n="41"/> لأنه يقتضي أن يكون السند الأعم والسند الغير اللازم للمنع بلا سند <lb n="42"/> المباين في الواقع أيضاً داخلاً في السند وفرداً من أفراده مع أن كلاً منها <lb n="43"/> لا يصلح للسندية على ما حققوه بزمتهم وكذا من تفسيره وبما يكون <lb n="44"/> المنع مبنياً عليه لأنه يصدق على تخلف الحكم فإن منع الدليل بعد تمامه مبني</p>
+        </div>
+        <div type="folio" n="7">
+          <pb n="7"/>
+          <p><lb n="1"/>عليه وعلى المعارضة أيضاً لأن منع المدلول مبني عليها فإن خصص المنع بمنع المقدمة فمع <lb n="2"/> أنه خلاف الظاهر يرد المعارضة التي في المقدمة ومن تفسيره بما يكون مصححاً لورود المنع <lb n="3"/> لأنه يلزم منه أن لا يكون المنع الغير المقترن بالسند صحيحاً وهو ممنوع فتأملقوله <quote type="lemma">وذلك لأن مدار المنع إلخ</quote> ينبغي أن يعلم أن <term type="concept">الدوران</term> لغة هو الطواف وقيل الحركة في السكك <lb n="4"/> واصطلاحاً عبارة عن ترتب شيء على الشيء الذي له صلوح العلية كترتب الإسهال <lb n="5"/> على شرب السقمونيات والشيء الأول يسمى دائراً والثاني مداراً والمراد بالترتب حصول شيء عند حصول <lb n="6"/> شيء آخر كحصول النهار عند حصول الشمس والمراد بالحصول العلية <lb n="7"/> الإسهال بشرب السقمونيات ثم إن الدوران ثلاثة أقسام أحدهما أن يكون المدار مداراً للدائر <lb n="8"/> وجود الإعدام كما في المثال المذكور فإنه إذا وجد السقمونيا وجد الإسهال وإذا عدم فلا يلزم <lb n="9"/> عدم الإسهال لجواز أن يحصل بدواء آخر وثانيها أن يكون مداراً للدائر عدماً لا وجوداً <lb n="10"/> كالحياة للعلم فإنها إذا لم توجد لم يوجد العلم أما إذا وجدت فلا يلزم وجود العلم وثالثها أن يكون <lb n="11"/> مداراً له وجوداً وعدماً على معنى أنه كلما وجد وجد وكلما انتفى انتفى كالزنا الصادر من <lb n="12"/> المحصن لوجوب الرجم عليه فإنه كلما وجد وجب الرجم عليه وكلما لم يوجد لم يجب ويسمى هذا التقسيم <lb n="13"/> دوراناً كلياً والأولان دوراً جزئياً إذا تقرر ما تلونا فاعلم أن البحث إنما يقع فيما فيه حكم <lb n="14"/> بنفي أو إثبات وإن المنع في عرفهم مقول بالاشتراك على معنيين أحدهما طلب الدليل على مقدمة <lb n="15"/> الدليل وثانيهما السؤال والداخل في مقابلة الدليل سواء كان بطريق المطالبة أو الإبطال والأول <lb n="16"/> أخص من الثاني وكلاهما متعلقان بالدليل على دعوى ثبوت الحكم ثم إن الناقل من حيث إنه <lb n="17"/> ناقل أن يذكر فيما نقله دليل فظاهر أنه لا يتوجه عليه شيء من النوع الثالثة بل يطلب منه تصحيح <lb n="18"/> النقل إن لم يكن معلوماً لا غير وإن ذكر فيه دليل فإنما هو على طريق الحكاية من المنقول عنه كتاباً <lb n="19"/> كان أو غيره فلا يتوجه عليه شيء منها أيضاً نعم إذا التزم صحته أو أقام دليلاً برأسه <lb n="20"/> على ما نقله صار مستند لاح فيتوجه عليه ما يتوجه عليه كذا أفيد <quote type="lemma">قوله ألا ترى أن المنع لا يتوجه على الحدود إلخ</quote> قد عرفت أن البحث إنما يقع فيما فيه حكم إما بنفي أو إثبات وهو ينقسم <lb n="21"/> إلى التعريفات والمسائل ولكل منهما طرق مخصوصة في البيان والمطالبة أما المسائل فقد بينت <lb n="22"/> قبل وأما التعريفات فقد علم في المنطق أنها أربعة أقسام <term type="concept">حدان ورسمان</term> <quote type="lemma">قوله فيمكن توجه المنع إليه إلخ</quote> الظاهر أن مراده بالمنع هنا وفيما سبق واحد وهو ما يشمل <lb n="23"/> المناقضة والنقض والمعارضة وحاصله أنه لا يتوجه منها على الحدود شيء إلا إذا <lb n="24"/> حكم المعرف بالحد على المحدود أو اعتبر الخصم ذلك لأن المعرف متى قال هذا هو كذا <lb n="25"/> وكذا على أنه تعريف للشيء فهو دعوى من الدعاوى وجاز أن يكون الأمر بخلافه فجاز أن <lb n="26"/> يمنع أو ينقض أو يعارض إذا قدر الدليل على تلك الدعوى لا سميا إذا ادعى أنه حد تام <lb n="27"/> مثلاً فإنه ح يشتمل على دعوى الجنس والفصل القريبين فيتوجه عليه المنع ويجب عليه <lb n="28"/> بيان ذلك أو ادعى أن هذا التعريف عند قوم وبعينهم فإنه مشتمل على دعوى الاصطلاح <lb n="29"/> منهم فيتوجه المنع ويجب عليه تصحيح النقل عنهم هذاقوله <quote type="lemma">أما أن يعجز المعلل إلخ</quote> هذا التقسيم أولى مما ذهب إليه <persName ref="#person-al-samarqandi">الإمام السمرقندي</persName> وهو أن المعلل إما أن ينقطع كلامه <lb n="30"/> بالمنع أو المعارضة أو لا ينقطع بل يستدل على إثبات كل مقدمة منعها السائل بدليل آخر أو <lb n="31"/> تنبيه فإن انقطع فقد حصل الإفهام للمعلل وإن لم ينقطع فلا يخلو من أن ينتهي في تلك <lb n="32"/> المناظرة إلى أمر ضروري القبول أولاً فإن كان الأول يلزم إلزام السائل وإن كان الثاني يلزم <lb n="33"/> المعلل لأنه إما أن يعجز من إقامة الدليل على مقدمة منعها السائل أو لا يعجز بل تتسلسل <lb n="34"/> أدلته إلى غير النهاية والثاني محال فتعين الأول فيلزم الإقحام على تقرير عدم استحالة <lb n="35"/> التسلسل يلزم ذلك أيضاً لأنه لا يتمكن من إثباته أمور لا نهاية لها في مدة عمره فضلاً <lb n="36"/> عن إثباتها في مجلس واحد أو مجالس معدودة لامتناع إحاطة الذهن بما لا نهاية <lb n="37"/> له إذ لو أحاط به لكان متناهياً وإنما كان ما ذكره المصنف أولى لأنه قد اعترض على <lb n="38"/> هذا التقسيم بأن العجز عن الاستدلال داخل في الانقطاع بالمنع أو المعارضة <lb n="39"/> وقد جعل قسيماً له هنا وإن أجيب عنه بمنع دخوله فيه بناء على أن العجز أعم من الانقطاع <lb n="40"/> بهما والعام لا يكون مندرجاً تحت الخاص بل الأمر بالعكس فيناقش فيه بأنه يلزم من <lb n="41"/> كون العجز أعم من الانقطاع ومن دخول الانقطاع تحته أن يكون العام قسيماً للخاص <lb n="42"/> أيضاً فيلزم ذلك المجزوم سواء جعل العجز أعم من الانقطاع أو جعل الانقطاع</p>
+        </div>
+        <div type="folio" n="8">
+          <pb n="8"/>
+          <p><lb n="1"/>أعم من العجز وأما تقسيم المصنف فسالم من الاعتراض بل ما لا يخفى <quote type="lemma">قوله ولا بأس بالاستفسار</quote> <lb n="2"/> هو استفعال من المفسر وهو لغة طلب الكشف والإظهار ومنه التفسيرقوله <quote type="lemma">وبعض المناظرين عد ذلك إلخ</quote> الظاهر أن مراده بذلك البعض الإمام <persName ref="#person-ibn-hajib">ابن الحاجب</persName> فإنه عد هذا النوع من الاعتراضات <lb n="3"/> الواردة على قياس العلة في مختصر الأصول بل بدأها به لأنه المتقدمة على كل اعتراض فإن <lb n="4"/> السائل إذا لم يعرف مدلول اللفظ استحال عليه توجيه المنع <quote type="lemma">قوله لكنه يكون سؤالاً</quote> <lb n="5"/> بالمعنى اللغوي من سألته الشيء فهو بمعنى سائل المعروف لا من سألته عن الشيء وفيه <lb n="6"/> إشارة إلى أن عد ذلك من الاعتراضات ليس على ما ينبغي بل هو طليعة جيش الاعتراضات <lb n="7"/> لا منها فإن الاعتراض عبارة عن خدش كلام المستدل والاستفسار ليس فيه خدش <lb n="8"/> بل تعرف المراد وتبين للمطلوب ليتوجه ح السؤال <quote type="lemma">قوله وهذا مما يجوز</quote> <lb n="9"/> إذا كان في اللفظ إجمال أو غرابة إلخ أما الأول فكلفظ القرء مثلاً وأما الثاني فكخلط <lb n="10"/> اصطلاح كان يستعمل في القياسات الفقهية لفظ الدور أو التس أو الهيولي أو المادة <lb n="11"/> أو المبدأ أو الغاية وما أشبه ذلك من اصطلاح المتكلمين هذا إذا لم يعلم من حال خصمه <lb n="12"/> مفرقة ذلك وأما إذا علم فلا غواية ويلزم السائل بيان كون ذلك اللفظ مجملاً أو غريباً حتى <lb n="13"/> يحتاج المعلل إلى التفسير لأن الأصل عدم الإجمال وعدم الغرابة وللمعلل منع ذلك <lb n="14"/> لأن شرط الدلالة على المراد عدم إجماله أو غرابة وبيان شرط الدليل على المستدل ثم <lb n="15"/> إن جواب الاستفسار يكون بضد ما ادعى السائل بأن يقول المستدل هذا ظاهر <lb n="16"/> في مقصودي ويبين ذلك إما بنقل من أهل اللغة أو بالنقل من أهل العرف العام <lb n="17"/> أو الخاص انتهى هذا ما أوردنا تعليقه على شرح رسالة مولانا العلامة المحقق <lb n="18"/> شهاب الملة والدين <persName ref="#person-taskoprizade">أحمد الطاش كبري</persName> رحمه الله وصلى الله على سيدنا ومولانا محمد وآله <lb n="19"/> وصحبه وسلم تسلمياً كثيراً إلى يوم الدين آمين</p>
+          <note type="colophon" xml:lang="en">Closing devotional formula marking the end of the gloss.</note>
+        </div>
+      </div>
+      <div type="translation" xml:lang="en">
+        <head>English Translation</head>
+        <note type = "information"> AI is used to generate translations into English for informational purposes. There might be inaccurate or missing information. Double-reviewed content is required. </note>
+        <div type="folioTranslation" n="1">
+          <p><lb n="1"/>In the name of God, the Compassionate, the Merciful. <lb n="2"/>Praise be to You, bestower of souls and intellects, and thanks be to You, inventor of the essences of principles and foundations. <lb n="3"/>Blessings and peace be upon the one adorned with the highest refinement and finest qualities, whose true rank no disputant can fully grasp, however many proofs he might marshal. <lb n="4"/>After this, the least servant of God, Abū al-Suʿūd al-Kawākibī, writes that these pages are attached to the famous treatise on the discipline of debate ascribed to the learned investigator Ahmad Ṭāshkubrīzādah. <lb n="5"/>He asks the reader to correct its slips with fairness. <lb n="6"/>He then opens the commentary by explaining that the discipline of inquiry and debate stands to orderly exposition and disputation much as logic stands to reflection. <lb n="7"/>Earlier logicians treated its discussions as an appendix to logic, while later scholars made it an independent science because of the great need for it in learned controversy. <lb n="8"/>He defines <term xml:lang="ar">ādāb al-baḥth</term> as a theoretical discipline that teaches the methods and conditions of disputation so as to guard the student from confusion. <lb n="9"/>It applies across sciences of words, meanings, and mixed disciplines, and because each science operates with proofs appropriate to its own rank, debate theory provides the rule for knowing the sufficient kinds of objection and response. <lb n="10"/>He also ranks the strengths of proofs across grammar, law, legal theory, wisdom, logic, astronomy, and geometry.</p>
+        </div>
+        <div type="folioTranslation" n="2">
+          <p><lb n="1"/>The second folio continues the discussion of the lexical and technical meaning of “inquiry” or “consideration” (<term xml:lang="ar">naẓar</term>). <lb n="2"/>Al-Kawākibī examines whether the technical sense collapses into the lexical one and argues that the additional restrictions of the technical usage preserve difference. <lb n="3"/>He criticizes overly forced attempts to define inquiry solely as “thought” when this fails to cover a bare objection raised by the questioner. <lb n="4"/>Some redefine it as the soul’s turning toward meanings, but he finds that strained as well. <lb n="5"/>He then distinguishes the thought involved in debate from the thought required to establish or deny the contested predication. <lb n="6"/>The folio next moves to the notion of “determining the point at issue” (<term xml:lang="ar">taḥrīr al-baḥth</term>): before argument can proceed, the contested matter must be specified so that affirmation and denial concern one and the same thing. <lb n="7"/>He also revisits the definition of the “two sides” in debate, preferring an interpretation linked to the roles of establisher and questioner rather than merely two litigants, since the discipline turns on procedural positions within disputation.</p>
+        </div>
+        <div type="folioTranslation" n="3">
+          <p><lb n="1"/>The third folio addresses a famous objection: if inquiry from two sides requires a proposition, then how can one distinguish inquiry into subject and predicate from inquiry into the proposition itself? <lb n="2"/>Al-Kawākibī answers that not every act of attention counts as debate; debate concerns inquiry directed toward a contested judgment. <lb n="3"/>He then discusses the phrase “aiming to manifest the truth,” asking whether this excludes cases where a participant merely wishes to overpower an opponent. <lb n="4"/>He notes the tension between the apparent aim of truth-manifestation and the actual inner aim of contentious disputants, and records objections to the idea that multiple final causes can independently govern one act. <lb n="5"/>The folio then turns to the classification of opposition, distinguishing opposition in the proof from opposition in a premise. <lb n="6"/>It clarifies what counts as a premise, rejects overly broad definitions of proof, and explains why the author begins with challenging premises rather than immediately refuting the entire proof. <lb n="7"/>That ordering is defended both through the structure of reasoning and through the procedural logic of disputation.</p>
+        </div>
+        <div type="folioTranslation" n="4">
+          <p><lb n="1"/>The fourth folio explains that although the whole proof is the nearer means to the conclusion, premises deserve priority because the debate often begins with what underlies the proof. <lb n="2"/>Al-Kawākibī then closely analyzes the “witness” or ground accompanying objection and the relation between objection, support, and evidentiary failure. <lb n="3"/>He distinguishes cases where what is called a witness really functions as a support for objection and cases where it does not. <lb n="4"/>From there he revisits the relation among contradiction, refutation, and opposition, especially in technical legal-theoretical usage. <lb n="5"/>The folio also opens a substantial discussion of error: mistakes arise from failing to distinguish a thing from what resembles it, and such errors may stem from matter, form, or both. <lb n="6"/>He points the reader to al-Samarqandi’s commentary on the <title xml:lang="ar-Latn-x-dmg">Qisṭās</title> for the detailed classes of fallacy. <lb n="7"/>Finally, he defines “usurpation” (<term xml:lang="ar">ghaṣb</term>) in debate as the questioner’s improper takeover of the expositor’s role before the latter has completed establishing the contested premise.</p>
+        </div>
+        <div type="folioTranslation" n="5">
+          <p><lb n="1"/>The fifth folio examines whether such “usurpation” should ever be heard. <lb n="2"/>Al-Kawākibī reports a permissive view associated with Rukn al-Din al-Amidi, according to which a seemingly improper objection may in practice be reformulated into an admissible argument, and therefore sometimes merits an answer. <lb n="3"/>He then presents objections to that leniency: a formally invalid move should not receive independent standing, and answering what might later become valid is not the same as answering the invalid move itself. <lb n="4"/>He next returns to the theory of refutation, insisting that refutation is not restricted to one simple case of failed entailment. <lb n="5"/>He illustrates forms of counterexample and comparative refutation, including arguments about the createdness or eternality of “speech” and “creation,” and quotations such as “There is no alms due on ornaments” and Qur'anic proof texts. <lb n="6"/>The folio concludes with a discussion of “broken refutation,” where an opponent removes one component from a compound causal account in order to show that the remaining description does not secure the ruling.</p>
+        </div>
+        <div type="folioTranslation" n="6">
+          <p><lb n="1"/>The sixth folio returns to the definition of opposition and warns against conflating different levels of argumentative response. <lb n="2"/>It distinguishes opposition in the judgment from opposition in premises and notes that some formulations in the transmitted copies show signs of scribal confusion. <lb n="3"/>Al-Kawākibī then outlines the task of the expositor: he must first indicate the issue, articulate it verbally, and define it with enough precision for a proof to be applied. <lb n="4"/>Once the questioner raises an objection, the expositor should not rush; he should require the objection to be properly directed and clarified, since many disputes collapse when a challenge cannot be accurately formulated. <lb n="5"/>The folio then treats objection supported by a “ground” (<term xml:lang="ar">sanad</term>). <lb n="6"/>Some scholars reject extended discussion of such grounds because rebutting a qualified objection does not by itself remove the unqualified objection. <lb n="7"/>Others answer that where the ground is inseparable from the objection, one must address it. <lb n="8"/>Al-Kawākibī weighs these positions and argues that only a genuinely connected ground deserves that role.</p>
+        </div>
+        <div type="folioTranslation" n="7">
+          <p><lb n="1"/>The seventh folio continues the analysis of grounds for objection, then shifts to the technical notion of concomitance or “circulation” (<term xml:lang="ar">dawarān</term>) as a relation between a sign and that for which it is taken as causal. <lb n="2"/>Al-Kawākibī explains forms of concomitance in presence only, absence only, or both presence and absence, illustrating them with examples from medicine, epistemology, and criminal law. <lb n="3"/>He then turns back to the kinds of objection recognized in debate, distinguishing the request for proof of a premise from broader opposition to the proof. <lb n="4"/>He notes that mere transmission of an argument does not attract the full burden of disputation unless the transmitter endorses it as his own proof. <lb n="5"/>The folio next clarifies why definitions and issues are treated differently: definitions are not attacked in exactly the same way unless they are advanced as claims about genus, differentia, completeness, or someone’s technical usage. <lb n="6"/>Finally, he compares his preferred classification of debate outcomes to al-Samarqandi’s, arguing that his own scheme better avoids overlap between failure, interruption, and infinite regress in proof.</p>
+        </div>
+        <div type="folioTranslation" n="8">
+          <p><lb n="1"/>The final folio discusses the request for clarification (<term xml:lang="ar">istifsār</term>). <lb n="2"/>Although some disputants count it among objections, Al-Kawākibī argues that it is really the advance guard of objections rather than an objection proper, because it does not yet wound the proof but merely seeks understanding of an obscure or strange term. <lb n="3"/>He allows such a request where an expression is ambiguous or technically unfamiliar, especially when philosophical or legal-theoretical vocabulary has entered the discussion. <lb n="4"/>The questioner must still justify why the term is obscure, since the default assumption is clarity. <lb n="5"/>The expositor may answer by showing that the wording is plain in language, common usage, or technical custom. <lb n="6"/>With that, the gloss comes to an end: this is what he has written as a comment on the explanation of the treatise of the learned Ṭāshkubrīzādah. <lb n="7"/>He closes with prayers upon the Prophet, his family, and companions.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

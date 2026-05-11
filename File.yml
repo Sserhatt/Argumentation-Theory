@@ -1,0 +1,57 @@
+repository:
+  name: Argumentation Theory
+  description: >-
+    TEI-XML corpus of Arabic argumentation manuscripts from the early modern Islamic and Ottoman tradition,
+    prepared for FAIR reuse and Creative Commons distribution.
+  license: CC-BY-4.0
+  homepage: ./README.md
+  created: 2026-04-27
+  encoding: UTF-8
+  standards:
+    - TEI P5
+    - XML
+    - YAML
+  principles:
+    - Findable
+    - Accessible
+    - Interoperable
+    - Reusable
+  languages:
+    - ar
+    - ar-Latn-x-dmg
+    - en
+  subjects:
+    - Arabic manuscripts
+    - Argumentation theory
+    - Adab al-bahth wa-al-munazara
+    - Ottoman intellectual history
+    - Digital humanities
+  source_metadata:
+    manuscript_dataset: 
+    transcription_root: 
+  manuscripts:
+    - id: doc-1
+      title: "Risalah fi 'Ilm Adab al-Bahth wa-al-Munazarah"
+      folder: Manuscripts/Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî
+      shelfmark: 4780-IV
+      genre: pedagogical witness
+    - id: doc-2
+      title: "Risalah fi 'Ilm Adab al-Bahth wa-al-Munazarah"
+      folder: "Manuscripts/Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde"
+      shelfmark: 6783-V
+      genre: didactic epitome
+    - id: doc-3
+      title: "Hashiyat al-Kawakibi 'ala Risalat al-Bahth"
+      folder: Manuscripts/Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde
+      shelfmark: 477-V
+      genre: gloss
+    - id: doc-4
+      title: Talhis al-Husayniyya fi al-Adab
+      folder: Manuscripts/Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani
+      shelfmark: 4027-XXXI
+      genre: summary
+    - id: doc-5
+      title: Risalah fi Adab al-Bahth
+      folder: Manuscripts/Risālat fī al-Ādāb al-Baḥth Al-Samarqandi
+      shelfmark: 3251-XVI
+      genre: base text

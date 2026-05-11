@@ -1,0 +1,105 @@
+line_no	text	annotation
+1	تلخيص علم الآداب لمولانا محمد الكفوي	Title line naming the work and author.
+2	بسم الله الرحمن الرحيم	Opening basmala.
+3	حامداً لله على نعمائه، ومصلياً على سيد أنبيائه، وعلى الآل والأصحاب 	Opening praise to God and blessings on the Prophet and companions.
+4	وعلى الأزواج والأحباب، وبعد فيقول العبد السائل الفقير	Humble transition to the author's voice.
+5	إلى الله المحب القدير السيد محمد ابن الحاج حميد الكفوي غفر الله ولوالديه	The author names himself as Muhammad ibn al-Hajj Hamid al-Kafawi al-Aqkirmani.
+6	بالنبي الهاشمي، هذه رسالة في الأدب لخصها من كتب هذا الباب 	He describes the text as an epitome drawn from earlier books of the discipline.
+7	تحفة لبعض الأحباب وتذكرة لأولي الألباب اعلم أنك إذا قلت	It is offered as a gift and reminder for students.
+8	بكلام فلك خمسة حالات حالة الدعوى بلا دليل	The treatise begins by dividing utterances into five states.
+9	وحالة الدعوة بالدليل وحالة التعريف وحالة التقسيم 	The states are claim with proof, definition, division, and restriction/specification.
+10	وحالة التقييد والتخصيص أما الحالة الأولى فالوظائف	The first state is now analyzed.
+11	الوجهة من الخصم ثلاثة المناقضة مجازاً لغوياً مطلقاً، والنقض التشبيهي، 	Three opponent-functions are listed for bare claim.
+12	والمعارضة التقديرية، فلك في الأولى إثبات مدعاك، إما بإقامة الدليل	These include figurative contradiction, analogical refutation, and hypothetical opposition.
+13	على صحته أو تحريره أو بإبطال السند لو وجد مساوياً وإبطال المنع	The claimant may answer by proof, clarification, or invalidating an equivalent ground.
+14	وفي الأخيرتين منع مقدمتين والتحرير والنقصان التحقيقات	Other responses are only sketched here in compressed wording.
+15	وسيأتي زيادة البيان والحالة الثانية فالوظائف الوجهة من	The second state begins: claim accompanied by proof.
+16	الخصم سبعة المناقضة حقيقية مطلقاً والمناقضة مجازاً	Seven opponent-functions are now listed.
+17	عقلياً والمناقضة مجازاً حذفياً والغصب والمنع المجازي	Several figurative forms of contradiction and ghasb appear in the taxonomy.
+18	اللغوي المتعلق بنفس الدليل على رأي والنقض والمعارضة	Refutation and opposition complete the list.
+19	والتحقيقان فلك في الثلاثة الأول إثبات مقدمتك	The proponent's first task is to defend the denied premise.
+20	الممنوع إما بإقامة الدليل على صحتها أو بتحريرها أو بتحرير مدعاك	He may prove it, clarify it, or clarify the broader claim.
+21	أو بإبطال سند الخصم إن وجد مساوياً وتغييرها والانتقال إلى	He may also refute the objection's ground or change the formulation.
+22	دليل آخر وإلى بحث آخر لغرض إبطال المنع إذا كان متعلقاً	Transition to another proof or line of discussion is sometimes allowed.
+23	بالمقدمة البديهية الجلبية والاستقرائية مجرداً أو المسلمة أو مقدمة	This applies especially when the targeted premise is obvious, inductive, or conceded.
+24	غير ملتزمة الصحة وأما منعه ومنع السند وتنويره فلا يسمع	Certain denials and discussions of the ground are explicitly inadmissible.
+25	قطعاً وفي الرابع الإثبات إما بالإقامة أو بالتحرير أو التغيير	The fourth category is answered by proof, clarification, or change.
+26	والانتقال اتفاقاً ومنع مقدمته والنقض والمعارضة	The text continues listing available responses under this category.
+27	والغصب على من جوزه وفي الخامس إثبات دليلك	Ghasb is mentioned as admissible only for those who allow it.
+28		The source line is blank.
+29	إما بإقامة الدليل على صحة جميع المقدمات وعلى كل منها	In the fifth category, the proponent may prove all the premises or each separately.
+30	أو على مقدمة معينة فإنه سكت الخصم فيها وإلا بل مقدمة أخرى	He proceeds premise by premise as needed.
+31	فتقيم على الأخرى وهكذا إلى ينتهي المقدمات وفي السادس	The sequence continues until the premises are exhausted.
+32	المنع الحقيقي وتغيير دليلك وتحريره وتحرير مدعاك	The sixth category includes real denial, proof-revision, and claim-clarification.
+33	وتحرير المادة والنقض والمعارضة والغصب وفي السابع	Further operations include clarifying the matter and facing naqd or mu'arada.
+34	المنع الحقيقي والتحريران وتغيير الدليل والنقصان التحقيقان	The seventh category continues the compressed procedural list.
+35	والغصب والمنع المجاز اللغوي وأما الحالة الثالثة فاعلم أولاً أن التعريف	The third major state, definition, now begins.
+36	على أربعة أقسام لفظي وتنبيهي وحقيقي واسمي والأولان	Definition is divided into lexical, indicative, real, and nominal.
+37	من المطالب التصديقية رأي والأخيران من التصورية 	The first two are tied to assentive inquiry, the latter two to conceptual inquiry.
+38	فالوظائف الوجهة عند الأولين المناقضة مجازاً لغوياً	The first pair invites certain forms of figurative contradiction.
+39	والمعارضة التقديرية مطلقاً والنقض الإجمالي بشهادة فساد	Hypothetical opposition and broad refutation also apply.
+40	وما شبيهياً أو تحقيقياً على اختلاف على اختلاف فلك في الكل مثل ما مر	The precise classification varies, but the response-pattern resembles earlier cases.
+41	مثله وعند الأخيرتين النقض شبيهياً أو تحقيقيا	The latter two types of definition admit analogical or strict refutation.
+42	فلك المنع الحقيقي والمجاز اللغوي والحذفي والنقض والمعارضة وتحرير التعريف	The definer may answer with denial, clarification, refutation, or redefinition.
+43	وتغييره وتحريف العرف ومادة النقض قبل الأحسن إن يجعل	The wording is compressed, but the point is to refine the definition and its customary use.
+44	هذه التحريرات الثلاثة أسانيد للمنوع وأما المنع والمعارضة	These clarifications may be treated as grounds of objection.
+45	فلا يتوجه إلا إذا اعتبر الدعاوى الضمنية [فح] يجوز المنع المجاز اللغوي	Denial and opposition arise only when implicit claims are recognized.
+46	والمعارضة التقديرية على تلك الدعاوى فلك في الأول	Hypothetical opposition may then target those implicit claims.
+47	إثبات دعواك بالدليل أو بإبطال السند المساوي والتغيير	The answer is proof, invalidation of an equivalent ground, or modification.
+48	والتحريرات في الثاني المناقضة مطلقاً والنقضان التحقيقان	The second case reintroduces contradiction and strict refutations.
+49	ووجوده التحرير والتغيير وقد يفهم من كلام الشريف في شرح المواقف	A citation from al-Sharif's commentary on al-Mawaqif is invoked.
+50	أنه يجوز المعارضة بلا اعتبار دعوى بأنه يقول ما ذكرته في التعريف	The cited view may allow opposition even without formal recognition of an implicit claim.
+51	معارضته بذلك التعريف فلك منع التعارض بالرسمية	The definer may resist by distinguishing formal descriptive definition.
+52	أما الحالة الرابعة فالوظائف الموجهة من الخصم المنع المجاز اللغوي	The fourth state, division, begins with figurative linguistic denial.
+53	مطلقاً والمعارضة التقديرية إذا اعتبرت الدعوى هذا	Hypothetical opposition is allowed if a claim is implied.
+54	إذا كانت التقسيم من مطالب التصورية كما قيل وأما إذا كان 	This depends on whether division is treated as conceptual rather than assentive.
+55		The source line is blank.
+56	من التصديقية فلا حاجة إليه والنقض الشبيهي بخصوص الفساد	If division is assentive, some earlier distinctions are unnecessary.
+57	ومثل التداخل وعدم الحاصرية فلك في الأخيرتين النقصان 	Analogical refutation includes overlap and failure to be exhaustive.
+58	التحقيقان وتحرير القسم والأقسام وتغيير التقسيم اعتبارياً 	The answer includes refining the part or the whole division and altering its basis.
+59	ومنع الصغرى فقد ويجوز منع الكبرى أيضاً إذا كان التقسيم	One may deny the minor premise, and sometimes the major if the division is merely conceptual.
+60	اعتبارياً وفي الأول إثبات الدعوى بالإقامة وبالإبطال	Otherwise the claim is defended by proof or by invalidating the objection.
+61	أو بأحد التحريرين والتخييروأما الحالة الخامسة فتعلم الوظائف	The fifth state is to be understood by analogy with the earlier ones.
+62	الموجهة من الخسم ومنكسة بالمقايسة على ما سبق آنفاً وهذا الذي	The roles and responses invert by comparison to the prior cases.
+63	بيناه إلى هنا من الوظائف هي الوظائف في الرتبة الأولى	What has been given so far belongs to the first rank of functions.
+64	وأما التي في الرتبة الثانية فتعلمها بالمقايسة على الأولى واعلم	The second-rank functions are left to analogical inference.
+65	أنه لا يخلو إما أن يعجز لمعلل عن الكلام ويسكت وذلك	Outcomes of debate are now summarized.
+66	هو الإفحام أو العجز السائل من التعرض للمعلل بشيء من الوظائف	If the proponent falls silent, that is ifham.
+67	المذكورة بأن ينتهي دليل المعلل مثلاً إلى مقدمة ضرورية القبول	If the proof reaches a necessary or conceded premise, the questioner is compelled.
+68	أو مسلمة عند السائل تفطر إلى القبول وذلك هو الإلزام فح ينتهي المناظرة	This state is ilzam, and the debate ends.
+69	فلنختم الباب في بيان أسلوب المطالعة الكتاب فاعلم أنك إذا شرعت	The author closes with advice on how to study a book.
+70	في المطالعة فانظر في البحث من أوله إلى آخره بنظر إجمالي بحيث	One should first survey the whole discussion globally.
+71	ينتقش في ذهنك المعنى ظاهراً ثم لاحظ الأمور التصورية والتصديقية	Then one examines both conceptual and assentive matters carefully.
+72	بدقة النظر واستبصر فيها هل يرد عليها من الأمور الفادحة أم لا وهل	The reader should test whether serious objections arise and whether they can be answered.
+73	يمكن دفعها أم لا فانظر أولاً في الألفاظ والمعاني وتدبر غاية التدبر في هذه 	Attention should begin with wording and meaning.
+74	اللفظ موضوع لذلك المعنى أم يحتمل غيره وأنه لازم أو متعد وأنه	One tests lexical reference, ambiguity, valency, and grammatical class.
+75	من أي باب وأنه صفة أو مضاف أو معرفة أو نكرة عام أو خاص	Grammatical and semantic categories are part of disciplined reading.
+76	إلى غير ذلك وتأمل ثانياً في وجه التقديم والتأخير والمناسبة	Then one studies order, rhetorical fit, and relation between parts.
+77	وفي فائدة كل لفظ فانظرفي المتن والشرح واقصد أن الشارح من أي	The student should compare base text and commentary word by word.
+78	عبارة المتن أخذتها والمعنى الذي ذكره واجتهد أن يجد معناً أو نقضاً	One should identify what each glossed phrase contributes and where objections arise.
+79	أو معارضة فإذا نظرت على هذا الوجه فإما أن يجد شيئاً يدع	This process yields either an actual objection or none at all.
+80	أو لا يدع أو لا تجد شيئاً أصلاً فذلك إما لكمال من جده وبينه	If nothing is found, that may reflect either the text's strength or the reader's limitation.
+81	أو لقصورك فلا تفتر جدك فانظر إلى البحث الثاني أيضاً	The student is urged not to slacken but to continue with the next passage.
+82		The source line is blank.
+83	على الوجه السابق في الثالث ثم في الرابع هكذا حتى ترتقي إلى مدارج	The same reading method should be repeated across all sections.
+84	تمييز المقبول من المردود وتكون من المقبول والمردود والحمد لله على التمام	The goal is mature discrimination between acceptable and rejected arguments.
+85	وعلى رسوله أفضل الصلاة والتحية والسلام وقد تم تلخيص	The main text closes with praise and signals completion.
+86	الحسينية في الآداب للسيد محمد الكفوي عن يد أضعف الخليقة	A colophon states that the epitome of al-Husayniyya by Muhammad al-Kafawi has been completed.
+87	بل لا شيء في الحقيقة السيد محمد سعيد بن مصطفى المدعو بمدرس 	The copyist names himself as Muhammad Sa'id ibn Mustafa, called Mudarris-zada.
+88	زادة عومل بالفلاح والسعادة في الاثنين من ربيع الأول	The date formula gives Monday in Rabi' al-Awwal.
+89	لسنة أربعة وعشرين ومائتين وألف	The year is 1224 AH.
+90	ببسم الله الرحمن الرحيم	A new basmala introduces an appended uncertain fragment.
+91	فال بعض ان مدرك للکلّيات والجزئيات المجرّدة خوالنفس	Corrupt philosophical note on the knower of universals and particulars.
+92	المادّليل هوا قوي الج نیّت و صورها	The text is heavily corrupted and difficult to normalize with confidence.
+93	الناطق وصور همافيها ولالجزئیّات	It continues discussing forms and cognition in unclear wording.
+94	ِیهاو قال بعض الحققین منهاان المدرکب للکلّيت ولجزئيات مجرّدة	A rival view of cognition is attributed to "some investigators."
+95	اوماّدة هوالعقل وصورها فيها ونسبت الاوراک الي فوا همامجاز عقلیّ	The intellect is mentioned as knower; attribution is said to be figurative.
+96	كسبت القطع الالسّکین وقال بعضهم ان مدرک الکل من الکلیات و الجزئيات	Further corrupt philosophical distinctions continue.
+97	المجردّة او الاّ دة هاوالعقل لكن صورلکلّيات والجزئيات	Universals, particulars, and the intellect remain the apparent topic.
+98	والّنفس وصورالجزييات يالجسما نيت فی الانها ووفع هنا ثالست هذا مسبب	The line is severely noisy but still concerns soul, body, and forms.
+99	والختارالاخبران والاوّل من الاخيران ارجع بشهادة الوجدانا علح	The author or copy seems to prefer one of the reported views.
+100	انّاه مر في المحّل الّذی الکلّيات ولا کان ذكرالمحلّ هوالنّفس	The locus of universals and the soul are discussed.
+101	وفاقا ثبت ان محّل الکلّ هوانَّفس طال الحقّا هوالمذهب الاوّل	The first doctrine appears to be favored as the true position.
+102	بشهادة ان الحيوانات مع کونها فا قرة للنفس المجرّدة مدرکت الجزئيّات	An argument from animal perception of particulars is introduced.
+103	الحوست والعانى المنزعت منها قلات انهاحاسات الادرکات	Sensible particulars and abstracted meanings are mentioned in corrupt form.
+104	ثمان من ادلت الذهب الاول ان الادراک نقیض ارتسام الدرک في الدرک	The fragment closes with a further argument for the first view.
