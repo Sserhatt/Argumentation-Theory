@@ -17,14 +17,16 @@ The corpus currently has five witnesses, however important to note that, it will
 Each manuscript folder is intended to contain the same core deliverables:
 
 - source transcription as `*.txt`
-- line-by-line annotated companion as `*.annotated.txt`
+- line-by-line annotated companion as `*.annotated.tsv`
 - manuscript TEI record as `tei.xml`
-- particular argumentation terms, fields, researchers, and manuscript-level analytics data, such as `term_frequency_all.csc` and `visualization_all.csv`.
+- manuscript-level analytical companion files derived from the encoded witness, such as `term_frequency.csv` and `visualization_entities.csv`, with repository-wide aggregate files at the root as `term_frequency_all.csv` and `visualization_all.csv`
 - local PDF witness
 
 ### Note 
 
 The CSV files are light analytical aids, not authoritative scholarly ontologies. In folders where the raw transcription preserves duplicate or appended non-target material, the CSVs follow the main encoded witness rather than blindly counting every line in the raw file.
+
+The `.annotated.tsv` companions and the aggregate CSV files are saved as UTF-8 with BOM so that Arabic text opens more reliably in Windows spreadsheet and text-viewing software.
 
 ## Corpus Logic
 
@@ -53,8 +55,8 @@ Each `tei.xml` file carries its own `<editorialDecl>`, but the shared repository
 
 - `Hasiyetül_Kevâkibî_alâ_risâletil_bahs_Tasköprizâde`: the richest TEI profile in the repository; the gloss is encoded as an 8-folio edition with translation and commentary-aware markup.
 - `Risālat fī al-Ādāb al-Baḥth Al-Samarqandi`: the foundational text; encoded as a concise base witness with a translation block and line-based companion annotation.
-- `Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde`: the raw transcription continues with an unrelated logic text beginning with an Abharī/Isagoge-style incipit. That appended logic material is retained in the raw `.txt` and annotated companion but excluded from the main TEI witness and analytical CSV counts.
-- `Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî`: the raw transcription preserves two parallel witnesses. The TEI encodes the cleaner primary witness; the duplicate noisier witness remains documented in the raw `.txt` and annotated companion.
+- `Risâle fî 'ilm-i âdâbi’l-bahŝ ve’l-münâzara Tasköprizâde`: the raw transcription continues with an unrelated logic text beginning with an Abharī/Isagoge-style incipit. That appended logic material is retained in the raw `.txt` and annotated `.tsv` companion but excluded from the main TEI witness and analytical CSV counts.
+- `Serh_‘alâ_âdâbil_bahs_ve’l_münâzarâ_li’l_Birgivî`: the raw transcription preserves two parallel witnesses. The TEI encodes the cleaner primary witness; the duplicate noisier witness remains documented in the raw `.txt` and annotated `.tsv` companion.
 - `Telhîsü’l-Hüseyniyye fi’lâdâb Akkirmani`: the raw transcription ends with an uncertain appended philosophical fragment after the dated colophon. The TEI preserves that fragment as an uncertain appendix, while the main analytical summaries track the summary text itself.
 
 ## FAIR and Licensing
@@ -62,9 +64,20 @@ Each `tei.xml` file carries its own `<editorialDecl>`, but the shared repository
 The repository is structured for FAIR reuse.
 
 - `Findable`: each TEI document has a stable `xml:id`, local identifier, and shelfmark.
-- `Accessible`: files are plain UTF-8 XML, TXT, and CSV and can be processed with standard tools.
+- `Accessible`: files are plain UTF-8 XML, TXT, TSV, and CSV and can be processed with standard tools.
 - `Interoperable`: metadata uses TEI elements for manuscript description, people, titles, dates, language, and keywords.
 - `Reusable`: each file states its editorial basis and is released under `CC BY 4.0`.
+
+## Local Docker Check
+
+The repository can be served locally from the root `Dockerfile`:
+
+```bash
+docker build --no-cache -t argumentation-theory .
+docker run --rm -p 8000:8000 --name argumentation-theory-test argumentation-theory
+```
+
+The container validates all `tei.xml` files with `xmllint --noout` before starting a UTF-8-aware static file server. This keeps the local browser view aligned with the repository's Unicode text files.
 
 ## Bibliographic References
 
