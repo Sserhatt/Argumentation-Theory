@@ -1,7 +1,0 @@
-FROM python:3.12-alpine
-
-RUN apk add --no-cache libxml2-utils
-WORKDIR /app
-COPY . /app
-EXPOSE 8000
-CMD ["sh", "-c", "find /app -name '*.xml' -print0 | xargs -0 -n1 xmllint --noout && python3 -m http.server 8000 --directory /app"]
