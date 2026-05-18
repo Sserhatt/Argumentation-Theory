@@ -1,5 +1,7 @@
+import argparse
 from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
 
 
 TEXT_TYPES = {
@@ -28,9 +30,37 @@ class UTF8StaticHandler(SimpleHTTPRequestHandler):
         super().send_header(keyword, value)
 
 
-if __name__ == "__main__":
-    server = ThreadingHTTPServer(
-        ("0.0.0.0", 8000),
-        partial(UTF8StaticHandler, directory="/app"),
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Serve this repository with UTF-8 content headers."
     )
+    parser.add_argument(
+        "--host",
+        default="0.0.0.0",
+        help="Host interface to bind. Default: 0.0.0.0",
+    )
+    parser.add_argument(
+        "--port",
+        type=int,
+        default=8000,
+        help="Port to bind. Default: 8000",
+    )
+    parser.add_argument(
+        "--directory",
+        default=None,
+        help="Directory to serve. Defaults to /app when present, otherwise the current working directory.",
+    )
+    return parser.parse_args()
+
+
+if __name__ == "__main__":
+    args = parse_args()
+    default_directory = Path("/app") if Path("/app").is_dir() else Path.cwd()
+    directory = Path(args.directory).resolve() if args.directory else default_directory.resolve()
+
+    server = ThreadingHTTPServer(
+        (args.host, args.port),
+        partial(UTF8StaticHandler, directory=str(directory)),
+    )
+    print(f"Serving {directory} on http://{args.host}:{args.port}")
     server.serve_forever()
