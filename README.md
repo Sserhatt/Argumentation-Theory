@@ -87,12 +87,12 @@ The repository already includes a local HTML visualization file:
 If you want to visualize it in a browser, you can either open the file directly or serve the repository root locally. For example:
 
 ```bash
-python3 -m http.server 8010
+ python3 -m http.server 8010 "
 ```
 
 Then open:
 
-- `http://localhost:8000/adab_al_bahth_corpus_dashboard.html` 
+- `http://localhost:8010/adab_al_bahth_corpus_dashboard.html`  
 
 The dashboard is currently feasible and useful as a lightweight corpus-facing interface. It presents four linked views:
 
