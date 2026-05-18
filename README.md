@@ -87,7 +87,7 @@ The repository already includes a local HTML visualization file:
 If you want to visualize it in a browser, you can either open the file directly or serve the repository root locally. For example:
 
 ```bash
- python3 -m http.server 8010 "
+ python3 -m http.server 8010 
 ```
 
 Then open:
