@@ -60,7 +60,7 @@
                 <extent>8 folios</extent>
                 <foliation xml:lang="en">Catalogued as ff. 83b-90b.</foliation>
                 <layoutDesc>
-                  <layout columns="1" writtenLines="23">
+                  <layout>
                     <p xml:lang="en">Single-column layout, 23 lines per page; page size 210 × 150 mm, written area approximately 135 × 70 mm.</p>
                   </layout>
                 </layoutDesc>
@@ -69,7 +69,7 @@
             <handDesc>
               <handNote script="naskh" xml:lang="ar">نسخي</handNote>
               <handNote script="naskh" xml:lang="en">Naskhi :
-              <p> A legible rounded book hand commonly used in Arabic scholarly manuscripts. It is suitable for dense prose commentary and layered scholastic notation.</p>
+              <p> It is suitable for dense prose commentary and layered scholastic notation.</p>
               </handNote>
             </handDesc>
             <condition>

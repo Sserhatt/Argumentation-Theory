@@ -8,6 +8,8 @@ TEXT_TYPES = {
     "text/css",
     "text/csv",
     "text/xml",
+    "text/txt",
+    "text/tsv",
     "application/xml",
     "application/javascript",
     "text/javascript",
