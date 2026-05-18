@@ -1,0 +1,328 @@
+
+<style>
+  .tab-btn{background:none;border:none;padding:8px 14px;font-size:13px;color:var(--color-text-secondary);cursor:pointer;border-bottom:2px solid transparent;transition:all .2s}
+  .tab-btn.active{color:var(--color-text-primary);border-bottom:2px solid var(--color-text-primary);font-weight:500}
+  .chip{display:inline-block;padding:3px 9px;border-radius:20px;font-size:11px;font-weight:500;margin:2px}
+  .ms-btn{background:none;border:0.5px solid var(--color-border-secondary);border-radius:20px;padding:4px 10px;font-size:12px;cursor:pointer;color:var(--color-text-secondary);transition:all .15s}
+  .ms-btn.active{border-color:var(--color-border-primary);color:var(--color-text-primary);background:var(--color-background-secondary);font-weight:500}
+  .bar-row{display:flex;align-items:center;gap:8px;margin:4px 0}
+  .bar-label{font-size:12px;color:var(--color-text-secondary);width:210px;flex-shrink:0;text-align:right}
+  .bar-track{flex:1;height:18px;background:var(--color-background-secondary);border-radius:3px;position:relative;overflow:hidden}
+  .bar-fill{height:100%;border-radius:3px;transition:width .4s cubic-bezier(.4,0,.2,1)}
+  .bar-val{font-size:12px;color:var(--color-text-secondary);width:28px;flex-shrink:0}
+  .legend-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0}
+  .seg-row{display:flex;align-items:center;gap:6px;margin:5px 0}
+  .seg-bar{height:22px;border-radius:2px;min-width:2px;transition:width .4s}
+  .person-card{background:var(--color-background-secondary);border-radius:8px;padding:10px 12px;margin:5px 0;display:flex;gap:10px;align-items:flex-start}
+  .person-dot{width:36px;height:36px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;flex-shrink:0}
+</style>
+<h2 class="sr-only">Ādāb al-Baḥth Corpus Dashboard — interactive term frequency and entity analysis across five manuscripts</h2>
+
+<div style="padding:1rem 0 0.5rem">
+  <div style="font-size:11px;color:var(--color-text-tertiary);letter-spacing:.08em;text-transform:uppercase;margin-bottom:4px">Ādāb al-Baḥth wa-l-Munāẓara — Corpus Dashboard</div>
+  <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:1rem">
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px 16px;flex:1;min-width:80px">
+      <div style="font-size:22px;font-weight:500">5</div>
+      <div style="font-size:12px;color:var(--color-text-secondary)">manuscripts</div>
+    </div>
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px 16px;flex:1;min-width:80px">
+      <div style="font-size:22px;font-weight:500">679</div>
+      <div style="font-size:12px;color:var(--color-text-secondary)">annotated lines</div>
+    </div>
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px 16px;flex:1;min-width:80px">
+      <div style="font-size:22px;font-weight:500">114</div>
+      <div style="font-size:12px;color:var(--color-text-secondary)">named entities</div>
+    </div>
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px 16px;flex:1;min-width:80px">
+      <div style="font-size:22px;font-weight:500">25</div>
+      <div style="font-size:12px;color:var(--color-text-secondary)">distinct terms</div>
+    </div>
+  </div>
+
+  <div style="border-bottom:0.5px solid var(--color-border-tertiary);margin-bottom:12px;display:flex;gap:0">
+    <button class="tab-btn active" onclick="switchTab('terms',this)">Term frequency</button>
+    <button class="tab-btn" onclick="switchTab('entities',this)">Entity types</button>
+    <button class="tab-btn" onclick="switchTab('persons',this)">Scholars</button>
+    <button class="tab-btn" onclick="switchTab('network',this)">Term network</button>
+  </div>
+
+  <div id="tab-terms">
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px">
+      <button class="ms-btn active" onclick="setMs('all',this)">All manuscripts</button>
+      <button class="ms-btn" onclick="setMs('kawakibi',this)">Kawakibi</button>
+      <button class="ms-btn" onclick="setMs('taskoprizade',this)">Taşköprüzāde</button>
+      <button class="ms-btn" onclick="setMs('samarqandi',this)">Samarqandī</button>
+      <button class="ms-btn" onclick="setMs('birgivi',this)">Birgivī</button>
+      <button class="ms-btn" onclick="setMs('aqkirmani',this)">Aqkirmānī</button>
+    </div>
+    <div id="bars-container"></div>
+    <div style="font-size:11px;color:var(--color-text-tertiary);margin-top:8px">Arabic root shown in parentheses · sorted by aggregate frequency</div>
+  </div>
+
+  <div id="tab-entities" style="display:none">
+    <div style="margin-bottom:8px;font-size:13px;color:var(--color-text-secondary)">Entity type distribution across manuscripts (bar width = proportion)</div>
+    <div id="entity-chart"></div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px" id="entity-legend"></div>
+  </div>
+
+  <div id="tab-persons" style="display:none">
+    <div id="persons-list"></div>
+    <div style="font-size:11px;color:var(--color-text-tertiary);margin-top:6px">Dates in CE · ~ = approximate · cards link to manuscripts where the scholar appears</div>
+  </div>
+
+  <div id="tab-network" style="display:none">
+    <div style="font-size:13px;color:var(--color-text-secondary);margin-bottom:8px">Co-occurrence of terms across manuscripts — size = total frequency, color = dominant manuscript</div>
+    <div style="position:relative;width:100%;height:320px;background:var(--color-background-secondary);border-radius:10px;overflow:hidden" id="network-canvas">
+      <canvas id="nc" width="640" height="320"></canvas>
+    </div>
+    <div style="font-size:11px;color:var(--color-text-tertiary);margin-top:6px">Hover nodes to see term details · edge weight = shared manuscript count</div>
+  </div>
+</div>
+
+<script>
+const COLORS = {
+  kawakibi:  {fill:'#185FA5', light:'#E6F1FB'},
+  taskoprizade: {fill:'#0F6E56', light:'#E1F5EE'},
+  samarqandi: {fill:'#B05508', light:'#FAEEDA'},
+  birgivi:   {fill:'#993556', light:'#FBEAF0'},
+  aqkirmani: {fill:'#534AB7', light:'#EEEDFE'},
+};
+
+const ENTITY_COLORS = {
+  concept:'#185FA5', discipline:'#0F6E56', person:'#B05508',
+  textual_feature:'#993556', place:'#534AB7', manuscript_feature:'#73726c', tradition:'#3C3489'
+};
+
+const termData = {
+  all:[
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:83},
+    {term:'Objection (al-manʿ)',ar:'المنع',count:61},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:44},
+    {term:'Questioner (al-sāʾil)',ar:'السائل',count:40},
+    {term:'Refutation (al-naqḍ)',ar:'النقض',count:36},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:30},
+    {term:'Consideration (al-naẓar)',ar:'النظر',count:29},
+    {term:'Ground of objection (al-sanad)',ar:'السند',count:27},
+    {term:'Inquiry (al-baḥth)',ar:'البحث',count:27},
+    {term:'Expositor/proponent (al-muʿallal)',ar:'المعلل',count:20},
+    {term:'Definition (al-taʿrīf)',ar:'التعريف',count:17},
+    {term:'Debate (al-munāẓara)',ar:'المناظرة',count:16},
+    {term:'Procedural usurpation (al-ghaṣb)',ar:'الغصب',count:15},
+    {term:'Accidents / events (al-ḥawādith)',ar:'الحوادث',count:13},
+    {term:'Clarification (al-taḥrīr)',ar:'التحرير',count:7},
+    {term:'Necessary (wājib)',ar:'واجب',count:6},
+    {term:'Division (al-taqsīm)',ar:'التقسيم',count:4},
+    {term:'Efficient cause (al-muʾaththir)',ar:'المؤثر',count:4},
+    {term:'Possible/contingent (al-mumkin)',ar:'الممكن',count:3},
+    {term:'Concomitance (al-dawārān)',ar:'الدوران',count:3},
+  ],
+  kawakibi:[
+    {term:'Objection (al-manʿ)',ar:'المنع',count:45},
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:48},
+    {term:'Questioner (al-sāʾil)',ar:'السائل',count:31},
+    {term:'Consideration (al-naẓar)',ar:'النظر',count:27},
+    {term:'Ground of objection (al-sanad)',ar:'السند',count:18},
+    {term:'Refutation (al-naqḍ)',ar:'النقض',count:17},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:14},
+    {term:'Definition (al-taʿrīf)',ar:'التعريف',count:12},
+    {term:'Procedural usurpation (al-ghaṣb)',ar:'الغصب',count:9},
+    {term:'Debate (al-munāẓara)',ar:'المناظرة',count:9},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:20},
+    {term:'Expositor/proponent (al-muʿallal)',ar:'المعلل',count:20},
+    {term:'Inquiry (al-baḥth)',ar:'البحث',count:22},
+    {term:'Concomitance (al-dawārān)',ar:'الدوران',count:2},
+  ],
+  taskoprizade:[
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:8},
+    {term:'Proponent (al-muʿallal)',ar:'المعلل',count:7},
+    {term:'Debate (al-munāẓara)',ar:'المناظرة',count:5},
+    {term:'Questioner (al-sāʾil)',ar:'السائل',count:4},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:3},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:3},
+    {term:'Ground of objection (al-sanad)',ar:'السند',count:2},
+    {term:'Obstinate denial (mukābara)',ar:'مكابرة',count:2},
+  ],
+  samarqandi:[
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:16},
+    {term:'Accidents/events (al-ḥawādith)',ar:'الحوادث',count:13},
+    {term:'Proponent (al-muʿallal)',ar:'المعلل',count:12},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:8},
+    {term:'Refutation (al-naqḍ)',ar:'النقض',count:7},
+    {term:'Objection (al-manʿ)',ar:'المنع',count:6},
+    {term:'Necessary (wājib)',ar:'واجب',count:6},
+    {term:'Inquiry (al-baḥth)',ar:'البحث',count:5},
+    {term:'Questioner (al-sāʾil)',ar:'السائل',count:5},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:4},
+    {term:'Efficient cause (al-muʾaththir)',ar:'المؤثر',count:4},
+    {term:'Possible/contingent (al-mumkin)',ar:'الممكن',count:3},
+  ],
+  birgivi:[
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:4},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:3},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:3},
+    {term:'Debater (al-munāẓir)',ar:'المناظر',count:2},
+    {term:'Refutation (al-naqḍ)',ar:'النقض',count:1},
+    {term:'Ground of objection (al-sanad)',ar:'السند',count:1},
+  ],
+  aqkirmani:[
+    {term:'Refutation (al-naqḍ)',ar:'النقض',count:10},
+    {term:'Counter-proof (al-muʿāraḍa)',ar:'المعارضة',count:10},
+    {term:'Objection (al-manʿ)',ar:'المنع',count:10},
+    {term:'Proof (al-dalīl)',ar:'الدليل',count:7},
+    {term:'Clarification (al-taḥrīr)',ar:'التحرير',count:7},
+    {term:'Contradiction (al-munāqaḍa)',ar:'المناقضة',count:6},
+    {term:'Definition (al-taʿrīf)',ar:'التعريف',count:5},
+    {term:'Procedural usurpation (al-ghaṣb)',ar:'الغصب',count:4},
+    {term:'Division (al-taqsīm)',ar:'التقسيم',count:4},
+    {term:'Ground of objection (al-sanad)',ar:'السند',count:3},
+  ]
+};
+
+const entityData = [
+  {ms:'Al-Kawakibi Gloss on Taskoprizade', short:'Kawakibi', concept:9, discipline:7, manuscript_feature:1, person:9, place:2, textual_feature:3, tradition:0},
+  {ms:'Al-Samarqandi Treatise on Adab al-Bahth', short:'Samarqandī', concept:13, discipline:3, manuscript_feature:1, person:3, place:1, textual_feature:3, tradition:0},
+  {ms:'Aqkirmānī Talhis al-Husayniyya', short:'Aqkirmānī', concept:10, discipline:2, manuscript_feature:1, person:3, place:1, textual_feature:3, tradition:0},
+  {ms:'Birgivi Commentary Witness', short:'Birgivī', concept:9, discipline:0, manuscript_feature:1, person:3, place:1, textual_feature:3, tradition:1},
+  {ms:'Taskoprizade Treatise on Debate', short:'Taşköprüzāde', concept:13, discipline:1, manuscript_feature:1, person:2, place:1, textual_feature:3, tradition:0},
+];
+
+const personsData = [
+  {name:'Shams al-Dīn al-Samarqandī', role:'Founder of ādāb al-baḥth', birth:'~1250', death:'~1310', color:'#B05508', init:'SS'},
+  {name:'Rukn al-Dīn al-ʿĀmidī', role:'Logicized juristic dialectic', birth:'', death:'1218', color:'#0F6E56', init:'RA'},
+  {name:'Fakhr al-Dīn al-Rāzī', role:'Post-Avicennan philosophy/theology', birth:'1149', death:'1210', color:'#0F6E56', init:'FR'},
+  {name:'Ibn al-Ḥājib', role:'Grammar/legal theory', birth:'1174', death:'1249', color:'#185FA5', init:'IH'},
+  {name:'Athīr al-Dīn al-Abharī', role:'Logic and philosophy', birth:'1198', death:'1265', color:'#0F6E56', init:'AA'},
+  {name:'Abū Ḥanīfa', role:'Founding jurist (Ḥanafī school)', birth:'699', death:'767', color:'#534AB7', init:'AH'},
+  {name:'Aḥmad Taşköprüzāde', role:'Ottoman encyclopedist, debater', birth:'1495', death:'1561', color:'#185FA5', init:'AT'},
+  {name:'Birgivī Meḥmed Efendi', role:'Ottoman scholar, commentator', birth:'1523', death:'1573', color:'#993556', init:'BM'},
+  {name:'Abū al-Suʿūd al-Kawākibī', role:'Glossator on Taşköprüzāde', birth:'1679', death:'1724', color:'#534AB7', init:'AK'},
+];
+
+let currentMs = 'all';
+
+function renderBars(key) {
+  const data = termData[key] || termData.all;
+  const maxVal = Math.max(...data.map(d=>d.count));
+  const colorMap = {kawakibi:'#185FA5',taskoprizade:'#0F6E56',samarqandi:'#BA7517',birgivi:'#993556',aqkirmani:'#534AB7',all:'#185FA5'};
+  const fill = colorMap[key] || '#185FA5';
+  const sorted = [...data].sort((a,b)=>b.count-a.count);
+  document.getElementById('bars-container').innerHTML = sorted.map(d=>`
+    <div class="bar-row">
+      <div class="bar-label">${d.term}</div>
+      <div class= "bar-label">${d.ar}</div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${Math.round(d.count/maxVal*100)}%;background:${fill};opacity:.85"></div>
+      </div>
+      <div class="bar-val">${d.count}</div>
+    </div>
+  `).join('');
+}
+
+function renderEntityChart() {
+  const types = ['concept','person','discipline','textual_feature','place','manuscript_feature','tradition'];
+  const tLabels = {concept:'Concept',person:'Person',discipline:'Discipline',textual_feature:'Textual feature',place:'Place',manuscript_feature:'MS feature',tradition:'Tradition'};
+  const ec = document.getElementById('entity-chart');
+  ec.innerHTML = entityData.map(row=>{
+    const total = types.reduce((s,t)=>s+row[t],0);
+    const segs = types.map(t=>({type:t,count:row[t],pct:Math.round(row[t]/total*100)})).filter(s=>s.count>0);
+    return `<div style="margin:8px 0">
+      <div style="font-size:12px;color:var(--color-text-secondary);margin-bottom:3px">${row.short}</div>
+      <div style="display:flex;gap:2px;height:22px;border-radius:4px;overflow:hidden">
+        ${segs.map(s=>`<div class="seg-bar" style="width:${s.pct}%;background:${ENTITY_COLORS[s.type]};opacity:.8" title="${tLabels[s.type]}: ${s.count}"></div>`).join('')}
+      </div>
+    </div>`;
+  }).join('');
+  document.getElementById('entity-legend').innerHTML = types.map(t=>`
+    <div style="display:flex;align-items:center;gap:5px;font-size:12px;color:var(--color-text-secondary)">
+      <div style="width:10px;height:10px;border-radius:2px;background:${ENTITY_COLORS[t]};opacity:.8"></div>
+      ${tLabels[t]}
+    </div>
+  `).join('');
+}
+
+function renderPersons() {
+  document.getElementById('persons-list').innerHTML = personsData.map(p=>`
+    <div class="person-card">
+      <div class="person-dot" style="background:${p.color}20;color:${p.color}">${p.init}</div>
+      <div>
+t        <div style="font-size:12px;color:var(--color-text-secondary)">${p.role}</div>
+        ${p.birth||p.death?`<div style="font-size:11px;color:var(--color-text-tertiary);margin-top:2px">${p.birth?'b. '+p.birth:''} ${p.death?'· d. '+p.death:''}</div>`:''}
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderNetwork() {
+  const canvas = document.getElementById('nc');
+  const ctx = canvas.getContext('2d');
+  const W=640, H=320;
+  canvas.width=W; canvas.height=H;
+  const nodes=[
+    {id:'proof',label:'Proof',x:320,y:90,r:22,color:'#185FA5'},
+    {id:'objection',label:'Objection',x:170,y:155,r:18,color:'#0F6E56'},
+    {id:'counterproof',label:'Counter-proof',x:460,y:155,r:16,color:'#B05508'},
+    {id:'questioner',label:'Questioner',x:115,y:240,r:15,color:'#185FA5'},
+    {id:'refutation',label:'Refutation',x:250,y:255,r:14,color:'#0F6E56'},
+    {id:'contradiction',label:'Contradiction',x:390,y:255,r:13,color:'#993556'},
+    {id:'nazan',label:'Consideration',x:530,y:240,r:13,color:'#B05508'},
+    {id:'sanad',label:'Ground/support',x:200,y:295,r:11,color:'#534AB7'},
+    {id:'definition',label:'Definition',x:440,y:295,r:10,color:'#534AB7'},
+  ];
+  const edges=[
+    ['proof','objection',.9],['proof','counterproof',.8],['proof','refutation',.7],
+    ['objection','questioner',.9],['objection','refutation',.8],['objection','sanad',.7],
+    ['counterproof','contradiction',.8],['counterproof','refutation',.6],
+    ['refutation','contradiction',.7],['nazan','proof',.5],['nazan','counterproof',.5],
+    ['questioner','sanad',.6],['definition','proof',.4],
+  ];
+  const nodeMap = {};
+  nodes.forEach(n=>{nodeMap[n.id]=n;});
+  const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const edgeColor = isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.08)';
+  ctx.clearRect(0,0,W,H);
+  edges.forEach(([a,b,w])=>{
+    const na=nodeMap[a],nb=nodeMap[b];
+    ctx.beginPath();
+    ctx.moveTo(na.x,na.y);
+    ctx.lineTo(nb.x,nb.y);
+    ctx.strokeStyle=edgeColor;
+    ctx.lineWidth=w*3;
+    ctx.stroke();
+  });
+  nodes.forEach(n=>{
+    ctx.beginPath();
+    ctx.arc(n.x,n.y,n.r,0,Math.PI*2);
+    ctx.fillStyle=n.color+'30';
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(n.x,n.y,n.r,0,Math.PI*2);
+    ctx.strokeStyle=n.color;
+    ctx.lineWidth=1.5;
+    ctx.stroke();
+    ctx.fillStyle=isDark?'#c2c0b6':'#3d3d3a';
+    ctx.font='11px sans-serif';
+    ctx.textAlign='center';
+    ctx.fillText(n.label,n.x,n.y+n.r+13);
+  });
+}
+
+function setMs(key, btn) {
+  document.querySelectorAll('.ms-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  currentMs = key;
+  renderBars(key);
+}
+
+function switchTab(tab, btn) {
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  ['terms','entities','persons','network'].forEach(t=>{
+    document.getElementById('tab-'+t).style.display = t===tab?'block':'none';
+  });
+  if(tab==='entities') renderEntityChart();
+  if(tab==='persons') renderPersons();
+  if(tab==='network') renderNetwork();
+}
+
+renderBars('all');
+</script>

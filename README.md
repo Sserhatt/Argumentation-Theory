@@ -78,6 +78,35 @@ docker run --rm -p 8000:8000 --name argumentation-theory-test argumentation-theo
 
 The container validates all `tei.xml` files with `xmllint --noout` before starting a UTF-8-aware static file server. This keeps the local browser view aligned with the repository's Unicode text files.
 
+## Corpus Dashboard
+
+The repository already includes a local HTML visualization file:
+
+- `adab_al_bahth_corpus_dashboard.html`
+
+If you want to visualize it in a browser, you can either open the file directly or serve the repository root locally. For example:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open:
+
+- `http://localhost:8000/adab_al_bahth_corpus_dashboard.html`
+
+The dashboard is currently feasible and useful as a lightweight corpus-facing interface. It presents four linked views:
+
+- aggregate term frequency across the five witnesses
+- entity-type distribution by manuscript
+- a scholar/person layer with historical figures cited in the corpus
+- a simple term co-occurrence network across manuscripts
+
+### Short Reading of the Dashboard
+
+At the current state of the corpus, the dashboard summarizes `5` manuscripts, `679` annotated lines, `114` named entities, and `25` distinct tracked technical terms. The strongest shared vocabulary is procedural and debate-oriented: `الدليل` (proof), `المنع` (objection), `المعارضة` (counter-proof), `السائل` (questioner), and `النقض` (refutation) dominate the corpus-wide view.
+
+The manuscript profiles are not identical. The Kawākibī gloss is the densest and most discursive witness, with the strongest concentration of objection, proof, and role-based debate terminology. The Samarqandī witness preserves the foundational conceptual layer, while the Aqkirmānī summary shows a more taxonomic pattern around refutation, opposition, contradiction, clarification, and division. In that sense, the HTML dashboard already works as a useful first visualization of the corpus' pedagogical and commentarial structure, even if it remains a lightweight prototype rather than a final analytical platform.
+
 ## Bibliographic References
 
 The repository-level TEI records and manuscript descriptions currently draw especially on:
